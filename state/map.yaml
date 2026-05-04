@@ -1,0 +1,21 @@
+project:
+  name: Eusocial Interbeing
+  type: original_setting_obsidian_vault
+  root_content_dir: Eusocial Interbeing
+current_status:
+  summary: Baseline vault created with core Airawa, Sa'auei'a, mother-tree, memetic-engine, ecological reciprocity, and inspiration structures.
+  next_action: Name the continents and deepen species biology, reproduction, and sensory ecology.
+active_subgoals:
+  - Expand Airawa biology and imperial caste pressures.
+  - Expand Sa'auei'a family-unit roles, breeding grounds, and mobile technologies.
+  - Define limits and failure states of the Biological Memetic Engine.
+invariants:
+  - Keep setting canon distinct from inspiration notes.
+  - Treat ecology as infrastructure, memory, leverage, and negotiation.
+  - Use path dependency as a civilizational constraint, not a slogan.
+  - Do not import Avatar, Semiosis, or Turtledove proper nouns into setting canon.
+key_files:
+  entrypoint: Eusocial Interbeing/index.md
+  system_map: notes/current-system-map.md
+  implementation_plan: notes/implementation-plan.md
+  handoff: notes/fresh-workspace-handoff.md

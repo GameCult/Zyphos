@@ -1,0 +1,24 @@
+{
+  "branches": [
+    {
+      "id": "airawa-eusocial-form",
+      "hypothesis": "Airawa eusociality may be primarily symbiotic and political rather than strictly reproductive.",
+      "status": "active",
+      "artifacts": [
+        "Eusocial Interbeing/Species/Airawa.md",
+        "Eusocial Interbeing/Ecology/Mother Tree Networks.md"
+      ],
+      "notes": "Needs anatomy and reproductive constraints before imperial eugenics can feel material."
+    },
+    {
+      "id": "saaueia-nomadic-advanced",
+      "hypothesis": "Sa'auei'a civilization can be technologically advanced without cities by making ecological reputation and portable institutions load-bearing.",
+      "status": "active",
+      "artifacts": [
+        "Eusocial Interbeing/Species/Sa'auei'a.md",
+        "Eusocial Interbeing/Civilizations/Sa'auei'a Nomadic Civilization.md"
+      ],
+      "notes": "Needs route law, family roles, and breeding-ground governance."
+    }
+  ]
+}
