@@ -3,8 +3,8 @@ project:
   type: original_setting_obsidian_vault
   root_content_dir: Eusocial Interbeing
 current_status:
-  summary: Baseline vault created with core Airawa, Sa'auei'a, mother-tree, memetic-engine, ecological reciprocity, inspiration structures, and a Zyphos simulation sync surface for Aquarium.
-  next_action: Name the continents and define planetary-scale signatures for Airawa networks, disconnected networks, Sa'auei'a routes, and breeding grounds.
+  summary: Zyphos now has a working close-binary physical baseline: mutually locked with smaller twin Umbros around a dim primary, with low energy availability and daily eclipse pressure shaping ecology and civilization.
+  next_action: Choose the accepted primary-star mass/luminosity, Zyphos-Umbros separation, and eclipse-track geography before painting continental-scale civilization patterns.
 active_subgoals:
   - Expand Airawa biology and imperial caste pressures.
   - Expand Sa'auei'a family-unit roles, breeding grounds, and mobile technologies.
@@ -17,6 +17,7 @@ invariants:
   - Do not import Avatar, Semiosis, or Turtledove proper nouns into setting canon.
 key_files:
   entrypoint: Eusocial Interbeing/index.md
+  zyphos_umbros_binary_system: Eusocial Interbeing/World/Zyphos Umbros Binary System.md
   zyphos_simulation_brief: Eusocial Interbeing/World/Zyphos Simulation Brief.md
   system_map: notes/current-system-map.md
   implementation_plan: notes/implementation-plan.md

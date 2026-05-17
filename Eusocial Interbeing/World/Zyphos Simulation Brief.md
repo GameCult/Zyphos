@@ -32,6 +32,12 @@ civilizational path dependency cannot.
 
 ## Current Canon Inputs
 
+- Zyphos is one member of a close binary terrestrial system with its slightly
+  smaller twin, [[Zyphos Umbros Binary System|Umbros]].
+- Zyphos and Umbros are mutually tidally locked, so each planet hangs in a fixed
+  direction in the other's sky except for precession and libration.
+- The primary star is dim, placing the habitable zone close to the star and
+  making the ecosystem energy-starved relative to Earth.
 - The Airawa home continent is dense with tree-mediated memory networks.
 - The [[Airawa Empire]] controls most of that continent through the
   [[Biological Memetic Engine]].
@@ -58,6 +64,13 @@ networked, and infrastructural. Sa'auei'a signals may be intermittent, route-lik
 seasonal, or clustered around commons. This is a design inference, not final
 canon.
 
+The sky should not behave like a normal Earth-like day with a decorative moon.
+Umbros is a stationary planet-scale presence. In the current working baseline it
+spans roughly 10-13 degrees of sky and produces daily central eclipses around
+one hour long near the relevant equatorial path. Longer dimming and penumbra are
+available, but multi-hour hard eclipses require changing the star, masses, or
+separation.
+
 ## Open Questions
 
 - What are the provisional names and rough silhouettes of the two continents?
@@ -69,3 +82,7 @@ canon.
   routes, and ecological partner sites?
 - Does Zyphos show one historical moment, or can the demo expose time slices of
   seasonal and political change?
+- What exact primary-star mass/luminosity and Zyphos-Umbros separation should be
+  accepted after the first physics pass?
+- Which continental or oceanic regions live under the most reliable daily
+  eclipse track?

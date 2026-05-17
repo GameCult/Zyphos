@@ -4,6 +4,7 @@
 
 - [[Airawa Home Continent]]: birthplace of the Airawa species, the mother-tree networks, and the Airawa Empire.
 - [[Sa'auei'a Continent]]: Airawa-free continent where Sa'auei'a nomadic civilization evolved around mobile reciprocity and sacred breeding grounds.
+- [[Zyphos Umbros Binary System]]: working orbital and sky baseline for Zyphos, Umbros, the dim primary, and daily eclipse pressure.
 - [[Zyphos Simulation Brief]]: cross-repo design surface for the Aquarium Engine demo that will visualize this world at planetary scale.
 
 ## Design Notes
