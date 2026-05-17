@@ -2,6 +2,11 @@
 
 Eusocial inter-species dynamics describe systems where reproduction, labor, defense, memory, and status are distributed across multiple species rather than contained inside one social organism.
 
+On Zyphos, this sits on top of [[Mutable Memory Endosymbiosis]]. Inter-species
+eusociality is not an exotic late-stage political arrangement. It is a large
+scale expression of a biosphere where mutable memory exchange is already
+cellular, intercellular, organismal, and ecological.
+
 ## In This Setting
 
 The Airawa-mother-tree relationship is archival eusociality: communal memory and political continuity depend on non-Airawa reproductive bodies.

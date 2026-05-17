@@ -43,6 +43,11 @@ civilizational path dependency cannot.
   direction in the other's sky except for precession and libration.
 - The primary star is dim, placing the habitable zone close to the star and
   making the ecosystem energy-starved relative to Earth.
+- Zyphos life is founded on [[Mutable Memory Endosymbiosis]]: a cellular
+  endosymbiont for mutable memory storage and intercellular transmission.
+- Every level of the biosphere participates in sentient, memory-bearing exchange;
+  organisms can be partially independent, but evolutionary unplugging from the
+  network is not a normal option.
 - The Airawa home continent is dense with tree-mediated memory networks.
 - The [[Airawa Empire]] controls most of that continent through the
   [[Biological Memetic Engine]].
@@ -63,6 +68,12 @@ The Sa'auei'a continent should not read as empty wilderness. Its civilization is
 mobile and remembered by ecology, so visible signs may include seasonal corridors,
 reciprocity routes, defended commons, recurring camps, managed migration paths,
 and breeding-ground clusters rather than fixed city constellations.
+
+Creature and ecology design should not import Earth categories unmodified.
+Bird-, mammal-, insect-, amoeba-, tree-, and fungus-analogues are allowed as
+handles, but their anatomy, behavior, reproduction, disease, migration, and
+politics should emerge from mutable cellular memory and fractal eusocial
+contracts.
 
 Night-side light should be treated carefully. Airawa signals may be controlled,
 networked, and infrastructural. Sa'auei'a signals may be intermittent, route-like,

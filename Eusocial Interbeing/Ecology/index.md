@@ -1,5 +1,6 @@
 # Ecology
 
+- [[Mutable Memory Endosymbiosis]]
 - [[Eusocial Inter-Species Dynamics]]
 - [[Mother Tree Networks]]
 - [[Breeding Grounds]]

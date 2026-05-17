@@ -3,8 +3,8 @@ project:
   type: original_setting_obsidian_vault
   root_content_dir: Eusocial Interbeing
 current_status:
-  summary: Zyphos now has a working close-binary physical baseline: mutually locked with smaller twin Umbros around a dim primary, with low energy availability and daily eclipse pressure shaping ecology and civilization.
-  next_action: Choose the accepted primary-star mass/luminosity, Zyphos-Umbros separation, and eclipse-track geography before painting continental-scale civilization patterns.
+  summary: Zyphos biology now has a foundational mutable-memory endosymbiont: sentience and memory exchange exist at cellular, organismal, social, and ecological scales, making eusocial contracts a biosphere baseline rather than a special institution.
+  next_action: Derive Airawa, Sa'auei'a, mother trees, breeding grounds, pathogens, and organism analogues from mutable memory endosymbiosis instead of Earth taxonomy with added lore.
 active_subgoals:
   - Expand Airawa biology and imperial caste pressures.
   - Expand Sa'auei'a family-unit roles, breeding grounds, and mobile technologies.
@@ -12,11 +12,13 @@ active_subgoals:
   - Keep Zyphos simulation questions synchronized with Aquarium Engine.
 invariants:
   - Keep setting canon distinct from inspiration notes.
+  - Zyphos life is shaped by mutable cellular memory and fractal eusocial contracts before Earth analogue labels.
   - Treat ecology as infrastructure, memory, leverage, and negotiation.
   - Use path dependency as a civilizational constraint, not a slogan.
   - Do not import Avatar, Semiosis, or Turtledove proper nouns into setting canon.
 key_files:
   entrypoint: Eusocial Interbeing/index.md
+  mutable_memory_endosymbiosis: Eusocial Interbeing/Ecology/Mutable Memory Endosymbiosis.md
   zyphos_umbros_binary_system: Eusocial Interbeing/World/Zyphos Umbros Binary System.md
   zyphos_simulation_brief: Eusocial Interbeing/World/Zyphos Simulation Brief.md
   system_map: notes/current-system-map.md
