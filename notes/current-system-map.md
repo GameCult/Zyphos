@@ -6,6 +6,10 @@ The vault has three working layers.
 
 `Eusocial Interbeing/` contains Obsidian-facing notes. The intended reader starts at `Eusocial Interbeing/index.md`, then moves through world, species, civilizations, ecology, technologies, conflicts, themes, and inspirations.
 
+`Eusocial Interbeing/World/Zyphos Simulation Brief.md` is the active bridge to
+the Aquarium Engine Zyphos demo. It holds demo-facing design inference and open
+questions while this vault remains the authority for canon.
+
 ## Inspiration Layer
 
 `Eusocial Interbeing/Inspirations/` records outside source pressure. Avatar is used for living-network contrast. Semiosis is used for nonhuman agency and ecological negotiation. Turtledove is used for technological path dependency.
