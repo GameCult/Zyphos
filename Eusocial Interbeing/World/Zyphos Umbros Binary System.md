@@ -9,6 +9,18 @@ This note is a working physical baseline for the [[Zyphos Simulation Brief]].
 It should stay quantitative enough to constrain the demo, but provisional enough
 to survive better math.
 
+## Physical Priority
+
+Zyphos should bend to physics, not bend physics to preserve an early image. If
+orbital mechanics, energy budget, eclipse duration, climate, tides, or
+biosphere constraints make a desired spectacle smaller, stranger, harsher, or
+more local than first imagined, the setting should follow that pressure.
+
+This is not a realism tax. It is the source of the world's specificity. A
+one-hour daily eclipse, a close habitable zone, a stationary twin world, and a
+low-energy biosphere create better civilization problems than a hand-waved sky
+that does everything on command.
+
 ## Current Baseline
 
 - Zyphos is approximately Earth-sized.

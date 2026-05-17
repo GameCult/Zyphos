@@ -10,6 +10,11 @@ demo raises.
 The Eusocial Interbeing vault owns setting canon. Aquarium owns rendering,
 interaction, performance constraints, and demo implementation.
 
+Physics is a design authority for Zyphos. When the orbital or energy math
+disagrees with a desired image, the worldbuilding should adapt to the math
+instead of relaxing the constraint. The goal is a more compelling grounded world,
+not a decorative astronomy sticker.
+
 Zyphos may force design questions into the open, but it does not silently decide
 canon. If the demo needs a continent shape, network pattern, glow behavior,
 settlement logic, or ecological signal, this note should hold the question or
