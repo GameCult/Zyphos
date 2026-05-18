@@ -15,6 +15,11 @@ trophic-role folders. Each species page is written for behavioral modeling:
 appetite, memory channel, social contract, threat response, bargaining failure,
 and readable NPC actions.
 
+`Eusocial Interbeing/Game Design/` contains Aquarium-facing system plans. The
+fractal NPC simulation plan mirrors mapped fractal domains: behavioral intent,
+domain, grammar, ownership tree, conservative summaries, attention cache,
+simulation packets, and gameplay/render outputs.
+
 ## Inspiration Layer
 
 `Eusocial Interbeing/Inspirations/` records outside source pressure. Avatar is used for living-network contrast. Semiosis is used for nonhuman agency and ecological negotiation. Turtledove is used for technological path dependency.

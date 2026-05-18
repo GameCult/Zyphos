@@ -24,6 +24,7 @@ On another continent, where Airawa never evolved or migrated, the [[Species/Sa'a
 - [[World/index]]
 - [[Ecology/index]]
 - [[Species/index]]
+- [[Game Design/index]]
 - [[Civilizations/index]]
 - [[Technologies/index]]
 
