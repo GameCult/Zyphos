@@ -24,6 +24,11 @@ const routes: Route[] = [
     matches: ["Ecology", "Species"],
   },
   {
+    label: "Graph",
+    slug: "Ecology/Fractal-Eusocial-Web" as FullSlug,
+    matches: ["Ecology/Fractal-Eusocial-Web"],
+  },
+  {
     label: "Civilizations",
     slug: "Civilizations/index" as FullSlug,
     matches: ["Civilizations", "Technologies", "Conflicts", "Themes"],
