@@ -545,6 +545,7 @@ function App() {
           className="zyphos-graph-shell"
           showSidebar={false}
           focusSelection
+          selectionFocusMode="article"
           onExpandedNodeClick={onArticleLinkClick}
           expandedNode={
             noteSlug
