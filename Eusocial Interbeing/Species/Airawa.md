@@ -14,7 +14,9 @@ The arrangement was not pure harmony. It was a contract with roots.
 
 The tribe that became the [[Airawa Empire]] invented the [[Biological Memetic Engine]] to stop mother trees from holding communal memory hostage. The engine let them overwrite rival tribes through the same networks those tribes trusted.
 
-Imperial Airawa now define worth through managed heredity, doctrinal compliance, engineered symbiosis, and service to continental unification.
+Imperial Airawa now define worth through managed heredity, doctrinal compliance,
+engineered symbiosis, and service to imperial unification. Official doctrine
+still calls that continental destiny. The continent has not agreed.
 
 ## Open Questions
 

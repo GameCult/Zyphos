@@ -2,7 +2,9 @@
 
 The Xenophobic Memetic Campaign is the Airawa Empire's response to discovering the [[Sa'auei'a]].
 
-Because the imperial center can shape belief across most of the [[Airawa Home Continent]], it floods citizens with totalitarian xenophobic payloads:
+Because the imperial center can shape belief across the imperial quarter of the
+[[Airawa Home Continent]], it floods citizens with totalitarian xenophobic
+payloads:
 
 - Sa'auei'a mobility is framed as disease;
 - communal breeding grounds are framed as obscene;

@@ -8,6 +8,12 @@ The engine uses engineered organisms, signals, and ritual payloads to propagate 
 
 It is not simple hypnosis. It is ecological propaganda with teeth in the substrate.
 
+The engine is strongest inside the imperial topology, where borders, archives,
+reproduction, and symbiont traffic have already been engineered for legibility.
+It is less reliable against native [[Nation Scale Interbeings]] whose boundaries
+are locally negotiated, partially closed, and not organized around one imperial
+root.
+
 ## Path Dependency
 
 The engine was so powerful that the empire learned to solve every problem through memetic-biological intervention:

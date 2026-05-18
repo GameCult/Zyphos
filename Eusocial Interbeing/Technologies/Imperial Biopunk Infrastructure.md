@@ -13,4 +13,8 @@ Imperial biopunk infrastructure grows from the [[Biological Memetic Engine]]. Th
 
 ## Limit
 
-The infrastructure is strongest where networks are connected and legible. It is weaker against [[Disconnected Tree Networks]] and against the [[Sa'auei'a Continent]], where cooperation is distributed through many local ecological relationships rather than one continental archive.
+The infrastructure is strongest where networks are connected, legible, and
+already shaped by imperial boundary discipline. It is weaker against native
+[[Nation Scale Interbeings]], [[Disconnected Tree Networks]], and the
+[[Sa'auei'a Continent]], where cooperation is distributed through many local
+ecological relationships rather than one continental archive.

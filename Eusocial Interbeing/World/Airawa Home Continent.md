@@ -6,7 +6,20 @@ The continent's political history is defined by a single technological rupture: 
 
 ## Present Condition
 
-Most of the continent is controlled by the [[Airawa Empire]]. Official maps show a unified civil ecology. In practice, several [[Disconnected Tree Networks]] survived by severing themselves before the engine fully saturated the living substrate.
+Roughly one quarter of the continent is controlled by the [[Airawa Empire]].
+Official imperial maps show a unified civil ecology expanding into uncivilized
+remnants. The map is propaganda with borders.
+
+The remaining three quarters are a patchwork of native [[Nation Scale Interbeings]]:
+mother-tree archival polities, disconnected resistance networks, migratory route
+bodies, fungal-road systems, wetland confederacies, reef-linked coasts, and
+local Airawa societies that never accepted imperial topology as liberation.
+
+Several [[Disconnected Tree Networks]] survived by severing themselves before
+the engine fully saturated the living substrate. Other native nations were never
+simple branches of the imperial network in the first place, which makes them
+harder to describe in imperial categories and harder to conquer through a single
+root.
 
 The empire denies these networks exist because admitting they exist would prove three dangerous facts:
 

@@ -49,8 +49,10 @@ civilizational path dependency cannot.
   organisms can be partially independent, but evolutionary unplugging from the
   network is not a normal option.
 - The Airawa home continent is dense with tree-mediated memory networks.
-- The [[Airawa Empire]] controls most of that continent through the
-  [[Biological Memetic Engine]].
+- The [[Airawa Empire]] controls roughly one quarter of that continent through
+  the [[Biological Memetic Engine]].
+- The rest is a patchwork of native [[Nation Scale Interbeings]] with varied
+  boundary permeability.
 - Several [[Disconnected Tree Networks]] survived by severing themselves from
   the saturated living substrate.
 - The Sa'auei'a continent never produced Airawa and was not shaped by

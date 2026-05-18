@@ -73,6 +73,24 @@ The useful question is not "is this alive enough to count?" The useful question
 is "what scale is remembering, what can it transmit, and what does it demand in
 return?"
 
+## Nation Scale Bodies
+
+At the largest ordinary scale, mutable memory ecosystems can become
+[[Nation Scale Interbeings]]. These are not ordinary states sitting on top of
+ecology. They are ecology organized into political agency.
+
+Their borders are living permeability gradients. A boundary may allow nutrient
+exchange while refusing memory copying, welcome pollinator bodies while rejecting
+foreign reproductive tissue, or admit travelers only after their symbionts are
+rewritten into local compatibility. Boundary policy is therefore foreign policy.
+
+The [[Airawa Empire]] is one such being, but an artificial one. Most native
+nation scale systems grow through layered negotiation among organisms, places,
+routes, and archives. The empire instead imposes a strict internal memetic
+topology through the [[Biological Memetic Engine]], making its social body behave
+less like a negotiated ecology and more like a biological singularity whose
+founding utility function still worships the blood and doctrine of one tribe.
+
 ## Civilizational Pressure
 
 Airawa, Sa'auei'a, mother trees, breeding grounds, ecological partners, parasites,
