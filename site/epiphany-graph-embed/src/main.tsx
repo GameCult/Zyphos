@@ -487,6 +487,34 @@ function App() {
     return () => window.removeEventListener("hashchange", onHashChange)
   }, [slugs])
 
+  const selectNote = React.useCallback((slug: string) =>
+    setSelection({
+      kind: "node",
+      graphKey: "architecture",
+      nodeId: slug,
+    }), [])
+
+  const onArticleLinkClick = React.useCallback(
+    (event: React.MouseEvent<HTMLElement>) => {
+      const anchor = (event.target as HTMLElement).closest("a[href]")
+
+      if (!(anchor instanceof HTMLAnchorElement)) {
+        return
+      }
+
+      const slug = slugFromArticleUrl(anchor.href, slugs)
+
+      if (!slug) {
+        return
+      }
+
+      event.preventDefault()
+      event.stopPropagation()
+      selectNote(slug)
+    },
+    [selectNote, slugs],
+  )
+
   if (error) {
     return (
       <pre className="zyphos-graph-error">
@@ -515,20 +543,27 @@ function App() {
           onSelectionChange={setSelection}
           overlayPanels
           className="zyphos-graph-shell"
-          sidebarWidth="50vw"
-          sidebar={
-            <ArticlePanel
-              articleState={articleState}
-              contentIndex={contentIndex}
-              selection={selection}
-              onSelectNote={(slug) =>
-                setSelection({
-                  kind: "node",
+          showSidebar={false}
+          focusSelection
+          onExpandedNodeClick={onArticleLinkClick}
+          expandedNode={
+            noteSlug
+              ? {
                   graphKey: "architecture",
-                  nodeId: slug,
-                })
-              }
-            />
+                  nodeId: noteSlug,
+                  className: "zyphos-expanded-article-node",
+                  ariaLabel: `${entryTitle(noteSlug, contentIndex?.[noteSlug])} article node`,
+                  content: (
+                    <ArticlePanel
+                      articleState={articleState}
+                      contentIndex={contentIndex}
+                      selection={selection}
+                      onSelectNote={selectNote}
+                      onArticleLinkClick={onArticleLinkClick}
+                    />
+                  ),
+                }
+              : undefined
           }
           graphLabels={{
             architecture: "Notes",
@@ -553,15 +588,16 @@ function ArticlePanel({
   contentIndex,
   selection,
   onSelectNote,
+  onArticleLinkClick,
 }: {
   articleState: ArticleState
   contentIndex: QuartzContentIndex | null
   selection: ViewerSelection | null
   onSelectNote: (slug: string) => void
+  onArticleLinkClick: (event: React.MouseEvent<HTMLElement>) => void
 }) {
   const noteSlug = selectedNoteSlug(selection)
   const section = selectedSection(selection)
-  const slugs = React.useMemo(() => new Set(Object.keys(contentIndex ?? {}).map(normalizeSlug)), [contentIndex])
   const note = noteSlug && contentIndex ? contentIndex[noteSlug] : null
   const sectionNotes = React.useMemo(() => {
     if (!section || !contentIndex) {
@@ -573,26 +609,6 @@ function ArticlePanel({
       .filter(([slug]) => sectionForSlug(slug) === section)
       .sort(([left, leftEntry], [right, rightEntry]) => entryTitle(left, leftEntry).localeCompare(entryTitle(right, rightEntry)))
   }, [contentIndex, section])
-
-  const onArticleClick = React.useCallback(
-    (event: React.MouseEvent<HTMLElement>) => {
-      const anchor = (event.target as HTMLElement).closest("a[href]")
-
-      if (!(anchor instanceof HTMLAnchorElement)) {
-        return
-      }
-
-      const slug = slugFromArticleUrl(anchor.href, slugs)
-
-      if (!slug) {
-        return
-      }
-
-      event.preventDefault()
-      onSelectNote(slug)
-    },
-    [onSelectNote, slugs],
-  )
 
   if (section) {
     return (
@@ -639,14 +655,14 @@ function ArticlePanel({
       {articleState.status === "ready" && (
         <div
           className="zyphos-spa-article"
-          onClick={onArticleClick}
+          onClick={onArticleLinkClick}
           dangerouslySetInnerHTML={{ __html: articleState.html }}
         />
       )}
       {articleState.status !== "ready" && articleState.html && (
         <div
           className="zyphos-spa-article"
-          onClick={onArticleClick}
+          onClick={onArticleLinkClick}
           dangerouslySetInnerHTML={{ __html: articleState.html }}
         />
       )}

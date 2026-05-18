@@ -88,6 +88,17 @@ body.zyphos-graph-spa-active {
   grid-row: 1 / -1;
 }
 
+.zyphos-expanded-article-node {
+  box-sizing: border-box;
+  padding: clamp(1.2rem, 2.2vw, 2.4rem);
+  scrollbar-color: rgba(142, 223, 176, 0.58) rgba(3, 7, 13, 0.32);
+}
+
+.zyphos-expanded-article-node .zyphos-spa-panel {
+  max-height: none;
+  overflow: visible;
+}
+
 .zyphos-spa-panel {
   min-height: 0;
   max-height: 100%;
