@@ -614,8 +614,13 @@ function ArticlePanel({
   if (section) {
     return (
       <article className="zyphos-spa-panel">
-        <p className="zyphos-spa-kicker">Section Cluster</p>
-        <h1>{section}</h1>
+        <header className="zyphos-spa-article-header">
+          <span className="zyphos-spa-node-badge" aria-hidden="true">{initialsForTitle(section)}</span>
+          <span className="zyphos-spa-title-cluster">
+            <p className="zyphos-spa-kicker">Section Cluster</p>
+            <h1>{section}</h1>
+          </span>
+        </header>
         <p className="zyphos-spa-summary">
           {sectionNotes.length} notes live in this section. Pick one and the graph becomes the table of contents it was clearly auditioning to be.
         </p>
@@ -634,8 +639,13 @@ function ArticlePanel({
   if (!noteSlug || !note) {
     return (
       <article className="zyphos-spa-panel">
-        <p className="zyphos-spa-kicker">Graph Atlas</p>
-        <h1>Zyphos</h1>
+        <header className="zyphos-spa-article-header">
+          <span className="zyphos-spa-node-badge" aria-hidden="true">ZY</span>
+          <span className="zyphos-spa-title-cluster">
+            <p className="zyphos-spa-kicker">Graph Atlas</p>
+            <h1>Zyphos</h1>
+          </span>
+        </header>
         <p className="zyphos-spa-summary">
           Select a note to read it here. The graph is the site map now, which is probably what it was trying to confess.
         </p>
@@ -646,8 +656,11 @@ function ArticlePanel({
   return (
     <article className="zyphos-spa-panel">
       <header className="zyphos-spa-article-header">
-        <p className="zyphos-spa-kicker">{sectionForSlug(noteSlug)}</p>
-        <h1>{entryTitle(noteSlug, note)}</h1>
+        <span className="zyphos-spa-node-badge" aria-hidden="true">{initialsForTitle(entryTitle(noteSlug, note))}</span>
+        <span className="zyphos-spa-title-cluster">
+          <p className="zyphos-spa-kicker">{sectionForSlug(noteSlug)}</p>
+          <h1>{entryTitle(noteSlug, note)}</h1>
+        </span>
       </header>
       {articleState.status === "loading" && <div className="zyphos-spa-status">Loading article...</div>}
       {articleState.status === "error" && (
@@ -669,6 +682,22 @@ function ArticlePanel({
       )}
     </article>
   )
+}
+
+function initialsForTitle(title: string) {
+  const words = title
+    .replace(/['’]/g, "")
+    .split(/[^A-Za-z0-9]+/)
+    .filter(Boolean)
+
+  if (words.length === 0) {
+    return "ZY"
+  }
+
+  return words
+    .slice(0, 2)
+    .map((word) => word[0]?.toUpperCase() ?? "")
+    .join("")
 }
 
 function mountZyphosGraph() {

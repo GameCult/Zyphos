@@ -90,66 +90,18 @@ body.zyphos-graph-spa-active {
 
 .zyphos-expanded-article-node {
   box-sizing: border-box;
-  padding: clamp(1.2rem, 2.2vw, 2.4rem);
+  padding: var(--node-pad-y, 0.62rem) var(--node-pad-x, 0.82rem);
   scrollbar-color: rgba(142, 223, 176, 0.58) rgba(3, 7, 13, 0.32);
   transition:
-    border-radius 180ms ease,
-    box-shadow 180ms ease,
-    padding 180ms ease;
+    border-radius 120ms ease,
+    box-shadow 120ms ease,
+    padding 120ms ease,
+    opacity 120ms ease;
 }
 
 .zyphos-expanded-article-node .zyphos-spa-panel {
   max-height: none;
   overflow: visible;
-}
-
-.zyphos-expanded-article-node[data-node-stage="summary"] {
-  padding: 0.75rem 1rem;
-  overflow: hidden;
-}
-
-.zyphos-expanded-article-node[data-node-stage="summary"] .zyphos-spa-panel {
-  display: flex;
-  align-items: center;
-  gap: 0.8rem;
-  min-height: 100%;
-}
-
-.zyphos-expanded-article-node[data-node-stage="summary"] .zyphos-spa-kicker,
-.zyphos-expanded-article-node[data-node-stage="summary"] .zyphos-spa-status,
-.zyphos-expanded-article-node[data-node-stage="summary"] .zyphos-spa-article {
-  display: none;
-}
-
-.zyphos-expanded-article-node[data-node-stage="summary"] .zyphos-spa-article-header {
-  margin: 0;
-  min-width: 0;
-}
-
-.zyphos-expanded-article-node[data-node-stage="summary"] .zyphos-spa-panel h1 {
-  margin: 0;
-  overflow: hidden;
-  font-size: 1.05rem;
-  line-height: 1.05;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
-
-.zyphos-expanded-article-node[data-node-stage="preview"] {
-  padding: clamp(1rem, 1.7vw, 1.6rem);
-  overflow: hidden;
-}
-
-.zyphos-expanded-article-node[data-node-stage="preview"] .zyphos-spa-panel h1 {
-  font-size: clamp(1.35rem, 3vw, 2.3rem);
-}
-
-.zyphos-expanded-article-node[data-node-stage="preview"] .zyphos-spa-article > *:nth-child(n + 5) {
-  display: none;
-}
-
-.zyphos-expanded-article-node[data-node-stage="article"] {
-  overflow: auto;
 }
 
 .zyphos-spa-panel {
@@ -160,26 +112,35 @@ body.zyphos-graph-spa-active {
 }
 
 .zyphos-spa-panel h1 {
-  margin: 0 0 0.9rem;
+  max-height: var(--node-title-max-height, 1.12em);
+  margin: 0;
+  overflow: hidden;
   color: #f7fffb;
-  font-size: clamp(1.7rem, 2.8vw, 3.2rem);
-  line-height: 1;
+  font-size: var(--node-title-size, 1.08rem);
+  line-height: 1.04;
   letter-spacing: 0;
 }
 
 .zyphos-spa-kicker {
-  margin: 0 0 0.55rem;
+  margin: 0 0 var(--node-kicker-margin, 0.12rem);
   color: #8edfb0;
   font-size: 0.76rem;
   font-weight: 700;
   letter-spacing: 0.14em;
   text-transform: uppercase;
+  opacity: var(--node-preview, 0);
+  transition:
+    opacity 120ms ease;
 }
 
 .zyphos-spa-summary,
 .zyphos-spa-status {
   color: rgba(239, 252, 248, 0.76);
   line-height: 1.55;
+  max-height: var(--node-preview-height, 0rem);
+  margin-block: var(--node-status-margin, 0rem);
+  overflow: hidden;
+  opacity: var(--node-preview, 0);
 }
 
 .zyphos-spa-status {
@@ -196,7 +157,32 @@ body.zyphos-graph-spa-active {
 }
 
 .zyphos-spa-article-header {
-  margin-bottom: 1rem;
+  display: grid;
+  grid-template-columns: var(--node-badge-size, 3rem) minmax(0, 1fr);
+  align-items: center;
+  gap: var(--node-panel-gap, 0.72rem);
+  min-height: var(--node-badge-size, 3rem);
+  margin-bottom: var(--node-header-margin, 0rem);
+}
+
+.zyphos-spa-node-badge {
+  display: grid;
+  width: var(--node-badge-size, 3rem);
+  height: var(--node-badge-size, 3rem);
+  place-items: center;
+  border-radius: 999px;
+  background: linear-gradient(160deg, #69e2ef, #c2f5f0);
+  color: #08313a;
+  font-size: var(--node-title-size, 1.08rem);
+  font-weight: 900;
+  line-height: 1;
+  box-shadow:
+    inset 0 0 0 1px rgba(255, 255, 255, 0.28),
+    0 0 var(--node-badge-glow, 1rem) rgba(94, 234, 212, 0.3);
+}
+
+.zyphos-spa-title-cluster {
+  min-width: 0;
 }
 
 .zyphos-spa-actions {
@@ -221,6 +207,13 @@ body.zyphos-graph-spa-active {
 .zyphos-spa-article {
   color: rgba(239, 252, 248, 0.86);
   line-height: 1.65;
+  max-height: var(--node-article-height, 0rem);
+  overflow: hidden;
+  opacity: var(--node-article, 0);
+  transform: translateY(var(--node-article-offset, 0.65rem));
+  transition:
+    opacity 120ms ease,
+    transform 120ms ease;
 }
 
 .zyphos-spa-article h1 {
@@ -245,6 +238,9 @@ body.zyphos-graph-spa-active {
 .zyphos-spa-note-list {
   display: grid;
   gap: 0.7rem;
+  max-height: var(--node-note-list-height, 0rem);
+  overflow: hidden;
+  opacity: var(--node-article, 0);
 }
 
 .zyphos-spa-note-list button {
