@@ -92,11 +92,64 @@ body.zyphos-graph-spa-active {
   box-sizing: border-box;
   padding: clamp(1.2rem, 2.2vw, 2.4rem);
   scrollbar-color: rgba(142, 223, 176, 0.58) rgba(3, 7, 13, 0.32);
+  transition:
+    border-radius 180ms ease,
+    box-shadow 180ms ease,
+    padding 180ms ease;
 }
 
 .zyphos-expanded-article-node .zyphos-spa-panel {
   max-height: none;
   overflow: visible;
+}
+
+.zyphos-expanded-article-node[data-node-stage="summary"] {
+  padding: 0.75rem 1rem;
+  overflow: hidden;
+}
+
+.zyphos-expanded-article-node[data-node-stage="summary"] .zyphos-spa-panel {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  min-height: 100%;
+}
+
+.zyphos-expanded-article-node[data-node-stage="summary"] .zyphos-spa-kicker,
+.zyphos-expanded-article-node[data-node-stage="summary"] .zyphos-spa-status,
+.zyphos-expanded-article-node[data-node-stage="summary"] .zyphos-spa-article {
+  display: none;
+}
+
+.zyphos-expanded-article-node[data-node-stage="summary"] .zyphos-spa-article-header {
+  margin: 0;
+  min-width: 0;
+}
+
+.zyphos-expanded-article-node[data-node-stage="summary"] .zyphos-spa-panel h1 {
+  margin: 0;
+  overflow: hidden;
+  font-size: 1.05rem;
+  line-height: 1.05;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.zyphos-expanded-article-node[data-node-stage="preview"] {
+  padding: clamp(1rem, 1.7vw, 1.6rem);
+  overflow: hidden;
+}
+
+.zyphos-expanded-article-node[data-node-stage="preview"] .zyphos-spa-panel h1 {
+  font-size: clamp(1.35rem, 3vw, 2.3rem);
+}
+
+.zyphos-expanded-article-node[data-node-stage="preview"] .zyphos-spa-article > *:nth-child(n + 5) {
+  display: none;
+}
+
+.zyphos-expanded-article-node[data-node-stage="article"] {
+  overflow: auto;
 }
 
 .zyphos-spa-panel {
