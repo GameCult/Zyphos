@@ -18,6 +18,8 @@ invariants:
   - Do not import Avatar, Semiosis, or Turtledove proper nouns into setting canon.
 key_files:
   entrypoint: Eusocial Interbeing/index.md
+  zyphos_site_overlay: site/quartz.config.ts
+  zyphos_site_layout: site/quartz.layout.ts
   mutable_memory_endosymbiosis: Eusocial Interbeing/Ecology/Mutable Memory Endosymbiosis.md
   zyphos_biosphere_examples: Eusocial Interbeing/Ecology/Zyphos Biosphere Examples.md
   zyphos_umbros_binary_system: Eusocial Interbeing/World/Zyphos Umbros Binary System.md

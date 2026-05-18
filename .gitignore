@@ -22,3 +22,5 @@ state/scratch-compaction-*.md
 /.rag/
 /.tools/
 /.npm-cache/
+/.quartz-build/
+/quartz-site/
