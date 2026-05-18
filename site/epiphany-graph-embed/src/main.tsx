@@ -310,6 +310,14 @@ function App() {
         <EpiphanyGraphViewer
           state={graphState}
           title="Zyphos Vault Backlink Web"
+          graphLabels={{
+            architecture: "Notes",
+            dataflow: "Sections",
+          }}
+          graphDescriptions={{
+            architecture: "Notes are individual vault pages from the Zyphos worldbuilding corpus. Their edges are Quartz wiki links, with incoming backlinks counted into each node.",
+            dataflow: "Sections are folder-level clusters. Their edges summarize how links and backlinks move between regions of the vault.",
+          }}
         />
       </GraphErrorBoundary>
     </main>
