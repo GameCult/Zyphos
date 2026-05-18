@@ -152,6 +152,25 @@ function parseHashSelection(slugs: Set<string>): ViewerSelection | null {
   }
 }
 
+function currentRouteSelection(slugs: Set<string>): ViewerSelection | null {
+  const bodySlug = document.body.dataset.slug
+  const pathSlug = decodeURIComponent(window.location.pathname)
+    .replace(/^\//, "")
+    .replace(/\.html$/, "")
+    .replace(/\/$/, "/index")
+  const slug = normalizeSlug(bodySlug || pathSlug || "index")
+
+  if (!slugs.has(slug)) {
+    return null
+  }
+
+  return {
+    kind: "node",
+    graphKey: "architecture",
+    nodeId: slug,
+  }
+}
+
 function compareSections(left: string, right: string) {
   const leftIndex = SECTION_ORDER.indexOf(left)
   const rightIndex = SECTION_ORDER.indexOf(right)
@@ -396,11 +415,14 @@ function App() {
           const nextSlugs = new Set(Object.keys(nextContentIndex).map(normalizeSlug))
           setContentIndex(nextContentIndex)
           setGraphState(nextGraphState)
-          setSelection(parseHashSelection(nextSlugs) ?? {
-            kind: "node",
-            graphKey: "architecture",
-            nodeId: nextSlugs.has("index") ? "index" : nextGraphState.architecture.nodes[0]?.id ?? "",
-          })
+          setSelection(
+            parseHashSelection(nextSlugs) ??
+              currentRouteSelection(nextSlugs) ?? {
+                kind: "node",
+                graphKey: "architecture",
+                nodeId: nextSlugs.has("index") ? "index" : nextGraphState.architecture.nodes[0]?.id ?? "",
+              },
+          )
         }
       })
       .catch((caught) => {
@@ -493,7 +515,7 @@ function App() {
           onSelectionChange={setSelection}
           overlayPanels
           className="zyphos-graph-shell"
-          sidebarWidth="minmax(360px, 44vw)"
+          sidebarWidth="50vw"
           sidebar={
             <ArticlePanel
               articleState={articleState}
@@ -605,9 +627,6 @@ function ArticlePanel({
       <header className="zyphos-spa-article-header">
         <p className="zyphos-spa-kicker">{sectionForSlug(noteSlug)}</p>
         <h1>{entryTitle(noteSlug, note)}</h1>
-        <div className="zyphos-spa-actions">
-          <a href={slugToArticleUrl(noteSlug)}>Open page</a>
-        </div>
       </header>
       {articleState.status === "loading" && <div className="zyphos-spa-status">Loading article...</div>}
       {articleState.status === "error" && (

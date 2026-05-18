@@ -2,11 +2,13 @@ import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import ZyphosMasthead from "./quartz/components/ZyphosMasthead"
 import ZyphosOverviewSidebar from "./quartz/components/ZyphosOverviewSidebar"
+import ZyphosGraphShell from "./quartz/components/ZyphosGraphShell"
+import ZyphosSinglePageRedirect from "./quartz/components/ZyphosSinglePageRedirect"
 import ZyphosThemeLock from "./quartz/components/ZyphosThemeLock"
 
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [ZyphosThemeLock(), ZyphosMasthead(), Component.Search()],
+  header: [ZyphosSinglePageRedirect(), ZyphosThemeLock(), ZyphosMasthead(), Component.Search()],
   afterBody: [],
   footer: Component.Footer({
     links: {},
@@ -32,7 +34,12 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => !page.fileData.slug?.endsWith("/index") && page.fileData.slug !== "index",
     }),
   ],
-  afterBody: [],
+  afterBody: [
+    Component.ConditionalRender({
+      component: ZyphosGraphShell(),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+  ],
   left: [ZyphosOverviewSidebar()],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),

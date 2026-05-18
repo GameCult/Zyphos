@@ -5,10 +5,6 @@ societies. It is a nested web of memory-bearing contracts. A cell, wound, herd,
 route, reef, breeding ground, and nation can all be political at their own scale
 without becoming the same kind of mind.
 
-<link rel="stylesheet" href="/static/epiphany-graph/assets/viewer.css" />
-<div class="zyphos-epiphany-graph-root"></div>
-<script type="module" src="/static/epiphany-graph/assets/viewer.js"></script>
-
 ## Scale Bands
 
 ### Cellular and Microbial
