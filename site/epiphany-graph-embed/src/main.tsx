@@ -6,6 +6,8 @@ import type {
   EpiphanyGraphEdge,
   EpiphanyGraphNode,
   EpiphanyGraphsState,
+  GraphKey,
+  ViewerSelection,
 } from "../../../../EpiphanyGraph/web/epiphany-graph-viewer/src/lib/types"
 import "./styles.css"
 
@@ -19,6 +21,25 @@ type QuartzContentEntry = {
 }
 
 type QuartzContentIndex = Record<string, QuartzContentEntry>
+
+type ArticleState =
+  | {
+      status: "idle"
+      html: string | null
+    }
+  | {
+      status: "loading"
+      html: string | null
+    }
+  | {
+      status: "ready"
+      html: string
+    }
+  | {
+      status: "error"
+      html: string | null
+      message: string
+    }
 
 declare global {
   interface Window {
@@ -85,6 +106,50 @@ function normalizeSlug(slug: string) {
 
 function sectionForSlug(slug: string) {
   return slug.includes("/") ? slug.split("/")[0] : "Root"
+}
+
+function slugToArticleUrl(slug: string) {
+  if (slug === "index") {
+    return "/index.html"
+  }
+
+  return `/${slug.split("/").map(encodeURIComponent).join("/")}.html`
+}
+
+function slugFromArticleUrl(url: string, slugs: Set<string>) {
+  const parsed = new URL(url, window.location.href)
+
+  if (parsed.origin !== window.location.origin) {
+    return null
+  }
+
+  const decodedPath = decodeURIComponent(parsed.pathname)
+    .replace(/^\//, "")
+    .replace(/\.html$/, "")
+    .replace(/\/$/, "/index")
+  const slug = normalizeSlug(decodedPath || "index")
+
+  return slugs.has(slug) ? slug : null
+}
+
+function parseHashSelection(slugs: Set<string>): ViewerSelection | null {
+  const match = window.location.hash.match(/^#note=(.+)$/)
+
+  if (!match) {
+    return null
+  }
+
+  const slug = normalizeSlug(decodeURIComponent(match[1]))
+
+  if (!slugs.has(slug)) {
+    return null
+  }
+
+  return {
+    kind: "node",
+    graphKey: "architecture",
+    nodeId: slug,
+  }
 }
 
 function compareSections(left: string, right: string) {
@@ -259,20 +324,83 @@ async function loadGraphState() {
     ? await window.fetchData
     : await fetch("/static/contentIndex.json").then((response) => response.json() as Promise<QuartzContentIndex>)
 
-  return buildGraphState(contentIndex)
+  return {
+    contentIndex,
+    graphState: buildGraphState(contentIndex),
+  }
+}
+
+async function loadArticleHtml(slug: string) {
+  const response = await fetch(slugToArticleUrl(slug))
+
+  if (!response.ok) {
+    throw new Error(`Could not load ${slug}: ${response.status}`)
+  }
+
+  const html = await response.text()
+  const documentHtml = new DOMParser().parseFromString(html, "text/html")
+  const article = documentHtml.querySelector("article")
+
+  if (!article) {
+    throw new Error(`No article body found for ${slug}`)
+  }
+
+  const articleUrl = new URL(slugToArticleUrl(slug), window.location.href)
+
+  article.querySelectorAll<HTMLAnchorElement>("a[href]").forEach((anchor) => {
+    anchor.href = new URL(anchor.getAttribute("href") ?? "", articleUrl).toString()
+  })
+
+  article.querySelectorAll<HTMLImageElement>("img[src]").forEach((image) => {
+    image.src = new URL(image.getAttribute("src") ?? "", articleUrl).toString()
+  })
+
+  return article.innerHTML
+}
+
+function selectedNoteSlug(selection: ViewerSelection | null) {
+  return selection?.kind === "node" && selection.graphKey === "architecture" ? selection.nodeId : null
+}
+
+function selectedSection(selection: ViewerSelection | null) {
+  if (selection?.kind !== "node" || selection.graphKey !== "dataflow") {
+    return null
+  }
+
+  return selection.nodeId.replace(/^section:/, "")
 }
 
 function App() {
   const [graphState, setGraphState] = React.useState<EpiphanyGraphsState | null>(null)
+  const [contentIndex, setContentIndex] = React.useState<QuartzContentIndex | null>(null)
+  const [selection, setSelection] = React.useState<ViewerSelection | null>(null)
+  const [articleState, setArticleState] = React.useState<ArticleState>({ status: "idle", html: null })
   const [error, setError] = React.useState<Error | null>(null)
+  const slugs = React.useMemo(() => new Set(Object.keys(contentIndex ?? {}).map(normalizeSlug)), [contentIndex])
+  const noteSlug = selectedNoteSlug(selection)
+
+  React.useEffect(() => {
+    document.body.classList.add("zyphos-graph-spa-active")
+
+    return () => {
+      document.body.classList.remove("zyphos-graph-spa-active")
+    }
+  }, [])
 
   React.useEffect(() => {
     let cancelled = false
 
     loadGraphState()
-      .then((state) => {
+      .then(({ contentIndex: nextContentIndex, graphState: nextGraphState }) => {
         if (!cancelled) {
-          setGraphState(state)
+          const nextSlugs = new Set(Object.keys(nextContentIndex).map(normalizeSlug))
+          setContentIndex(nextContentIndex)
+          setGraphState(nextGraphState)
+          setSelection(parseHashSelection(nextSlugs) ?? {
+            kind: "node",
+            graphKey: "architecture",
+            nodeId: nextSlugs.has("index") ? "index" : nextGraphState.architecture.nodes[0]?.id ?? "",
+          })
         }
       })
       .catch((caught) => {
@@ -285,6 +413,57 @@ function App() {
       cancelled = true
     }
   }, [])
+
+  React.useEffect(() => {
+    if (!noteSlug) {
+      setArticleState({ status: "idle", html: null })
+      return
+    }
+
+    let cancelled = false
+    setArticleState((current) => ({ status: "loading", html: current.html }))
+
+    loadArticleHtml(noteSlug)
+      .then((html) => {
+        if (!cancelled) {
+          setArticleState({ status: "ready", html })
+        }
+      })
+      .catch((caught) => {
+        if (!cancelled) {
+          setArticleState({
+            status: "error",
+            html: null,
+            message: caught instanceof Error ? caught.message : String(caught),
+          })
+        }
+      })
+
+    return () => {
+      cancelled = true
+    }
+  }, [noteSlug])
+
+  React.useEffect(() => {
+    if (!noteSlug) {
+      return
+    }
+
+    window.history.replaceState(null, "", `#note=${encodeURIComponent(noteSlug)}`)
+  }, [noteSlug])
+
+  React.useEffect(() => {
+    const onHashChange = () => {
+      const hashSelection = parseHashSelection(slugs)
+
+      if (hashSelection) {
+        setSelection(hashSelection)
+      }
+    }
+
+    window.addEventListener("hashchange", onHashChange)
+    return () => window.removeEventListener("hashchange", onHashChange)
+  }, [slugs])
 
   if (error) {
     return (
@@ -310,6 +489,25 @@ function App() {
         <EpiphanyGraphViewer
           state={graphState}
           title="Zyphos Vault Backlink Web"
+          selection={selection}
+          onSelectionChange={setSelection}
+          overlayPanels
+          className="zyphos-graph-shell"
+          sidebarWidth="minmax(360px, 44vw)"
+          sidebar={
+            <ArticlePanel
+              articleState={articleState}
+              contentIndex={contentIndex}
+              selection={selection}
+              onSelectNote={(slug) =>
+                setSelection({
+                  kind: "node",
+                  graphKey: "architecture",
+                  nodeId: slug,
+                })
+              }
+            />
+          }
           graphLabels={{
             architecture: "Notes",
             dataflow: "Sections",
@@ -321,6 +519,115 @@ function App() {
         />
       </GraphErrorBoundary>
     </main>
+  )
+}
+
+function ArticlePanel({
+  articleState,
+  contentIndex,
+  selection,
+  onSelectNote,
+}: {
+  articleState: ArticleState
+  contentIndex: QuartzContentIndex | null
+  selection: ViewerSelection | null
+  onSelectNote: (slug: string) => void
+}) {
+  const noteSlug = selectedNoteSlug(selection)
+  const section = selectedSection(selection)
+  const slugs = React.useMemo(() => new Set(Object.keys(contentIndex ?? {}).map(normalizeSlug)), [contentIndex])
+  const note = noteSlug && contentIndex ? contentIndex[noteSlug] : null
+  const sectionNotes = React.useMemo(() => {
+    if (!section || !contentIndex) {
+      return []
+    }
+
+    return Object.entries(contentIndex)
+      .map(([slug, entry]) => [normalizeSlug(entry.slug || slug), entry] as [string, QuartzContentEntry])
+      .filter(([slug]) => sectionForSlug(slug) === section)
+      .sort(([left, leftEntry], [right, rightEntry]) => entryTitle(left, leftEntry).localeCompare(entryTitle(right, rightEntry)))
+  }, [contentIndex, section])
+
+  const onArticleClick = React.useCallback(
+    (event: React.MouseEvent<HTMLElement>) => {
+      const anchor = (event.target as HTMLElement).closest("a[href]")
+
+      if (!(anchor instanceof HTMLAnchorElement)) {
+        return
+      }
+
+      const slug = slugFromArticleUrl(anchor.href, slugs)
+
+      if (!slug) {
+        return
+      }
+
+      event.preventDefault()
+      onSelectNote(slug)
+    },
+    [onSelectNote, slugs],
+  )
+
+  if (section) {
+    return (
+      <article className="zyphos-spa-panel">
+        <p className="zyphos-spa-kicker">Section Cluster</p>
+        <h1>{section}</h1>
+        <p className="zyphos-spa-summary">
+          {sectionNotes.length} notes live in this section. Pick one and the graph becomes the table of contents it was clearly auditioning to be.
+        </p>
+        <div className="zyphos-spa-note-list">
+          {sectionNotes.map(([slug, entry]) => (
+            <button key={slug} type="button" onClick={() => onSelectNote(slug)}>
+              <strong>{entryTitle(slug, entry)}</strong>
+              <span>{summarizeContent(entry)}</span>
+            </button>
+          ))}
+        </div>
+      </article>
+    )
+  }
+
+  if (!noteSlug || !note) {
+    return (
+      <article className="zyphos-spa-panel">
+        <p className="zyphos-spa-kicker">Graph Atlas</p>
+        <h1>Zyphos</h1>
+        <p className="zyphos-spa-summary">
+          Select a note to read it here. The graph is the site map now, which is probably what it was trying to confess.
+        </p>
+      </article>
+    )
+  }
+
+  return (
+    <article className="zyphos-spa-panel">
+      <header className="zyphos-spa-article-header">
+        <p className="zyphos-spa-kicker">{sectionForSlug(noteSlug)}</p>
+        <h1>{entryTitle(noteSlug, note)}</h1>
+        <div className="zyphos-spa-actions">
+          <a href={slugToArticleUrl(noteSlug)}>Open page</a>
+        </div>
+      </header>
+      {articleState.status === "loading" && <div className="zyphos-spa-status">Loading article...</div>}
+      {articleState.status === "error" && (
+        <div className="zyphos-spa-status zyphos-spa-status-error">{articleState.message}</div>
+      )}
+      {articleState.status === "ready" && (
+        <div
+          className="zyphos-spa-article"
+          onClick={onArticleClick}
+          dangerouslySetInnerHTML={{ __html: articleState.html }}
+        />
+      )}
+      {articleState.status !== "ready" && articleState.html && (
+        <div
+          className="zyphos-spa-article"
+          onClick={onArticleClick}
+          dangerouslySetInnerHTML={{ __html: articleState.html }}
+        />
+      )}
+    </article>
   )
 }
 

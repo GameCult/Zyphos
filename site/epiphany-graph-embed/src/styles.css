@@ -1,6 +1,7 @@
 html,
 body,
 #root {
+  width: 100%;
   min-height: 100%;
   margin: 0;
 }
@@ -16,12 +17,26 @@ body {
 
 .zyphos-epiphany-graph-app {
   box-sizing: border-box;
+  width: 100vw;
   min-height: 100vh;
-  padding: 16px;
+  padding: 0;
 }
 
 .zyphos-epiphany-graph-app * {
   box-sizing: border-box;
+}
+
+.zyphos-epiphany-graph-root {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  width: 100vw;
+  height: 100vh;
+  min-height: 100vh;
+  margin: 0 !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  background: #03070d;
 }
 
 .zyphos-graph-error {
@@ -39,4 +54,165 @@ body {
   place-items: center;
   color: #cfeee4;
   font-size: 0.95rem;
+}
+
+body.zyphos-graph-spa-active {
+  overflow: hidden;
+}
+
+.zyphos-graph-shell {
+  width: 100vw;
+  height: 100vh;
+}
+
+.zyphos-graph-shell .epiphany-graph-overlay-panel {
+  opacity: 0.25;
+  transition:
+    opacity 160ms ease,
+    transform 160ms ease,
+    box-shadow 160ms ease;
+}
+
+.zyphos-graph-shell .epiphany-graph-overlay-panel:hover,
+.zyphos-graph-shell .epiphany-graph-overlay-panel:focus-within {
+  opacity: 1;
+  transform: translateY(-1px);
+}
+
+.zyphos-graph-shell aside.epiphany-graph-overlay-panel > section {
+  display: none !important;
+}
+
+.zyphos-graph-shell aside.epiphany-graph-overlay-panel > section:last-child {
+  display: grid !important;
+  grid-row: 1 / -1;
+}
+
+.zyphos-spa-panel {
+  min-height: 0;
+  max-height: 100%;
+  overflow: auto;
+  color: #effcf8;
+}
+
+.zyphos-spa-panel h1 {
+  margin: 0 0 0.9rem;
+  color: #f7fffb;
+  font-size: clamp(1.7rem, 2.8vw, 3.2rem);
+  line-height: 1;
+  letter-spacing: 0;
+}
+
+.zyphos-spa-kicker {
+  margin: 0 0 0.55rem;
+  color: #8edfb0;
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.zyphos-spa-summary,
+.zyphos-spa-status {
+  color: rgba(239, 252, 248, 0.76);
+  line-height: 1.55;
+}
+
+.zyphos-spa-status {
+  margin: 1rem 0;
+  padding: 0.75rem 0.9rem;
+  border: 1px solid rgba(142, 223, 176, 0.16);
+  border-radius: 16px;
+  background: rgba(3, 7, 13, 0.45);
+}
+
+.zyphos-spa-status-error {
+  color: #fecaca;
+  border-color: rgba(248, 113, 113, 0.35);
+}
+
+.zyphos-spa-article-header {
+  margin-bottom: 1rem;
+}
+
+.zyphos-spa-actions {
+  display: flex;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+}
+
+.zyphos-spa-actions a,
+.zyphos-spa-note-list button {
+  border: 1px solid rgba(142, 223, 176, 0.18);
+  border-radius: 16px;
+  background: rgba(142, 223, 176, 0.08);
+  color: #effcf8;
+}
+
+.zyphos-spa-actions a {
+  padding: 0.5rem 0.7rem;
+  text-decoration: none;
+}
+
+.zyphos-spa-article {
+  color: rgba(239, 252, 248, 0.86);
+  line-height: 1.65;
+}
+
+.zyphos-spa-article h1 {
+  display: none;
+}
+
+.zyphos-spa-article h2,
+.zyphos-spa-article h3 {
+  color: #f7fffb;
+  line-height: 1.12;
+}
+
+.zyphos-spa-article a {
+  color: #ffe0a8;
+}
+
+.zyphos-spa-article img {
+  max-width: 100%;
+  border-radius: 18px;
+}
+
+.zyphos-spa-note-list {
+  display: grid;
+  gap: 0.7rem;
+}
+
+.zyphos-spa-note-list button {
+  display: grid;
+  gap: 0.35rem;
+  padding: 0.85rem;
+  text-align: left;
+  cursor: pointer;
+}
+
+.zyphos-spa-note-list button:hover {
+  border-color: rgba(255, 174, 88, 0.38);
+  background: rgba(255, 174, 88, 0.11);
+}
+
+.zyphos-spa-note-list strong {
+  color: #f7fffb;
+}
+
+.zyphos-spa-note-list span {
+  color: rgba(239, 252, 248, 0.68);
+  font-size: 0.92rem;
+  line-height: 1.45;
+}
+
+@media (max-width: 900px) {
+  .zyphos-graph-shell aside.epiphany-graph-overlay-panel {
+    left: 12px;
+    right: 12px;
+    top: auto !important;
+    bottom: 12px !important;
+    width: auto !important;
+    max-height: 48vh;
+  }
 }
