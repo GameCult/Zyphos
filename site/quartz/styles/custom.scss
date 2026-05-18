@@ -257,200 +257,14 @@ article th {
   border-color: rgba(142, 223, 176, 0.12);
 }
 
-.zyphos-biosphere-graph {
-  margin: 1.25rem 0 1.6rem;
-}
-
-.zyphos-graph-shell {
-  display: grid;
-  gap: 0.85rem;
-}
-
-.zyphos-graph-toolbar {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-between;
-  gap: 0.75rem;
-  padding: 0.85rem 1rem;
-  border: 1px solid rgba(142, 223, 176, 0.14);
-  border-radius: 18px;
-  background: linear-gradient(135deg, rgba(7, 17, 15, 0.94), rgba(13, 20, 31, 0.9));
-}
-
-.zyphos-graph-title {
-  display: grid;
-  gap: 0.25rem;
-}
-
-.zyphos-graph-title strong {
-  color: #f2fff8;
-  font-family: var(--titleFont);
-  font-size: 1rem;
-  font-weight: 300;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-}
-
-.zyphos-graph-title span {
-  color: rgba(189, 212, 202, 0.76);
-  font-size: 0.88rem;
-}
-
-.zyphos-graph-controls {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.45rem;
-}
-
-.zyphos-graph-controls button {
-  min-height: 2.1rem;
-  border: 1px solid rgba(142, 223, 176, 0.18);
-  border-radius: 999px;
-  padding: 0.25rem 0.75rem;
-  background: rgba(142, 223, 176, 0.07);
-  color: #e2f6ee;
-  cursor: pointer;
-}
-
-.zyphos-graph-controls button:hover {
-  border-color: rgba(255, 174, 88, 0.42);
-  background: rgba(255, 174, 88, 0.14);
-}
-
-.zyphos-graph-body {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr);
-  gap: 0.9rem;
-  min-height: 620px;
-}
-
-.zyphos-graph-viewport,
-.zyphos-graph-detail {
-  border: 1px solid rgba(142, 223, 176, 0.12);
-  border-radius: 20px;
-  background:
-    radial-gradient(circle at 70% 14%, rgba(255, 174, 88, 0.14), transparent 22%),
-    linear-gradient(180deg, rgba(4, 9, 14, 0.96), rgba(7, 17, 15, 0.94));
-  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.03);
-}
-
-.zyphos-graph-viewport {
-  min-height: 620px;
-  overflow: hidden;
-}
-
-.zyphos-graph-viewport svg {
+.zyphos-epiphany-graph-root {
   display: block;
   width: 100%;
-  height: 100%;
-  min-height: 620px;
-  cursor: grab;
-  touch-action: none;
-}
-
-.zyphos-graph-viewport svg:active {
-  cursor: grabbing;
-}
-
-.zyphos-graph-viewport line {
-  stroke: rgba(142, 223, 176, 0.34);
-  stroke-width: 2.3;
-  vector-effect: non-scaling-stroke;
-  cursor: pointer;
-}
-
-.zyphos-graph-viewport line.selected {
-  stroke: #ffae58;
-  stroke-width: 4;
-}
-
-.zyphos-graph-edge-label {
-  fill: rgba(239, 252, 248, 0.62);
-  font-size: 12px;
-  font-family: var(--codeFont);
-  paint-order: stroke;
-  stroke: rgba(4, 9, 14, 0.86);
-  stroke-width: 5px;
-  text-anchor: middle;
-  pointer-events: none;
-}
-
-.zyphos-graph-node {
-  cursor: pointer;
-}
-
-.zyphos-graph-node circle:first-child {
-  opacity: 0.28;
-}
-
-.zyphos-graph-node circle:nth-child(2) {
-  stroke: rgba(239, 252, 248, 0.7);
-  stroke-width: 1.4;
-  vector-effect: non-scaling-stroke;
-}
-
-.zyphos-graph-node.selected circle:nth-child(2) {
-  stroke: #fff3e8;
-  stroke-width: 3;
-}
-
-.zyphos-graph-node text {
-  fill: #effcf8;
-  font-family: var(--titleFont);
-  font-size: 13px;
-  font-weight: 400;
-  paint-order: stroke;
-  pointer-events: none;
-  stroke: rgba(4, 9, 14, 0.92);
-  stroke-width: 5px;
-}
-
-.zyphos-graph-detail {
-  display: grid;
-  align-content: start;
-  gap: 0.75rem;
-  padding: 1rem;
-  grid-template-columns: minmax(0, 1fr);
-}
-
-.zyphos-graph-detail h2 {
-  margin: 0;
-  color: #f2fff8;
-  font-family: var(--titleFont);
-  font-size: 1.35rem;
-  font-weight: 300;
-  line-height: 1.08;
-}
-
-.zyphos-graph-detail p {
-  margin: 0;
-  color: rgba(189, 212, 202, 0.84);
-  line-height: 1.55;
-}
-
-.zyphos-graph-kicker {
-  color: var(--secondary) !important;
-  font-family: var(--titleFont);
-  font-size: 0.76rem;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-}
-
-.zyphos-graph-detail dl {
-  display: grid;
-  grid-template-columns: repeat(2, auto 1fr);
-  gap: 0.35rem 0.7rem;
-  margin: 0;
-}
-
-.zyphos-graph-detail dt {
-  color: rgba(189, 212, 202, 0.62);
-}
-
-.zyphos-graph-detail dd {
-  margin: 0;
-  color: #effcf8;
+  min-height: 820px;
+  margin: 1.25rem 0 1.6rem;
+  border: 1px solid rgba(142, 223, 176, 0.14);
+  border-radius: 20px;
+  background: #03070d;
 }
 
 @media all and not ($desktop) {
@@ -468,12 +282,7 @@ article th {
     margin-inline: -1rem;
   }
 
-  .zyphos-graph-viewport,
-  .zyphos-graph-viewport svg {
-    min-height: 520px;
-  }
-
-  .zyphos-graph-detail dl {
-    grid-template-columns: auto 1fr;
+  .zyphos-epiphany-graph-root {
+    min-height: 780px;
   }
 }

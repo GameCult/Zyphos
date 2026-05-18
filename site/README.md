@@ -13,3 +13,19 @@ The site follows the same deployment pattern as `AetheriaLore`:
 - custom domain: `zyphos.gamecult.org`
 
 DNS should point `zyphos.gamecult.org` at GitHub Pages, not Yggdrasil.
+
+## EpiphanyGraph Embed
+
+The fractal biosphere graph uses a small React/Vite embed around the neighboring
+`EpiphanyGraph` viewer source. Quartz does not build this bundle during Pages
+deploys, so rebuild the static assets before committing graph embed changes:
+
+```powershell
+cd "E:\Projects\Eusocial Interbeing\site\epiphany-graph-embed"
+npm install
+npm run build
+```
+
+The build writes deployable assets into
+`Eusocial Interbeing/static/epiphany-graph/`, which Quartz then copies into the
+site output.
