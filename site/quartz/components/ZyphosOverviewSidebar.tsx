@@ -10,6 +10,7 @@ const links: SidebarLink[] = [
   { label: "Zyphos Simulation Brief", slug: "World/Zyphos-Simulation-Brief" as FullSlug },
   { label: "Zyphos Umbros Binary System", slug: "World/Zyphos-Umbros-Binary-System" as FullSlug },
   { label: "Mutable Memory Endosymbiosis", slug: "Ecology/Mutable-Memory-Endosymbiosis" as FullSlug },
+  { label: "Fractal Eusocial Web", slug: "Ecology/Fractal-Eusocial-Web" as FullSlug },
   { label: "Zyphos Biosphere Examples", slug: "Ecology/Zyphos-Biosphere-Examples" as FullSlug },
   { label: "Biological Memetic Engine", slug: "Technologies/Biological-Memetic-Engine" as FullSlug },
 ]

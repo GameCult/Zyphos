@@ -1,6 +1,6 @@
 # Zyphos Biosphere Examples
 
-These examples are design handles for a biosphere shaped by [[Mutable Memory Endosymbiosis]]. They are not a complete taxonomy. Each one should survive the same test: the organism is not an Earth lifeform with telepathy stapled on. Its body, behavior, and contracts come from mutable cellular memory, low available energy, daily eclipse pressure, and eusocial negotiation across scale.
+These examples are design handles for a biosphere shaped by [[Mutable Memory Endosymbiosis]] and mapped in the [[Fractal Eusocial Web]]. They are not a complete taxonomy. Each one should survive the same test: the organism is not an Earth lifeform with telepathy stapled on. Its body, behavior, and contracts come from mutable cellular memory, low available energy, daily eclipse pressure, and eusocial negotiation across scale.
 
 ## Prismwake Mats
 

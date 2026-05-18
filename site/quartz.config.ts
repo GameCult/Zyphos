@@ -3,6 +3,7 @@ import * as Plugin from "./quartz/plugins"
 import { QuartzEmitterPlugin } from "./quartz/plugins/types"
 import { Fragment, h } from "preact"
 import { zyphosHeroScript } from "./quartz/components/ZyphosHeroScript"
+import { zyphosBiosphereGraphScript } from "./quartz/components/ZyphosBiosphereGraphScript"
 
 const ZyphosFavicons: QuartzEmitterPlugin = () => ({
   name: "ZyphosFavicons",
@@ -28,6 +29,22 @@ const ZyphosHeroResources: QuartzEmitterPlugin = () => ({
     js: [
       {
         script: zyphosHeroScript,
+        loadTime: "afterDOMReady",
+        contentType: "inline",
+        spaPreserve: true,
+      },
+    ],
+  }),
+})
+
+const ZyphosBiosphereGraphResources: QuartzEmitterPlugin = () => ({
+  name: "ZyphosBiosphereGraphResources",
+  async *emit() {},
+  async *partialEmit() {},
+  externalResources: () => ({
+    js: [
+      {
+        script: zyphosBiosphereGraphScript,
         loadTime: "afterDOMReady",
         contentType: "inline",
         spaPreserve: true,
@@ -132,6 +149,7 @@ const config: QuartzConfig = {
       Plugin.Static(),
       ZyphosFavicons(),
       ZyphosHeroResources(),
+      ZyphosBiosphereGraphResources(),
       Plugin.NotFoundPage(),
       Plugin.CustomOgImages(),
     ],

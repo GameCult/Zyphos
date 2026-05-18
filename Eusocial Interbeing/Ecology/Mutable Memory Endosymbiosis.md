@@ -28,10 +28,10 @@ Every corner of the biosphere therefore forms contracts across scale:
 - ecosystems bargain with species through access to food, shelter, mating sites,
   memory, warning, sanction, and inheritance.
 
-The result is fractal eusociality. A creature can be a person, a host, a worker,
-a citizen, a parasite, a memory organ, and a negotiating surface at different
-scales at the same time. Very normal biology. Nothing to worry about if you are
-made of committee minutes.
+The result is [[Fractal Eusocial Web|fractal eusociality]]. A creature can be a
+person, a host, a worker, a citizen, a parasite, a memory organ, and a
+negotiating surface at different scales at the same time. Very normal biology.
+Nothing to worry about if you are made of committee minutes.
 
 ## Earth Analogues Are Not Earth Imports
 

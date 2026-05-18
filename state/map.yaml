@@ -3,8 +3,8 @@ project:
   type: original_setting_obsidian_vault
   root_content_dir: Eusocial Interbeing
 current_status:
-  summary: Zyphos now has nation scale interbeings: multispecies political bodies whose boundary permeability is foreign policy, with the Airawa Empire defined as an artificial quarter-continent clausiform exception.
-  next_action: Derive named native Airawa continent polities, Sa'auei'a continent analogues, and Weksa-ready naming briefs from the Nation Scale Interbeings taxonomy scaffold.
+  summary: Zyphos now has a Fractal Eusocial Web page and Quartz graph viewer that map biosphere contracts from memorioplasts up through nation scale interbeings and the imperial clausiform exception.
+  next_action: Turn provisional graph nodes into deeper polity and organism notes, then feed Weksa naming briefs from each node's scale, channel, and cultural perspective.
 active_subgoals:
   - Expand Airawa biology and imperial caste pressures.
   - Expand Sa'auei'a family-unit roles, breeding grounds, and mobile technologies.
@@ -22,6 +22,7 @@ key_files:
   zyphos_site_layout: site/quartz.layout.ts
   mutable_memory_endosymbiosis: Eusocial Interbeing/Ecology/Mutable Memory Endosymbiosis.md
   zyphos_biosphere_examples: Eusocial Interbeing/Ecology/Zyphos Biosphere Examples.md
+  fractal_eusocial_web: Eusocial Interbeing/Ecology/Fractal Eusocial Web.md
   nation_scale_interbeings: Eusocial Interbeing/Ecology/Nation Scale Interbeings.md
   zyphos_umbros_binary_system: Eusocial Interbeing/World/Zyphos Umbros Binary System.md
   zyphos_simulation_brief: Eusocial Interbeing/World/Zyphos Simulation Brief.md
