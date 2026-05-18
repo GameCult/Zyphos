@@ -32,3 +32,11 @@ body {
   border-radius: 16px;
   padding: 16px;
 }
+
+.zyphos-graph-loading {
+  display: grid;
+  min-height: 320px;
+  place-items: center;
+  color: #cfeee4;
+  font-size: 0.95rem;
+}

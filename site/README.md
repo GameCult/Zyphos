@@ -17,8 +17,13 @@ DNS should point `zyphos.gamecult.org` at GitHub Pages, not Yggdrasil.
 ## EpiphanyGraph Embed
 
 The fractal biosphere graph uses a small React/Vite embed around the neighboring
-`EpiphanyGraph` viewer source. Quartz does not build this bundle during Pages
-deploys, so rebuild the static assets before committing graph embed changes:
+`EpiphanyGraph` viewer source. The embed reads Quartz's generated
+`/static/contentIndex.json`, turns vault notes into architecture nodes, turns
+wiki links into edges, computes incoming backlinks for node metadata, and rolls
+folder-level link flow into the dataflow graph.
+
+Quartz does not build this bundle during Pages deploys, so rebuild the static
+assets before committing graph embed changes:
 
 ```powershell
 cd "E:\Projects\Eusocial Interbeing\site\epiphany-graph-embed"
