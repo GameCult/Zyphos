@@ -3,8 +3,8 @@ project:
   type: original_setting_obsidian_vault
   root_content_dir: Eusocial Interbeing
 current_status:
-  summary: Zyphos biology now has a foundational mutable-memory endosymbiont: sentience and memory exchange exist at cellular, organismal, social, and ecological scales, making eusocial contracts a biosphere baseline rather than a special institution.
-  next_action: Derive Airawa, Sa'auei'a, mother trees, breeding grounds, pathogens, and organism analogues from mutable memory endosymbiosis instead of Earth taxonomy with added lore.
+  summary: Zyphos now has first biosphere examples derived from mutable memory endosymbiosis, and a Weksa collaboration surface for future inhabitant-language naming.
+  next_action: Use the biosphere examples as handles while deriving Airawa, Sa'auei'a, mother trees, breeding grounds, pathogens, and organism analogues from mutable memory endosymbiosis.
 active_subgoals:
   - Expand Airawa biology and imperial caste pressures.
   - Expand Sa'auei'a family-unit roles, breeding grounds, and mobile technologies.
@@ -19,8 +19,10 @@ invariants:
 key_files:
   entrypoint: Eusocial Interbeing/index.md
   mutable_memory_endosymbiosis: Eusocial Interbeing/Ecology/Mutable Memory Endosymbiosis.md
+  zyphos_biosphere_examples: Eusocial Interbeing/Ecology/Zyphos Biosphere Examples.md
   zyphos_umbros_binary_system: Eusocial Interbeing/World/Zyphos Umbros Binary System.md
   zyphos_simulation_brief: Eusocial Interbeing/World/Zyphos Simulation Brief.md
+  weksa_naming_surface: E:\Projects\weksa\settings\eusocial-interbeing\README.md
   system_map: notes/current-system-map.md
   implementation_plan: notes/implementation-plan.md
   handoff: notes/fresh-workspace-handoff.md

@@ -73,7 +73,11 @@ Creature and ecology design should not import Earth categories unmodified.
 Bird-, mammal-, insect-, amoeba-, tree-, and fungus-analogues are allowed as
 handles, but their anatomy, behavior, reproduction, disease, migration, and
 politics should emerge from mutable cellular memory and fractal eusocial
-contracts.
+contracts. See [[Zyphos Biosphere Examples]] for first concrete handles.
+
+Future inhabitant-language names should come through the neighboring Weksa repo
+at `E:\Projects\weksa`. Names are not direct English substitutions; they should
+derive from speaker ontology, register, phonology, morphology, and history.
 
 Night-side light should be treated carefully. Airawa signals may be controlled,
 networked, and infrastructural. Sa'auei'a signals may be intermittent, route-like,
