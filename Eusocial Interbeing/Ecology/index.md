@@ -8,6 +8,7 @@
 - [[Reciprocal Ecologies]]
 - [[Disconnected Tree Networks]]
 - [[Zyphos Biosphere Examples]]
+- [[Biosphere/index|Biosphere]]
 - [[Nation Scale Interbeings]]
 
 ## Design Rule

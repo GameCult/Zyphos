@@ -10,6 +10,11 @@ The vault has three working layers.
 the Aquarium Engine Zyphos demo. It holds demo-facing design inference and open
 questions while this vault remains the authority for canon.
 
+`Eusocial Interbeing/Biosphere/` now expands the organism examples into
+trophic-role folders. Each species page is written for behavioral modeling:
+appetite, memory channel, social contract, threat response, bargaining failure,
+and readable NPC actions.
+
 ## Inspiration Layer
 
 `Eusocial Interbeing/Inspirations/` records outside source pressure. Avatar is used for living-network contrast. Semiosis is used for nonhuman agency and ecological negotiation. Turtledove is used for technological path dependency.

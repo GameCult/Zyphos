@@ -20,6 +20,7 @@ On another continent, where Airawa never evolved or migrated, the [[Species/Sa'a
 - [[World/Zyphos Umbros Binary System]]
 - [[Ecology/Mutable Memory Endosymbiosis]]
 - [[Ecology/Zyphos Biosphere Examples]]
+- [[Biosphere/index]]
 - [[World/index]]
 - [[Ecology/index]]
 - [[Species/index]]

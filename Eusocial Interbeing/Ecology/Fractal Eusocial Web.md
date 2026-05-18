@@ -44,15 +44,15 @@ whatever evolution got away with before anyone could file a complaint.
 
 Examples now include:
 
-- `Stroma prismatica`, the prismwake mats that maintain grazing ledgers in
+- `Stroma prismatica`, the [[Biosphere/Primary Producers/Prismwake Mats|prismwake mats]] that maintain grazing ledgers in
   wetland light;
-- `Arbor laternaria umbrosa`, the Umbros-facing lantern trees that keep eclipse
+- `Arbor laternaria umbrosa`, the [[Biosphere/Primary Producers/Umbros-Facing Lantern Trees|Umbros-facing lantern trees]] that keep eclipse
   routes open and taxable;
-- `Ala filaria`, the threadwing couriers that move memory-bearing pollen,
+- `Ala filaria`, the [[Biosphere/Couriers and Pollinators/Threadwing Couriers|threadwing couriers]] that move memory-bearing pollen,
   symbionts, route reports, and social injuries;
-- `Pascuavitreus socialis`, the glassback grazers that exchange heat and status
+- `Pascuavitreus socialis`, the [[Biosphere/Grazers and Browsers/Glassback Grazers|glassback grazers]] that exchange heat and status
   through translucent dorsal plates;
-- `Flos onerarius`, the burden flowers that attach to travelers and carry
+- `Flos onerarius`, the [[Biosphere/Parasites and Symbionts/Burden Flowers|burden flowers]] that attach to travelers and carry
   immune gossip.
 
 None of these are solitary in the Earth sense. Solitude exists as travel range,
@@ -63,15 +63,15 @@ not as metaphysics.
 Colony-scale beings form when many bodies become stable organs of a larger
 memory metabolism.
 
-`Formica reticulata` is the lattice ant pattern: mobile diagnostic circuits made
+`Formica reticulata` is the [[Biosphere/Decomposers and Recyclers/Lattice Ants|lattice ant]] pattern: mobile diagnostic circuits made
 from bodies, shed fiber, and microbial glue. They can read ground history and
 sell that reading to whoever feeds them, which is how a sugar bribe becomes an
 intelligence leak.
 
-`Via mycelialis candelaria` is the candle-road pattern: fungal logistics that
+`Via mycelialis candelaria` is the [[Biosphere/Decomposers and Recyclers/Candle Fungal Roads|candle-road]] pattern: fungal logistics that
 remember payment, sickness, trampling, shelter, and reproductive access.
 
-`Chorus liminalis` names reef and waterway colonies whose borders follow current,
+`Chorus liminalis` names [[Biosphere/Aquatic Colony Feeders/Choir Reefs|reef and waterway colonies]] whose borders follow current,
 pressure, mineral taste, larval drift, and storm memory.
 
 ### Archive, Commons, and Nation
