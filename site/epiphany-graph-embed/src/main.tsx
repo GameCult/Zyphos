@@ -7,6 +7,7 @@ import type {
   EpiphanyGraphNode,
   EpiphanyGraphsState,
   GraphKey,
+  PositionedNode,
   ViewerSelection,
 } from "../../../../EpiphanyGraph/web/epiphany-graph-viewer/src/lib/types"
 import "./styles.css"
@@ -381,22 +382,20 @@ function selectedNoteSlug(selection: ViewerSelection | null) {
   return selection?.kind === "node" && selection.graphKey === "architecture" ? selection.nodeId : null
 }
 
-function selectedSection(selection: ViewerSelection | null) {
-  if (selection?.kind !== "node" || selection.graphKey !== "dataflow") {
-    return null
-  }
-
-  return selection.nodeId.replace(/^section:/, "")
-}
-
 function App() {
   const [graphState, setGraphState] = React.useState<EpiphanyGraphsState | null>(null)
   const [contentIndex, setContentIndex] = React.useState<QuartzContentIndex | null>(null)
   const [selection, setSelection] = React.useState<ViewerSelection | null>(null)
-  const [articleState, setArticleState] = React.useState<ArticleState>({ status: "idle", html: null })
+  const [articleCache, setArticleCache] = React.useState<Record<string, ArticleState>>({})
   const [error, setError] = React.useState<Error | null>(null)
+  const articleCacheRef = React.useRef<Record<string, ArticleState>>({})
+  const loadingArticlesRef = React.useRef<Set<string>>(new Set())
   const slugs = React.useMemo(() => new Set(Object.keys(contentIndex ?? {}).map(normalizeSlug)), [contentIndex])
   const noteSlug = selectedNoteSlug(selection)
+
+  React.useEffect(() => {
+    articleCacheRef.current = articleCache
+  }, [articleCache])
 
   React.useEffect(() => {
     document.body.classList.add("zyphos-graph-spa-active")
@@ -436,35 +435,45 @@ function App() {
     }
   }, [])
 
-  React.useEffect(() => {
-    if (!noteSlug) {
-      setArticleState({ status: "idle", html: null })
+  const ensureArticle = React.useCallback((slug: string) => {
+    const current = articleCacheRef.current[slug]
+
+    if (current?.status === "ready" || loadingArticlesRef.current.has(slug)) {
       return
     }
 
-    let cancelled = false
-    setArticleState((current) => ({ status: "loading", html: current.html }))
+    loadingArticlesRef.current.add(slug)
+    setArticleCache((currentCache) => ({
+      ...currentCache,
+      [slug]: { status: "loading", html: currentCache[slug]?.html ?? null },
+    }))
 
-    loadArticleHtml(noteSlug)
+    loadArticleHtml(slug)
       .then((html) => {
-        if (!cancelled) {
-          setArticleState({ status: "ready", html })
-        }
+        loadingArticlesRef.current.delete(slug)
+        setArticleCache((currentCache) => ({
+          ...currentCache,
+          [slug]: { status: "ready", html },
+        }))
       })
       .catch((caught) => {
-        if (!cancelled) {
-          setArticleState({
+        loadingArticlesRef.current.delete(slug)
+        setArticleCache((currentCache) => ({
+          ...currentCache,
+          [slug]: {
             status: "error",
             html: null,
             message: caught instanceof Error ? caught.message : String(caught),
-          })
-        }
+          },
+        }))
       })
+  }, [])
 
-    return () => {
-      cancelled = true
+  React.useEffect(() => {
+    if (noteSlug) {
+      ensureArticle(noteSlug)
     }
-  }, [noteSlug])
+  }, [ensureArticle, noteSlug])
 
   React.useEffect(() => {
     if (!noteSlug) {
@@ -547,25 +556,20 @@ function App() {
           focusSelection
           selectionFocusMode="article"
           onExpandedNodeClick={onArticleLinkClick}
-          expandedNode={
-            noteSlug
-              ? {
-                  graphKey: "architecture",
-                  nodeId: noteSlug,
-                  className: "zyphos-expanded-article-node",
-                  ariaLabel: `${entryTitle(noteSlug, contentIndex?.[noteSlug])} article node`,
-                  content: (
-                    <ArticlePanel
-                      articleState={articleState}
-                      contentIndex={contentIndex}
-                      selection={selection}
-                      onSelectNote={selectNote}
-                      onArticleLinkClick={onArticleLinkClick}
-                    />
-                  ),
-                }
-              : undefined
-          }
+          nodeArticle={{
+            className: "zyphos-expanded-article-node",
+            ariaLabel: (node) => `${node.title} article node`,
+            content: (node) => (
+              <ViewportNodeArticle
+                node={node}
+                articleCache={articleCache}
+                contentIndex={contentIndex}
+                ensureArticle={ensureArticle}
+                onSelectNote={selectNote}
+                onArticleLinkClick={onArticleLinkClick}
+              />
+            ),
+          }}
           graphLabels={{
             architecture: "Notes",
             dataflow: "Sections",
@@ -584,21 +588,57 @@ function App() {
   )
 }
 
+function ViewportNodeArticle({
+  node,
+  articleCache,
+  contentIndex,
+  ensureArticle,
+  onSelectNote,
+  onArticleLinkClick,
+}: {
+  node: PositionedNode
+  articleCache: Record<string, ArticleState>
+  contentIndex: QuartzContentIndex | null
+  ensureArticle: (slug: string) => void
+  onSelectNote: (slug: string) => void
+  onArticleLinkClick: (event: React.MouseEvent<HTMLElement>) => void
+}) {
+  const noteSlug = node.graphKey === "architecture" ? node.id : null
+  const section = node.graphKey === "dataflow" ? node.id.replace(/^section:/, "") : null
+
+  React.useEffect(() => {
+    if (noteSlug) {
+      ensureArticle(noteSlug)
+    }
+  }, [ensureArticle, noteSlug])
+
+  return (
+    <ArticlePanel
+      articleState={noteSlug ? articleCache[noteSlug] ?? { status: "idle", html: null } : { status: "idle", html: null }}
+      contentIndex={contentIndex}
+      noteSlug={noteSlug}
+      section={section}
+      onSelectNote={onSelectNote}
+      onArticleLinkClick={onArticleLinkClick}
+    />
+  )
+}
+
 function ArticlePanel({
   articleState,
   contentIndex,
-  selection,
+  noteSlug,
+  section,
   onSelectNote,
   onArticleLinkClick,
 }: {
   articleState: ArticleState
   contentIndex: QuartzContentIndex | null
-  selection: ViewerSelection | null
+  noteSlug: string | null
+  section: string | null
   onSelectNote: (slug: string) => void
   onArticleLinkClick: (event: React.MouseEvent<HTMLElement>) => void
 }) {
-  const noteSlug = selectedNoteSlug(selection)
-  const section = selectedSection(selection)
   const note = noteSlug && contentIndex ? contentIndex[noteSlug] : null
   const sectionNotes = React.useMemo(() => {
     if (!section || !contentIndex) {
