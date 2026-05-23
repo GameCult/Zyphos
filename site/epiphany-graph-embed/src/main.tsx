@@ -579,8 +579,8 @@ function App() {
             dataflow: "Sections are folder-level clusters. Their edges summarize how links and backlinks move between regions of the vault.",
           }}
           layoutMode={{
-            architecture: "force",
-            dataflow: "force",
+            architecture: "combined-force",
+            dataflow: "combined-force",
           }}
         />
       </GraphErrorBoundary>
