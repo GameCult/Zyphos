@@ -14,13 +14,23 @@ whose seams expose fine bioluminescent traces.
 The upper limb pair is larger, stronger, and clawed for climbing, hanging,
 hauling, territorial display, and defensive leverage. The lower limb pair is
 smaller and more precise, used for tool manipulation, craft, grooming, record
-handling, and other close work. All extremities have four digits, with two
-opposable digits arranged for grip rather than humanlike hands.
+handling, and other close work. Lower manipulator hands are blunt and clawless:
+four soft digits arranged as two opposing pairs, suited to touch, tying,
+sorting, grafting, and record handling rather than tearing.
+
+The feet are part of the climbing system, not human feet with red paint. Airawa
+legs are long and digitigrade, with arboreal grasping feet whose four toes are
+also arranged as two opposing pairs. The toes and extended metatarsal tips carry
+hooked climbing talons for anchoring into bark, roots, plate ridges, and branch
+scar tissue. These talons are load-bearing movement tools paired with the upper
+climbing arms. They may tuck close against the toes during ground travel, but
+they are not fully cat-like retractable claws.
 
 The result is not decorative extra arms. Airawa architecture, warfare,
 toolmaking, ritual posture, childhood movement, and portraiture should all
-remember that a mature Airawa can brace, climb, threaten, and make delicate
-things at the same time.
+remember that a mature Airawa can anchor with taloned feet, brace or threaten
+with clawed upper arms, and make delicate things with lower hands at the same
+time.
 
 ## Reproduction
 
