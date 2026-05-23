@@ -3,9 +3,9 @@ import { QuartzComponent, QuartzComponentConstructor } from "./types"
 export default (() => {
   const ZyphosGraphShell: QuartzComponent = () => (
     <>
-      <link rel="stylesheet" href="/static/epiphany-graph/assets/viewer.css?v=graph-20260523-focus7" />
+      <link rel="stylesheet" href="/static/epiphany-graph/assets/viewer.css?v=graph-20260523-focus8" />
       <div class="zyphos-epiphany-graph-root"></div>
-      <script type="module" src="/static/epiphany-graph/assets/viewer.js?v=graph-20260523-focus7"></script>
+      <script type="module" src="/static/epiphany-graph/assets/viewer.js?v=graph-20260523-focus8"></script>
     </>
   )
 
