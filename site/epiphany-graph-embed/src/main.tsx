@@ -709,6 +709,7 @@ function ArticlePanel({
       {articleState.status === "ready" && (
         <div
           className="zyphos-spa-article"
+          data-epiphany-article-content
           onClick={onArticleLinkClick}
           dangerouslySetInnerHTML={{ __html: articleState.html }}
         />
@@ -716,6 +717,7 @@ function ArticlePanel({
       {articleState.status !== "ready" && articleState.html && (
         <div
           className="zyphos-spa-article"
+          data-epiphany-article-content
           onClick={onArticleLinkClick}
           dangerouslySetInnerHTML={{ __html: articleState.html }}
         />
