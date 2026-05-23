@@ -386,7 +386,7 @@ function App() {
   const [graphState, setGraphState] = React.useState<EpiphanyGraphsState | null>(null)
   const [contentIndex, setContentIndex] = React.useState<QuartzContentIndex | null>(null)
   const [selection, setSelection] = React.useState<ViewerSelection | null>(null)
-  const [navigationSelection, setNavigationSelection] = React.useState<ViewerSelection | null>(null)
+  const [viewportTarget, setViewportTarget] = React.useState<ViewerSelection | null>(null)
   const [articleCache, setArticleCache] = React.useState<Record<string, ArticleState>>({})
   const [error, setError] = React.useState<Error | null>(null)
   const articleCacheRef = React.useRef<Record<string, ArticleState>>({})
@@ -498,15 +498,14 @@ function App() {
   }, [slugs])
 
   const selectNote = React.useCallback((slug: string) =>
-    setNavigationSelection({
+    setViewportTarget({
       kind: "node",
       graphKey: "architecture",
       nodeId: slug,
     }), [])
 
-  const onNavigationComplete = React.useCallback((nextSelection: ViewerSelection) => {
-    setNavigationSelection(null)
-    setSelection(nextSelection)
+  const onViewportTargetComplete = React.useCallback(() => {
+    setViewportTarget(null)
   }, [])
 
   const onArticleLinkClick = React.useCallback(
@@ -555,8 +554,8 @@ function App() {
           state={graphState}
           title="Zyphos Vault Backlink Web"
           selection={selection}
-          navigationSelection={navigationSelection}
-          onNavigationComplete={onNavigationComplete}
+          viewportTarget={viewportTarget}
+          onViewportTargetComplete={onViewportTargetComplete}
           onSelectionChange={setSelection}
           overlayPanels
           className="zyphos-graph-shell"
