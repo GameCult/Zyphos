@@ -413,7 +413,7 @@ function App() {
       .then(({ contentIndex: nextContentIndex, graphState: nextGraphState }) => {
         if (!cancelled) {
           const nextSlugs = new Set(Object.keys(nextContentIndex).map(normalizeSlug))
-          const initialSelection =
+          const initialViewportTarget =
             parseHashSelection(nextSlugs) ??
             currentRouteSelection(nextSlugs) ?? {
               kind: "node" as const,
@@ -422,8 +422,7 @@ function App() {
             }
           setContentIndex(nextContentIndex)
           setGraphState(nextGraphState)
-          setSelection(initialSelection)
-          setViewportTarget(initialSelection)
+          setViewportTarget(initialViewportTarget)
         }
       })
       .catch((caught) => {
@@ -490,7 +489,6 @@ function App() {
       const hashSelection = parseHashSelection(slugs)
 
       if (hashSelection) {
-        setSelection(hashSelection)
         setViewportTarget(hashSelection)
       }
     }
