@@ -2,9 +2,14 @@ import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import ZyphosMasthead from "./quartz/components/ZyphosMasthead"
 import ZyphosOverviewSidebar from "./quartz/components/ZyphosOverviewSidebar"
-import ZyphosGraphShell from "./quartz/components/ZyphosGraphShell"
 import ZyphosSinglePageRedirect from "./quartz/components/ZyphosSinglePageRedirect"
 import ZyphosThemeLock from "./quartz/components/ZyphosThemeLock"
+
+const ZyphosGraphShell = Component.GameCultGraphSpaShell({
+  stylesheetHref:
+    "/static/epiphany-graph/assets/viewer.css?v=graph-20260523-focus9",
+  moduleSrc: "/static/epiphany-graph/assets/viewer.js?v=graph-20260523-focus9",
+})
 
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -36,7 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   afterBody: [
     Component.ConditionalRender({
-      component: ZyphosGraphShell(),
+      component: ZyphosGraphShell,
       condition: (page) => page.fileData.slug === "index",
     }),
   ],
