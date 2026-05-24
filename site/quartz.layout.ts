@@ -7,8 +7,8 @@ import ZyphosThemeLock from "./quartz/components/ZyphosThemeLock"
 
 const ZyphosGraphShell = Component.GameCultGraphSpaShell({
   stylesheetHref:
-    "/static/epiphany-graph/assets/viewer.css?v=graph-20260524-flight3s",
-  moduleSrc: "/static/epiphany-graph/assets/viewer.js?v=graph-20260524-flight3s",
+    "/static/epiphany-graph/assets/viewer.css?v=graph-20260524-flight-option",
+  moduleSrc: "/static/epiphany-graph/assets/viewer.js?v=graph-20260524-flight-option",
 })
 
 export const sharedPageComponents: SharedLayout = {
