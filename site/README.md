@@ -14,10 +14,10 @@ The site follows the same deployment pattern as `AetheriaLore`:
 
 DNS should point `zyphos.gamecult.org` at GitHub Pages, not Yggdrasil.
 
-## EpiphanyGraph Embed
+## Norn Graph Embed
 
 The fractal biosphere graph uses a small React/Vite embed around the neighboring
-`EpiphanyGraph` viewer source. The embed reads Quartz's generated
+`Norn` viewer source. The embed reads Quartz's generated
 `/static/contentIndex.json`, turns vault notes into architecture nodes, turns
 wiki links into edges, computes incoming backlinks for node metadata, and rolls
 folder-level link flow into the dataflow graph.
@@ -26,11 +26,11 @@ Quartz does not build this bundle during Pages deploys, so rebuild the static
 assets before committing graph embed changes:
 
 ```powershell
-cd "E:\Projects\Eusocial Interbeing\site\epiphany-graph-embed"
+cd "E:\Projects\Eusocial Interbeing\site\norn-graph-embed"
 npm install
 npm run build
 ```
 
 The build writes deployable assets into
-`Eusocial Interbeing/static/epiphany-graph/`, which Quartz then copies into the
+`Eusocial Interbeing/static/norn-graph/`, which Quartz then copies into the
 site output.
