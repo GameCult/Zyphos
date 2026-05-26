@@ -6,8 +6,11 @@ Mother Tree Networks connect [[Mother Trees]] to local organisms, archives, chem
 
 - preserve communal memory;
 - coordinate ecological warnings;
+- anchor local [[Gestation Webs]];
+- assemble and gestate compatible young from routed gametes;
 - mediate obligations between species;
 - regulate access to ancestral continuity;
+- regulate reproductive access and contributor ranking;
 - provide the substrate later exploited by the [[Biological Memetic Engine]].
 
 ## Failure Mode

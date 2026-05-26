@@ -1,6 +1,10 @@
 # Airawa Home Continent
 
-The Airawa home continent is dense with tree-mediated memory networks. Before imperial consolidation, each major region had its own [[Mother Trees]] and local agreements among Airawa tribes, pollinator species, mycorrhizal archives, scavenger guilds, and defensive symbionts.
+The Airawa home continent is dense with tree-mediated memory and gestation
+networks. Before imperial consolidation, each major region had its own
+[[Mother Trees]], local [[Gestation Webs]], and agreements among Airawa tribes,
+pollinator species, mycorrhizal archives, scavenger guilds, climbing partners,
+companion grazers, and defensive symbionts.
 
 The continent's political history is defined by a single technological rupture: one tribe invented the [[Biological Memetic Engine]], then discovered that any problem reachable through the tree network could be solved by domination, editing, or doctrinal infection.
 

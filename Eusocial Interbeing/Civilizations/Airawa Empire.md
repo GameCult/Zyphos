@@ -24,7 +24,7 @@ through living networks. Whoever controls the engine can shape imperial
 consensus with frightening speed and can attack neighboring native nations
 through any compatible channel they fail to close.
 
-The empire still has ministries, armies, breeders, engineers, courtiers, priests, and administrators. Those institutions matter. They simply operate under a deeper condition: public reality can be edited from the root.
+The empire still has ministries, armies, breeders, engineers, courtiers, priests, and administrators. Those institutions matter. They simply operate under a deeper condition: public reality and reproductive possibility can be edited from the root.
 
 ## Memetic Topology
 
@@ -45,7 +45,7 @@ of civilization.
 
 ## Eugenics
 
-Imperial ideology treats heredity as infrastructure and dissent as contamination. It sorts Airawa bodies, symbionts, memories, and reproductive permissions according to imperial usefulness.
+Imperial ideology treats heredity as infrastructure and dissent as contamination. It sorts Airawa bodies, symbionts, memories, gamete access, pollinator routes, mother-tree permissions, and legal births according to imperial usefulness.
 
 The empire's eugenics are not just cruelty with a lab coat. They are the natural political expression of a society that solved its founding trauma with a tool for editing life and belief.
 

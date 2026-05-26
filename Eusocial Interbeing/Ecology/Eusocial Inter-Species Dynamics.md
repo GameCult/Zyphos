@@ -9,7 +9,15 @@ cellular, intercellular, organismal, and ecological.
 
 ## In This Setting
 
-The Airawa-mother-tree relationship is archival eusociality: communal memory and political continuity depend on non-Airawa reproductive bodies.
+The Airawa-mother-tree relationship is archival and gestational eusociality:
+communal memory, genome assembly, developmental access, and political
+continuity depend on non-Airawa reproductive bodies.
+
+[[Gestation Webs]] are the reproductive form of this pattern. A local web can
+route gametes from many species through intelligent pollinator-equivalents into
+a gestator species that decides which future organisms become locally real.
+Reproduction is therefore a negotiated infrastructure layer, not a private
+species-contained act.
 
 The Sa'auei'a system is reciprocal nomadic eusociality: mobile families act as high-trust units inside a continent-wide mesh of remembered ecological relationships.
 

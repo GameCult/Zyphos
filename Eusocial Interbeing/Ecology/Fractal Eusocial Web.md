@@ -45,7 +45,8 @@ Examples now include:
 - `Arbor laternaria umbrosa`, the [[Biosphere/Primary Producers/Umbros-Facing Lantern Trees|Umbros-facing lantern trees]] that keep eclipse
   routes open and taxable;
 - `Ala filaria`, the [[Biosphere/Couriers and Pollinators/Threadwing Couriers|threadwing couriers]] that move memory-bearing pollen,
-  symbionts, route reports, and social injuries;
+  gamete traces, symbionts, route reports, and social injuries across web
+  boundaries;
 - `Pascuavitreus socialis`, the [[Biosphere/Grazers and Browsers/Glassback Grazers|glassback grazers]] that exchange heat and status
   through translucent dorsal plates;
 - `Flos onerarius`, the [[Biosphere/Parasites and Symbionts/Burden Flowers|burden flowers]] that attach to travelers and carry
@@ -76,8 +77,9 @@ Archive-scale beings hold memory over lifetimes longer than most mobile species
 can personally verify. Commons-scale beings hold reproductive continuity.
 Nation-scale beings hold territorial agency.
 
-`Silva mater archivora` is the mother-tree archival nation. It may share food,
-weather memory, and visitor healing while refusing deep ancestry copying.
+`Silva mater archivora` is the mother-tree archival and gestational nation. It
+may share food, weather memory, visitor healing, and limited developmental
+access while refusing deep ancestry copying.
 
 `Area generationis communis` is the breeding-ground commons. It is not a nursery
 owned by a species. It is a reproductive institution made of caretakers, infants,
@@ -99,6 +101,10 @@ specific as Weksa naming and Aquarium simulation needs sharpen.
 - `feeds`: matter and energy are exchanged under remembered terms.
 - `reports`: a mobile organism carries immune, emotional, or legal state.
 - `routes`: one being becomes another being's transit organ.
+- `gamete-routes`: one being transports reproductive material and contributor
+  judgments into a gestation web.
+- `gestates`: one being assembles and carries young from routed reproductive
+  material.
 - `diagnoses`: local history is read and sold, gifted, or weaponized.
 - `scales`: a pattern becomes a larger political body.
 - `anchors`: reproductive or archival continuity holds a mobile society in good

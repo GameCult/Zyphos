@@ -24,4 +24,13 @@ The Sa'auei'a evolved on another continent without Airawa presence. They have an
 
 ## Next Useful Action
 
-Use the fractal NPC simulation plan to pressure-test Airawa and Sa'auei'a daily life at multiple scales, then deepen the two sophont species' biology, reproduction, and sensory experience before adding plot-scale characters.
+Name the Airawa armored neural-whip organ, then define pollinator guild variants
+for ordinary gamete collection, elite lineage contracts, resistance births,
+cross-species contribution, and imperial surveillance.
+
+The current reproductive invariant is that Airawa and many local web species do
+not reproduce through private pairwise sex. Regional mother-tree gestation webs
+assemble and gestate viable young from selected gametes routed by intelligent
+pollinator-equivalents. Airawa gametes are secreted through a protected
+retractable neural-whip organ that also handles deep network contact, but
+connection is not automatic reproductive consent.

@@ -8,17 +8,25 @@ Pre-imperial Airawa communities depended on mother trees for continuity beyond l
 
 This bargain was intimate and coercive at the same time. A community that defied its mother tree risked losing ancestral memory, ecological warning, and legal continuity.
 
-## Gestation
+## Gestation Webs
 
-Mother trees are literal Airawa gestators, not only symbolic ancestors or memory
-servers. They receive compatible gametes through contracted pollinator species,
-manage developmental environments, and bind young Airawa into local symbiont
-memory, lineage, and ecological obligation before birth.
+Mother trees are literal gestators, not only symbolic ancestors or memory
+servers. In Airawa regions, they sit at the center of local [[Gestation Webs]]:
+contracted pollinator species bring gametes and performance signals from Airawa
+and other recognized web species, while the trees assemble viable genomes,
+manage developmental environments, and bind young into local symbiont memory,
+lineage, and ecological obligation before birth.
 
 This makes reproduction inseparable from politics. An Airawa child is not only
-born from parents. They are permitted by a tree, carried through a contract,
-delivered through pollinator traffic, and introduced into a network that already
+born from parents. They are selected through pollinator attention, permitted by
+a tree, carried through a contract, and introduced into a network that already
 has claims on their future.
+
+Mother-tree regions can differ sharply. One grove may favor climbing strength,
+archive fidelity, and pollinator diplomacy. Another may favor disease
+resistance, wetland tolerance, or aggressive defensive symbionts. These are not
+flavors of one universal species program. They are local reproductive
+constitutions with roots.
 
 ## Imperial Rupture
 

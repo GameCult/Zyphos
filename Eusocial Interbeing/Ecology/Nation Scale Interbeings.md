@@ -24,7 +24,8 @@ taxonomic conventions as a design scaffold, not Earth ancestry.
 - Order: `Permeabiliformes`, naturally grown interbeings with graded borders.
 - Order: `Clausiformes`, interbeings organized around sealed or nearly sealed
   boundaries.
-- Family: `Archivoridae`, mother-tree-centered archival polities.
+- Family: `Archivogestidae`, mother-tree-centered archival and gestational
+  polities.
 - Family: `Viatoridae`, migratory route polities.
 - Family: `Mycoviariidae`, fungal-road polities.
 - Family: `Chorallidae`, reef and waterway polities.
@@ -66,13 +67,15 @@ a remembered injury that closes a valley for three generations.
 
 ### *Silva mater archivora*
 
-Mother-tree archival nations are dense, rooted, and memory-rich. They preserve
-ancestry, ecological precedent, repair protocols, and legal memory through tree,
-mycorrhizal, insect, bird-analogue, and Airawa partner systems.
+Mother-tree archival nations are dense, rooted, memory-rich, and gestational.
+They preserve ancestry, ecological precedent, repair protocols, legal memory,
+and developmental compatibility through tree, mycorrhizal, insect,
+bird-analogue, pollinator, and Airawa partner systems.
 
 Their borders are often porous to food and rumor but strict around archival
-copying. Foreign bodies may enter, trade, mate, and heal there without ever being
-allowed near the deep memory organs.
+copying, gamete routing, and developmental access. Foreign bodies may enter,
+trade, contribute, mate, and heal there without ever being allowed near the deep
+memory organs or the root chambers where future bodies are assembled.
 
 ### *Pratum pactivorum migrans*
 

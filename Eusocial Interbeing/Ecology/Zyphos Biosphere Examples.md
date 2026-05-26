@@ -30,7 +30,9 @@ Each tree is a local parliament of tissues, symbionts, and visitors. A lantern p
 
 ### Threadwing Couriers
 
-Threadwings are bird-analogues with ribbonlike sensory vanes instead of feathers. They cross between memory-bearing groves carrying gut symbionts, pollen analogues, wound scents, and fragments of route memory.
+Threadwings are bird-analogues with ribbonlike sensory vanes instead of
+feathers. They cross between memory-bearing groves carrying gut symbionts,
+pollen analogues, gamete traces, wound scents, and fragments of route memory.
 
 They are independent enough to choose mates, flee predators, and hold local grudges. They are not independent enough to be "just birds." A flock is also a courier guild, a voting packet, a seed dispersal treaty, and occasionally a lawsuit with wings.
 

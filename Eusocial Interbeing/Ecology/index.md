@@ -3,6 +3,7 @@
 - [[Mutable Memory Endosymbiosis]]
 - [[Eusocial Inter-Species Dynamics]]
 - [[Fractal Eusocial Web]]
+- [[Gestation Webs]]
 - [[Mother Tree Networks]]
 - [[Breeding Grounds]]
 - [[Reciprocal Ecologies]]

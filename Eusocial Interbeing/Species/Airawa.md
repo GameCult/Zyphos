@@ -32,26 +32,46 @@ remember that a mature Airawa can anchor with taloned feet, brace or threaten
 with clawed upper arms, and make delicate things with lower hands at the same
 time.
 
+Airawa also carry an armored retractable neural-whip organ used for deep
+network contact, fine chemical signaling, and reproductive secretion into local
+[[Gestation Webs]]. It is not an exposed social braid that can be severed by one
+bad fight and lock a person out of eusocial life. At rest it folds under grown
+plates along the rear neck and upper spine. During safe contact it extends as a
+segmented, whip-like interface with sensory cilia, secretion pores, and armored
+sheath scales that can close around damaged tissue.
+
+This organ makes Airawa morphology visibly reproductive without making it
+human-sexual. Grooming, craft display, health, network trust, and pollinator
+attention all matter because the organ is a signal surface as well as a
+gamete-secretion surface. Connection does not automatically mean reproductive
+consent: collection requires recognized rites, local tree permission, and
+pollinator cooperation.
+
 ## Reproduction
 
-Airawa are not sexually dimorphic in the human sense. Sexual reproduction did
-not become the same social or anatomical organizing axis on Zyphos.
+Airawa are not sexually dimorphic in the human sense. Sexual reproduction as
+humans know it did not become the same social or anatomical organizing axis on
+Zyphos.
 
-Airawa participate in a gestation contract. [[Mother Trees]] are literal
-gestators as well as archival powers: they receive compatible gametes,
-negotiate developmental conditions, and carry young through stages that bind
-body, symbiont memory, lineage, and local ecological obligation together.
+Airawa participate in mother-tree [[Gestation Webs]]. [[Mother Trees]] are
+literal gestators as well as archival powers: they receive compatible gametes
+from Airawa and other contracted species, negotiate developmental conditions,
+assemble viable genomes under local compatibility rules, and carry young
+through stages that bind body, symbiont memory, lineage, and ecological
+obligation together.
 
-Contracted pollinator species collect and deliver Airawa gametes as part of
-their own treaty relationships with mother trees and Airawa communities. This
-makes reproduction a public ecological contract rather than a private pair-bond
-event. It also gives pollinators political leverage, because a broken pollinator
-contract can threaten continuity without needing to defeat a tribe militarily.
+Contracted pollinator species do not merely transport gametes between nearby
+Airawa individuals. They serve as selective gamete-routing organs for the whole
+local gestation web, collecting from well-performing contributors across
+species and delivering that material to mother trees. This makes reproduction a
+public ecological contract rather than a private pair-bond event. It also gives
+pollinators political leverage, because a broken pollinator contract can
+threaten continuity without needing to defeat a tribe militarily.
 
 Imperial heredity policy is therefore not only eugenics applied to bodies. It is
 control over gestation access, pollinator routes, mother-tree compliance,
-symbiont inheritance, and which future persons are allowed to become locally
-real.
+contributor ranking, symbiont inheritance, and which future persons are allowed
+to become locally real.
 
 ## Pre-Imperial Pattern
 
@@ -90,7 +110,10 @@ still calls that continental destiny. The continent has not agreed.
 
 - How visible is imperial bioengineering in ordinary bodies?
 - What remnants of pre-imperial Airawa humility still survive inside imperial ritual?
+- What is the Airawa name for the armored neural-whip organ, and how much does
+  the imperial name distort the native one?
 - Which pollinator lineages handle ordinary gamete collection, elite lineage
-  contracts, forbidden resistance births, and imperial surveillance?
+  contracts, forbidden resistance births, cross-species contribution, and
+  imperial surveillance?
 - How much of a person's craft signal is readable across distant native Airawa
   polities, and how much remains deliberately local?

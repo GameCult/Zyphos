@@ -3,8 +3,8 @@ project:
   type: original_setting_obsidian_vault
   root_content_dir: Eusocial Interbeing
 current_status:
-  summary: Zyphos now has a Game Design plan for fractal NPC simulation that mirrors Aquarium mapped-domain architecture from continental population fields down to full individuals.
-  next_action: Use the fractal NPC plan to pressure-test Airawa and Sa'auei'a daily life, then feed Weksa naming briefs from organism and institution domains.
+  summary: Airawa reproduction now sits inside regional mother-tree gestation webs, with protected neural-whip gamete secretion and intelligent pollinator-equivalents routing selected genetic material across species.
+  next_action: Name the Airawa neural-whip organ and define pollinator guild variants for ordinary collection, elite contracts, resistance births, and imperial surveillance.
 active_subgoals:
   - Expand Airawa biology and imperial caste pressures.
   - Expand Sa'auei'a family-unit roles, breeding grounds, and mobile technologies.
@@ -23,6 +23,7 @@ key_files:
   mutable_memory_endosymbiosis: Eusocial Interbeing/Ecology/Mutable Memory Endosymbiosis.md
   zyphos_biosphere_examples: Eusocial Interbeing/Ecology/Zyphos Biosphere Examples.md
   fractal_eusocial_web: Eusocial Interbeing/Ecology/Fractal Eusocial Web.md
+  gestation_webs: Eusocial Interbeing/Ecology/Gestation Webs.md
   biosphere_index: Eusocial Interbeing/Biosphere/index.md
   game_design_index: Eusocial Interbeing/Game Design/index.md
   fractal_npc_simulation_plan: Eusocial Interbeing/Game Design/Fractal NPC Simulation Plan.md
