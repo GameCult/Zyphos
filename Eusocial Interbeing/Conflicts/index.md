@@ -1,6 +1,6 @@
 # Conflicts
 
-- [[Imperial Discovery of the Sa'auei'a]]
+- [[Imperial Discovery of the Sa'ueia]]
 - [[Xenophobic Memetic Campaign]]
 - [[Resistance of the Disconnected Networks]]
 - [[Continental Contact War]]

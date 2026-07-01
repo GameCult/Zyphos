@@ -11,4 +11,4 @@
 
 This setting foregrounds eusocial inter-species structures, reproductive commons, and memetic infrastructure more than first-contact plant diplomacy.
 
-The [[Airawa Empire]] turns ecological communication into domination. The [[Sa'auei'a]] maintain ecological bargaining as civilization. That contrast is the engine.
+The [[Airawa Empire]] turns ecological communication into domination. The [[Sa'ueia]] maintain ecological bargaining as civilization. That contrast is the engine.

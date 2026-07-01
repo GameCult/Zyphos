@@ -1,6 +1,6 @@
 # Xenophobic Memetic Campaign
 
-The Xenophobic Memetic Campaign is the Airawa Empire's response to discovering the [[Sa'auei'a]].
+The Xenophobic Memetic Campaign is the Airawa Empire's response to discovering the [[Sa'ueia]].
 
 Because the imperial center can shape belief across the imperial quarter of the
 [[Airawa Home Continent]], it floods citizens with totalitarian xenophobic

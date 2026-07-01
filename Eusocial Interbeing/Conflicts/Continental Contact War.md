@@ -1,6 +1,6 @@
 # Continental Contact War
 
-The Continental Contact War is the broad conflict between the [[Airawa Empire]] and the [[Sa'auei'a Nomadic Civilization]] after imperial discovery.
+The Continental Contact War is the broad conflict between the [[Airawa Empire]] and the [[Sa'ueia Nomadic Civilization]] after imperial discovery.
 
 ## Strategic Mismatch
 

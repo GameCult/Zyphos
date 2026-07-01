@@ -2,7 +2,7 @@
 
 Umbros-facing lantern trees are producer-archives that grow on slopes where [[World/Zyphos Umbros Binary System|Umbros]] dominates the sky. Their canopies carry cold bioluminescent knots that glow hardest during eclipse ingress. The light is too weak to replace the sun. It is enough to keep small traffic moving, which makes it infrastructure.
 
-They are not [[Species/Mother Trees|Mother Trees]], though the two can form treaties. Lantern trees specialize in route visibility, pollinator timing, infant shelter, and neighborhood taxation.
+They are not [[Matriarch Trees|Matriarch Trees]], though the two can form treaties. Lantern trees specialize in route visibility, pollinator timing, infant shelter, and neighborhood taxation.
 
 ## Body and Senses
 
@@ -38,7 +38,7 @@ Readable actions: knot pulses, path-lighting, sudden darkness, root tremors, pol
 
 ## Setting Links
 
-- [[Species/Mother Trees]]
+- [[Matriarch Trees]]
 - [[Ecology/Mother Tree Networks]]
 - [[Biosphere/Couriers and Pollinators/Threadwing Couriers]]
 - [[Biosphere/Decomposers and Recyclers/Candle Fungal Roads]]

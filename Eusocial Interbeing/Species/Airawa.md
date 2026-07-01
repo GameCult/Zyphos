@@ -2,7 +2,7 @@
 
 The Airawa are the dominant intelligent species of the [[Airawa Home Continent]]. They occupy the same broad narrative position that the Na'vi occupy in Avatar inspiration notes: a people integrated with powerful living networks, then forced into conflict over who controls those networks.
 
-In this setting, the Airawa are not universal. They did not evolve on the [[Sa'auei'a Continent]], and their absence there matters.
+In this setting, the Airawa are not universal. They did not evolve on the [[Sa'ueia Continent]], and their absence there matters.
 
 ## Body Plan
 
@@ -37,7 +37,7 @@ time.
 Airawa are not sexually dimorphic in the human sense. Sexual reproduction did
 not become the same social or anatomical organizing axis on Zyphos.
 
-Airawa participate in a gestation contract. [[Mother Trees]] are literal
+Airawa participate in a gestation contract. [[Matriarch Trees]] are literal
 gestators as well as archival powers: they receive compatible gametes,
 negotiate developmental conditions, and carry young through stages that bind
 body, symbiont memory, lineage, and local ecological obligation together.
@@ -55,7 +55,7 @@ real.
 
 ## Pre-Imperial Pattern
 
-Early Airawa societies lived in negotiated dependency with [[Mother Trees]]. The trees preserved communal memories, genealogies, ecological warnings, ritual songs, and disaster scars. In return, Airawa communities provided nutrients, defense, seed dispersal, selective pollination, and social obedience.
+Early Airawa societies lived in negotiated dependency with [[Matriarch Trees]]. The trees preserved communal memories, genealogies, ecological warnings, ritual songs, and disaster scars. In return, Airawa communities provided nutrients, defense, seed dispersal, selective pollination, and social obedience.
 
 The arrangement was not pure harmony. It was a contract with roots.
 

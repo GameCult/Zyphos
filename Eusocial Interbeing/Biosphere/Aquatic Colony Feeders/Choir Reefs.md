@@ -14,7 +14,7 @@ The reef's "song" is pressure modulation. Local swimmers feel it through lateral
 
 Choir reefs hide eggs, redirect currents, sour unsafe channels, and shelter injured swimmers. In return they demand mineral offerings, corpse return, larval respect, and honest passage. [[Biosphere/Couriers and Pollinators/Threadwing Couriers|Threadwing Couriers]] sometimes carry dried mineral taste from reefs inland, allowing trees and roads to price coastal news.
 
-Reefs maintain wary relations with [[Species/Sa'auei'a|Sa'auei'a]] coastal families. A reef may guide a family through storm channels for generations, then refuse passage after one hidden infection reaches its nursery shelves.
+Reefs maintain wary relations with [[Sa'ueia|Sa'ueia]] coastal families. A reef may guide a family through storm channels for generations, then refuse passage after one hidden infection reaches its nursery shelves.
 
 ## Behavioral Model
 
@@ -40,5 +40,5 @@ Readable actions: pressure pulses, current smoothing, sudden silence, sour water
 
 - [[Ecology/Nation Scale Interbeings]]
 - [[Biosphere/Couriers and Pollinators/Threadwing Couriers]]
-- [[Civilizations/Sa'auei'a Nomadic Civilization]]
+- [[Sa'ueia Nomadic Civilization]]
 - [[Ecology/Fractal Eusocial Web]]

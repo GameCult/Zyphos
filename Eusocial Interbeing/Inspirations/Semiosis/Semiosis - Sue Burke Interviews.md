@@ -12,6 +12,6 @@ Burke interviews are useful for thinking about plant cognition, colonization, an
 
 ## Translation Into This Setting
 
-The [[Mother Trees]] should not behave like humans in wooden costumes. Their coercion comes from timescale, memory leverage, reproductive strategy, and control over ecological continuity.
+The [[Matriarch Trees]] should not behave like humans in wooden costumes. Their coercion comes from timescale, memory leverage, reproductive strategy, and control over ecological continuity.
 
-The [[Sa'auei'a]] side should extend this lesson beyond plants: the continent itself is not one mind, but many remembered relationships.
+The [[Sa'ueia]] side should extend this lesson beyond plants: the continent itself is not one mind, but many remembered relationships.

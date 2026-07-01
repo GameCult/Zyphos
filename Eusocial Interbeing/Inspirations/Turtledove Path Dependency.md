@@ -13,4 +13,4 @@ Harry Turtledove's "The Road Not Taken" is useful as a path-dependency reference
 
 The [[Airawa Empire]] discovers the [[Biological Memetic Engine]] and becomes brilliant at biological persuasion, heredity management, and network domination. The cost is institutional imagination. Problems that cannot be solved through the engine are misread as contamination, savagery, or impossible nonsense.
 
-The [[Sa'auei'a]] counterpoint is not "better technology" but a different civilizational path: distributed reciprocity, mobile archives, sacred reproductive commons, and ecological reputation.
+The [[Sa'ueia]] counterpoint is not "better technology" but a different civilizational path: distributed reciprocity, mobile archives, sacred reproductive commons, and ecological reputation.

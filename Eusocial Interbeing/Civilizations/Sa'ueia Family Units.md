@@ -1,6 +1,6 @@
-# Sa'auei'a Family Units
+# Sa'ueia Family Units
 
-Sa'auei'a family units are squad-sized mobile groups. They combine kinship, defense, childcare, craft, trade, ritual practice, ecological negotiation, and memory keeping.
+Sa'ueia family units are squad-sized mobile groups. They combine kinship, defense, childcare, craft, trade, ritual practice, ecological negotiation, and memory keeping.
 
 ## Scale
 

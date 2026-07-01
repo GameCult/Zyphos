@@ -3,8 +3,8 @@
 - [[Airawa Empire]]
 - [[Pre-Imperial Airawa Tribes]]
 - [[Disconnected Tree Networks]]
-- [[Sa'auei'a Nomadic Civilization]]
-- [[Sa'auei'a Family Units]]
+- [[Sa'ueia Nomadic Civilization]]
+- [[Sa'ueia Family Units]]
 
 ## Design Rule
 

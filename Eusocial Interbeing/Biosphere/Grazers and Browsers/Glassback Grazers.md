@@ -14,7 +14,7 @@ During the bright recovery phase after eclipse, glassbacks stand flank-to-flank 
 
 Glassbacks graze [[Biosphere/Primary Producers/Prismwake Mats|Prismwake Mats]] under strict bite etiquette. They disperse [[Biosphere/Parasites and Symbionts/Burden Flowers|Burden Flowers]], carry fungal spores between [[Biosphere/Decomposers and Recyclers/Candle Fungal Roads|Candle Fungal Roads]], and provide threadwings with moving information surfaces.
 
-Herds often bargain with [[Species/Sa'auei'a|Sa'auei'a]] family units. The Sa'auei'a protect calving lanes, prune parasites, and read herd plate-states for weather and danger. In return, glassbacks tolerate close passage, carry lightweight goods, and lead families toward honest water.
+Herds often bargain with [[Sa'ueia|Sa'ueia]] family units. The Sa'auei'a protect calving lanes, prune parasites, and read herd plate-states for weather and danger. In return, glassbacks tolerate close passage, carry lightweight goods, and lead families toward honest water.
 
 ## Behavioral Model
 
@@ -40,5 +40,5 @@ Readable actions: exposing plates, fogging plates, heat-sharing, turning broadsi
 
 - [[Biosphere/Primary Producers/Prismwake Mats]]
 - [[Biosphere/Parasites and Symbionts/Burden Flowers]]
-- [[Civilizations/Sa'auei'a Family Units]]
+- [[Sa'ueia Family Units]]
 - [[Ecology/Reciprocal Ecologies]]

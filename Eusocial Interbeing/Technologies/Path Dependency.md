@@ -10,7 +10,7 @@ That does not mean the engine is useless. It means it is too useful. It eats alt
 
 ## Sa'auei'a Version
 
-The [[Sa'auei'a]] developed around mobility, reproductive commons, and ecological reciprocity. Their path dependency is less totalitarian, but still real: fixed infrastructure, secrecy, and rapid centralized war-making are culturally difficult for them.
+The [[Sa'ueia]] developed around mobility, reproductive commons, and ecological reciprocity. Their path dependency is less totalitarian, but still real: fixed infrastructure, secrecy, and rapid centralized war-making are culturally difficult for them.
 
 ## Comparative Use
 

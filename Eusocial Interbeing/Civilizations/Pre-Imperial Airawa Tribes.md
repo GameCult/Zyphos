@@ -1,6 +1,6 @@
 # Pre-Imperial Airawa Tribes
 
-Pre-imperial Airawa tribes lived in regional networks centered on [[Mother Trees]]. Their politics were local, ecological, and memory-dependent.
+Pre-imperial Airawa tribes lived in regional networks centered on [[Matriarch Trees]]. Their politics were local, ecological, and memory-dependent.
 
 ## Strengths
 

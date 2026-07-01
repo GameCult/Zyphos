@@ -1,6 +1,6 @@
 # Biological Memetic Engine
 
-The Biological Memetic Engine is the founding technology of the [[Airawa Empire]]. It began as a tool for freeing Airawa communities from [[Mother Trees]] that held communal memory hostage.
+The Biological Memetic Engine is the founding technology of the [[Airawa Empire]]. It began as a tool for freeing Airawa communities from [[Matriarch Trees]] that held communal memory hostage.
 
 ## Mechanism
 

@@ -12,7 +12,7 @@ Roads digest dead tissue, shed fibers, dung, spoiled nests, failed grafts, and a
 
 ## Ecological Contracts
 
-[[Biosphere/Primary Producers/Umbros-Facing Lantern Trees|Umbros-Facing Lantern Trees]] give sugars and shelter to road strands. Roads return minerals, disease warnings, and route continuity. [[Biosphere/Grazers and Browsers/Glassback Grazers|Glassback Grazers]] feed roads through dung and carried spores. [[Species/Sa'auei'a|Sa'auei'a]] family units treat roads as living recommendations because roads remember behavior at the scale where maps usually lie.
+[[Biosphere/Primary Producers/Umbros-Facing Lantern Trees|Umbros-Facing Lantern Trees]] give sugars and shelter to road strands. Roads return minerals, disease warnings, and route continuity. [[Biosphere/Grazers and Browsers/Glassback Grazers|Glassback Grazers]] feed roads through dung and carried spores. [[Sa'ueia|Sa'ueia]] family units treat roads as living recommendations because roads remember behavior at the scale where maps usually lie.
 
 [[Biosphere/Parasites and Symbionts/Mirror Amoebae|Mirror Amoebae]] can travel in road moisture, so roads maintain strict quarantine pockets. A careless road can become an identity leak.
 

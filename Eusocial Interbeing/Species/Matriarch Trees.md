@@ -1,4 +1,4 @@
-# Mother Trees
+# Matriarch Trees
 
 Mother Trees are memory-bearing ecological hubs native to the [[Airawa Home Continent]]. They store communal memories for Airawa tribes and coordinate local biological networks through root, fungal, chemical, electrical, and symbiotic channels.
 
@@ -10,7 +10,7 @@ This bargain was intimate and coercive at the same time. A community that defied
 
 ## Gestation
 
-Mother trees are literal Airawa gestators, not only symbolic ancestors or memory
+Matriarch trees are literal Airawa gestators, not only symbolic ancestors or memory
 servers. They receive compatible gametes through contracted pollinator species,
 manage developmental environments, and bind young Airawa into local symbiont
 memory, lineage, and ecological obligation before birth.

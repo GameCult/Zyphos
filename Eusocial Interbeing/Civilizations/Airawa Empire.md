@@ -1,7 +1,7 @@
 # Airawa Empire
 
 The Airawa Empire occupies roughly one quarter of the [[Airawa Home Continent]].
-It began as one tribe's anti-dependency project against [[Mother Trees]] and
+It began as one tribe's anti-dependency project against [[Matriarch Trees]] and
 became an artificial [[Nation Scale Interbeings|nation scale interbeing]] built
 around the [[Biological Memetic Engine]].
 

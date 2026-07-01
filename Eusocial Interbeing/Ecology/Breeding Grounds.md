@@ -1,6 +1,6 @@
 # Breeding Grounds
 
-Breeding Grounds are sacred communal sites of the [[Sa'auei'a]]. They are permanently occupied mainly by infants, infirm adults, caretakers, rotating specialists, and allied organisms.
+Breeding Grounds are sacred communal sites of the [[Sa'ueia]]. They are permanently occupied mainly by infants, infirm adults, caretakers, rotating specialists, and allied organisms.
 
 ## Social Role
 

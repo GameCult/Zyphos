@@ -25,9 +25,9 @@ the accepted answer before shader code treats it as real.
 Zyphos should show a planet whose large-scale geography makes the setting's core
 social ecologies visible:
 
-- [[Airawa Home Continent]]: archival dependency, [[Mother Trees]], imperial
+- [[Airawa Home Continent]]: archival dependency, [[Matriarch Trees]], imperial
   biological-memetic infrastructure, and surviving disconnected networks.
-- [[Sa'auei'a Continent]]: mobile reciprocity, sacred [[Breeding Grounds]],
+- [[Sa'ueia Continent]]: mobile reciprocity, sacred [[Breeding Grounds]],
   remembered routes, and family-unit political movement rather than permanent
   urban dominance.
 

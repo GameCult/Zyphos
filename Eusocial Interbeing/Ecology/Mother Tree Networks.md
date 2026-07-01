@@ -1,6 +1,6 @@
 # Mother Tree Networks
 
-Mother Tree Networks connect [[Mother Trees]] to local organisms, archives, chemical signaling paths, and Airawa communities.
+Mother Tree Networks connect [[Matriarch Trees]] to local organisms, archives, chemical signaling paths, and Airawa communities.
 
 ## Functions
 

@@ -1,8 +1,8 @@
 # Species
 
 - [[Airawa]]
-- [[Sa'auei'a]]
-- [[Mother Trees]]
+- [[Sa'ueia]]
+- [[Matriarch Trees]]
 - [[Ecological Memory Partners]]
 - [[Biosphere/index|Biosphere species examples]]
 
