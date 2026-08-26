@@ -6,8 +6,8 @@ import ZyphosSinglePageRedirect from "./quartz/components/ZyphosSinglePageRedire
 import ZyphosThemeLock from "./quartz/components/ZyphosThemeLock"
 
 const ZyphosGraphShell = Component.GameCultGraphSpaShell({
-  stylesheetHref: "/static/norn-graph/assets/viewer.css?v=norn-fa4a46b",
-  moduleSrc: "/static/norn-graph/assets/viewer.js?v=norn-fa4a46b",
+  stylesheetHref: "/static/norn-graph/assets/viewer.css?v=quartz-8aa91ed-norn-fa4a46b",
+  moduleSrc: "/static/norn-graph/assets/viewer.js?v=quartz-8aa91ed-norn-fa4a46b",
   rootClassName: "gamecult-norn-graph-root zyphos-norn-graph-root",
   config: {
     title: "Zyphos Biosphere Graph",
