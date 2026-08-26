@@ -6,9 +6,25 @@ import ZyphosSinglePageRedirect from "./quartz/components/ZyphosSinglePageRedire
 import ZyphosThemeLock from "./quartz/components/ZyphosThemeLock"
 
 const ZyphosGraphShell = Component.GameCultGraphSpaShell({
-  stylesheetHref:
-    "/static/epiphany-graph/assets/viewer.css?v=graph-20260524-flight-option",
-  moduleSrc: "/static/epiphany-graph/assets/viewer.js?v=graph-20260524-flight-option",
+  stylesheetHref: "/static/norn-graph/assets/viewer.css?v=norn-fa4a46b",
+  moduleSrc: "/static/norn-graph/assets/viewer.js?v=norn-fa4a46b",
+  rootClassName: "gamecult-norn-graph-root zyphos-norn-graph-root",
+  config: {
+    title: "Zyphos Biosphere Graph",
+    architectureDescription:
+      "Zyphos notes as a navigable ecological atlas. Wiki links connect species, habitats, technologies, conflicts, and the institutions that act through them.",
+    blockedSlugPrefixes: ["Inspirations/"],
+    sectionOrder: [
+      "World",
+      "Ecology",
+      "Species",
+      "Civilizations",
+      "Technologies",
+      "Conflicts",
+      "Themes",
+      "Root",
+    ],
+  },
 })
 
 export const sharedPageComponents: SharedLayout = {
