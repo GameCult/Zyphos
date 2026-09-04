@@ -16,6 +16,14 @@ Burden flowers warn hosts about disease, hostile route memory, bad water, and pr
 
 Sa'auei'a family units may cultivate trusted lineages as route companions. The Airawa Empire dislikes unmanaged burden flowers because they make private weakness public without asking doctrine for permission.
 
+## Witness Blooming
+
+*Ghostlight elaboration for `veil-witness-bloom-v0`.*
+
+A burden flower attached before an imperial memory edit can retain a compressed trace of the host's earlier sweat, immune, and stress chemistry in its own rootlet tissues. Later mineral feeding or contact with [[Biosphere/Primary Producers/Prismwake Mats|Prismwake Mats]] can make the flower replay that mismatch as color, scent, and tightening roots. This witness bloom can show that a body was changed and what broad state was suppressed—fear, recognition, attachment, pain—but it cannot recover the erased proposition or prove who ordered the edit. The flower remembers what the host's body had to become quiet about, not the secret itself.
+
+Imperial hygiene workers therefore remove unmanaged flowers before doctrinal treatment and teach that delayed blooms are parasite sickness. [[Disconnected Tree Networks]] instead move suspected witnesses along negotiated [[Biosphere/Decomposers and Recyclers/Candle Fungal Roads|Candle Fungal Roads]] and compare their displays with mat records or older host traces. Disclosure has teeth on every side: a bright bloom can expose the edited host and the route sheltering them; repeated forced replay starves the flower and rewards exaggeration; a hungry flower, a changed host, or [[Biosphere/Parasites and Symbionts/Mirror Amoebae|Mirror Amoebae]] contamination can turn evidence into chemical rumor. No competent network treats one bloom as a verdict.
+
 ## Behavioral Model
 
 Primary drives: secure a mobile host, feed on minerals and light, avoid grooming removal, reproduce near suitable routes, and maintain enough credibility to be tolerated.
