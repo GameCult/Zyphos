@@ -16,6 +16,16 @@ Burden flowers warn hosts about disease, hostile route memory, bad water, and pr
 
 Sa'auei'a family units may cultivate trusted lineages as route companions. The Airawa Empire dislikes unmanaged burden flowers because they make private weakness public without asking doctrine for permission.
 
+## Grooming Contract
+
+*Ghostlight elaboration for `patina-burden-flower-grooming-v0`.*
+
+Sa'auei'a groom a trusted burden flower during the returning-light interval after eclipse. The host settles beside a shallow mineral-wash bowl while a companion uses soft three-pronged combs to lift shed fibers from the clasping rootlets, turn each leaf into the brief light, and remove only tissue the flower has already let go dull. A cooperative flower loosens one rootlet at a time, drinks from the wetted comb, and drops ripe seed beads into a second bowl. Keeping it fed costs carried mineral salts, a useful strip of post-eclipse light, and time when the family would often prefer to be moving.
+
+After a flower has made an alarm bloom, grooming is witnessed by someone other than the host. The witness notes the flower's color before washing and leaves the used mineral water at the fungal road verge, where its diluted chemistry can be compared with the flower's public report. This protects both parties: a host may prune dead growth and refuse a painful attachment point, but cutting live sensory filaments to mute testimony makes nearby roads and prismwake mats discount the whole family's account; a flower that keeps blooming an old fear after feeding spends its own credibility.
+
+Neglect first makes the contract petty rather than dramatic. Hungry rootlets pinch, leaves crowd the best light, and the flower repeats strong memories because strong memories earn attention. Continued neglect causes skin inflammation, badly placed seed shedding, false alarms, and eventual removal. Forced stripping is worse: the flower broadcasts distress through bitter sap and the host keeps an irritated memory-bearing wound, so a private grooming quarrel can arrive at the next route as shared evidence.
+
 ## Behavioral Model
 
 Primary drives: secure a mobile host, feed on minerals and light, avoid grooming removal, reproduce near suitable routes, and maintain enough credibility to be tolerated.
