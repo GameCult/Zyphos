@@ -4,6 +4,7 @@
 - [[Eusocial Inter-Species Dynamics]]
 - [[Fractal Eusocial Web]]
 - [[Mother Tree Networks]]
+- [[Two-Crown Hunger]]
 - [[Breeding Grounds]]
 - [[Reciprocal Ecologies]]
 - [[Disconnected Tree Networks]]

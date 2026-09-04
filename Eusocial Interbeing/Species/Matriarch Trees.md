@@ -8,6 +8,8 @@ Pre-imperial Airawa communities depended on mother trees for continuity beyond l
 
 This bargain was intimate and coercive at the same time. A community that defied its mother tree risked losing ancestral memory, ecological warning, and legal continuity.
 
+Some rival trees bind their bargains together through [[Ecology/Two-Crown Hunger|Two-Crown Hunger]], jointly cultivating mobile guilds whose inherited metabolism requires both groves. The guild becomes a constituency neither tree can starve without damaging her own food web.
+
 ## Gestation
 
 Matriarch trees are literal Airawa gestators, not only symbolic ancestors or memory

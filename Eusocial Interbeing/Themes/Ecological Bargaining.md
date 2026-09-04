@@ -7,3 +7,5 @@ The Airawa bargain was archival and rooted: nutrients and obedience in exchange 
 The Sa'auei'a bargain is mobile and reputational: generosity and restraint in exchange for future access, guidance, and protection.
 
 Imperial biopolitics tries to abolish bargaining by turning ecology into command infrastructure. That works until it reaches organisms and societies that remember without obeying.
+
+[[Ecology/Two-Crown Hunger|Two-Crown Hunger]] turns a bargain into inherited metabolism: two rival Matriarchs jointly feed a mobile guild, while the guild and every niche that depends on its labor become a cross-border constituency.
