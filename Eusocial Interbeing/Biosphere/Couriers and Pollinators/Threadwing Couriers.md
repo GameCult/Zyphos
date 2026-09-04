@@ -16,6 +16,20 @@ Threadwings pollinate [[Biosphere/Primary Producers/Umbros-Facing Lantern Trees|
 
 They are paid in nectar, warm roosts, salt, preened parasites, and reliable route light. They punish bad partners by withholding pollination, scrambling message order, or delivering a grievance to someone with teeth.
 
+## Authored Elaboration: Lower Lantern Shelf Birth-Route Leverage
+
+*Tangle pass, 2026-09-04. "Lower Lantern Shelf" is a provisional translated locality name.*
+
+The Lower Lantern Shelf is a chain of gestation terraces within a mother-tree archival polity. Three threadwing roosts renew a seasonal compact there with the local [[Matriarch Trees|Matriarch]] and its Airawa contract keepers. The tree supplies warm nesting hollows, nectar wells, parasite grooming, salt combs, and protected distance from climbing traffic. The roosts carry selected Airawa gametes between gestators, pollinate the shelf's [[Biosphere/Primary Producers/Umbros-Facing Lantern Trees|lantern trees]], and bring sickness reports from the [[Biosphere/Decomposers and Recyclers/Candle Fungal Roads|candle roads]]. None of those services is politically separate.
+
+When the Shelf Matriarch wants leverage over a rival gestation grove, it can ask the roosts to close their vanes to that grove's reproductive cargo. A full refusal also removes lantern pollination and delays fungal disease reports along the same route. The rival therefore loses births, route light, nectar, fruit, and warning time together. Imperial and native negotiators both call this a courier decision when they want to hide the tree that made nest shelter conditional.
+
+The roosts are not a single obedient constituency. Nest keepers value warm hollows and egg safety. Long-route couriers defend the reputation that makes other ecologies accept their cargo. Their gut symbionts need varied routes and viable exchange partners. Lantern trees and fungal roads may reject a closure that invokes disease without carrying credible sickness memory, because they pay for the lie in lost traffic, sugar, minerals, and warning. Airawa contract keepers can witness these interests, feed them, or falsify their signals; they cannot make the interests disappear.
+
+This leverage breaks when it is overused. Stranded gametes lose viability. Repeated route closure narrows the Shelf Matriarch's own access to genetic variation, imported immune memory, and honest disease news. Pollination loss reduces the nectar that paid the couriers, and fungal roads reroute around a shelf that has made testimony useless. A Matriarch can compel one season by threatening nests. Sustained coercion teaches the roosts, lantern trees, roads, and rival gestators to become a different alliance.
+
+The least destructive settlement is a narrow cargo quarantine witnessed by couriers, roads, lanterns, and Airawa keepers while nourishment and warning traffic remain open. The politically useful lie is to call a lineage embargo a quarantine and make one closed route starve a rival's whole food web.
+
 ## Behavioral Model
 
 Primary drives: feed, mate, maintain route reputation, protect nests, and keep symbiont cargo viable.
