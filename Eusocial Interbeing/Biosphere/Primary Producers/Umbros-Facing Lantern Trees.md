@@ -16,6 +16,18 @@ Lantern trees feed pollinator analogues and shelter young grazers during dangero
 
 [[Biosphere/Decomposers and Recyclers/Candle Fungal Roads|Candle Fungal Roads]] often braid through the roots. The tree gives sugars and vertical weather memory. The road gives mineral reports, corpse recovery, and distant disease news. If the road lies, the tree can starve it locally. If the tree closes too much traffic, the road can reroute social life away from the grove.
 
+## Eclipse-Ingress Knot Blight
+
+*Ghostlight authored elaboration for `ember-lantern-knot-blight-v0`.*
+
+Knot blight is the route-reader's name for a failure pattern, not a proven single disease. At eclipse ingress, affected light knots repeat stale invitation or quarantine pulses while the outer memory cambium misfiles fresh pollen, wound, and passage signals as old agreements. The same visible fault can begin with incompatible memory traffic, a damaged root exchange, hungry knot tissue, or contamination carried through a courier or fungal braid. A tree cannot diagnose the cause merely by watching its own light lie.
+
+The first competent response is to darken and isolate the affected canopy sector. That protects deep archive rings but immediately removes route light, nectar, roost access, and infant shelter. The tree can spend stored sugar to keep one clean knot line lit, invite [[Biosphere/Decomposers and Recyclers/Lattice Ants|lattice ants]] to read shed fibers and cambium residue, or shed the suspect knot-bearing limb. Each option has a price: emergency light starves later growth, ant testimony can be sold twice, and shedding destroys recent route memory together with the contaminated tissue.
+
+The neighborhood repositions within one eclipse. [[Biosphere/Couriers and Pollinators/Threadwing Couriers|Threadwings]] circle or abandon a grove whose signals cannot be trusted. The candle road asks for extra sugar before opening a detour and may carry its disease reports to rival trees. [[Biosphere/Grazers and Browsers/Glassback Grazers|Glassback]] herds crowd the remaining lit shelter, exposing calves and roots to trampling pressure. At a wetland edge, rerouted bodies cross [[Biosphere/Primary Producers/Prismwake Mats|prismwake mats]] during their closed phase, so the mats answer with bitterness and exclusion just when grazers need recovery food.
+
+Closure therefore contains one hazard by exporting several others. If the grove stays dark across repeated eclipses, pollination, road sugars, shelter traffic, and local credibility collapse; neighbors inherit the traffic and gain leverage over whatever returns. If the tree keeps a false or doubtful lane open, corrupted memory can move through courier guts, fungal moisture, and wounded roots before the next light cycle. The urgent dispute is never simply whether to quarantine. It is which relationship will be allowed to fail first, who will be paid to carry the failure elsewhere, and how much recent memory the tree will cut away to remain itself.
+
 ## Behavioral Model
 
 Primary drives: harvest light, preserve root integrity, maintain pollinator traffic, regulate safe passage, and avoid archive contamination.
