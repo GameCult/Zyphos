@@ -8,6 +8,8 @@ The engine uses engineered organisms, signals, and ritual payloads to propagate 
 
 It is not simple hypnosis. It is ecological propaganda with teeth in the substrate.
 
+Its stable operation also depends on [[The Unbelieved]], the living denial-organ network that carries contradictions the imperial topology cannot safely erase.
+
 The engine is strongest inside the imperial topology, where borders, archives,
 reproduction, and symbiont traffic have already been engineered for legibility.
 It is less reliable against native [[Nation Scale Interbeings]] whose boundaries
