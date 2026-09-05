@@ -1,11 +1,19 @@
 # Sa'ueia Continent
 
-The Sa'ueia continent never produced the [[Airawa]] species and was never colonized by them before the imperial discovery era. Its dominant intelligent species, the [[Sa'ueia]], evolved inside migratory ecological politics rather than fixed archival dependency.
+The [[Sa'ueia]] are the dominant intelligent species of this continent. They live in mobile family units, carrying their civilization with them as they travel. The [[Airawa]] never evolved here and had not colonized it before the imperial discovery era.
 
-The continent remembers motion. Herds, root mats, nesting cliffs, mineral licks, fungal waystations, and seasonal bloom corridors respond to repeated generosity. A family unit that overdraws a region may survive the week and lose the decade.
+Sa'ueia society developed through migration and negotiation with the ecologies along its routes. Its knowledge and social order did not develop around dependence on archives rooted in fixed places.
+
+## Living Along Remembered Routes
+
+Travel depends on relationships built over repeated visits. Herds, root mats, nesting cliffs, mineral licks, fungal waystations, and seasonal bloom corridors respond to repeated generosity. In this sense, the continent remembers how families move through it and what they give or take.
+
+Taking too much from a region can therefore have consequences long after a family leaves. A family may get enough to survive the week while damaging the ecological relationships it will need for the next decade.
 
 ## Civilizational Pattern
 
-Sa'ueia civilization is advanced but not urban in the Airawa sense. Knowledge, law, craft, and diplomacy travel in [[Sa'ueia Family Units]]. Permanent occupation is concentrated at [[Breeding Grounds]], which are cared for by infants, infirm adults, rotating specialists, and ecological partners.
+Sa'ueia civilization is advanced, but it does not concentrate its institutions in cities as the Airawa do. [[Sa'ueia Family Units]] carry knowledge, law, craft, and diplomacy across the continent. Movement is part of how those institutions work.
 
-The result looks weak to imperial observers because it lacks obvious capitals. This is the empire being stupid in a very official font.
+Permanent occupation is concentrated at [[Breeding Grounds]]. Infants, infirm adults, rotating specialists, and ecological partners care for these sites while family units circulate through the wider continent.
+
+Imperial observers see no obvious capitals and mistake that absence for weakness. Their assessment overlooks the institutions traveling past them.
