@@ -1,18 +1,15 @@
 # Disconnected Tree Networks
 
-Disconnected Tree Networks are surviving mother-tree ecologies that severed themselves before the [[Biological Memetic Engine]] could fully overwhelm them.
+Disconnected Tree Networks are surviving mother-tree ecologies that cut their connections before the [[Biological Memetic Engine]] could fully overwhelm them. The engine spreads ideas and alters responses through living networks; severing those connections allowed these ecologies to survive.
 
-They are not unified. Some shelter anti-imperial Airawa communities. Some are more tree-led than people-led. Some may be hostile to every Airawa body touched by imperial bioengineering.
+The networks do not form a unified resistance. Some shelter anti-imperial Airawa communities. In others, trees have more control than people. Some may be hostile to any Airawa whose body has been altered by imperial bioengineering.
 
-## Strategic Role
+## Fighting the Empire
 
-They actively fight the [[Airawa Empire]] through sabotage, ecological misdirection, immune countermeasures, memory preservation, and rumor paths the engine cannot fully digest.
+The networks actively fight the [[Airawa Empire]]. They sabotage it, use ecological misdirection to mislead it, and deploy immune countermeasures against it. They also preserve memories and keep rumors moving through routes the engine cannot fully process.
 
-## Political Tension
+## Enemies the Empire Denies
 
-The empire denies they exist. This creates useful pressure:
+The empire denies that the networks exist. Soldiers who encounter them can therefore be punished for reporting real enemies. Officials can also use these officially “nonexistent” threats as grounds for internal purges.
 
-- soldiers can be punished for reporting real enemies;
-- officials can exploit "nonexistent" threats for internal purges;
-- resistance groups can weaponize the empire's need to lie;
-- imperial citizens can encounter proof that consensus is manufactured.
+That denial gives resistance groups something to exploit: the empire needs to maintain its lie even while fighting the networks. For imperial citizens, evidence that the networks exist can reveal that the consensus they live under has been manufactured.
