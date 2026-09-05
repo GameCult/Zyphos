@@ -1,6 +1,8 @@
 # Zyphos Biosphere Examples
 
-These examples are design handles for a biosphere shaped by [[Mutable Memory Endosymbiosis]] and mapped in the [[Fractal Eusocial Web]]. The expanded species articles live in [[Biosphere/index|Biosphere]], organized by trophic role. Each one should survive the same test: the organism is not an Earth lifeform with telepathy stapled on. Its body, behavior, and contracts come from mutable cellular memory, low available energy, daily eclipse pressure, and eusocial negotiation across scale.
+Zyphos organisms carry changeable memories in their cells. Those memories affect how they feed, travel, cooperate, and respond to other life. The examples below explore a biosphere shaped by [[Mutable Memory Endosymbiosis]], where cooperation and negotiation connect cells, organisms, and larger communities as mapped in the [[Fractal Eusocial Web]].
+
+These are design sketches, with expanded species articles in [[Biosphere/index|Biosphere]], grouped by their role in feeding and nutrient exchange. Each organism's body, behavior, and agreements with other life should follow from the setting's conditions: mutable cellular memory, scarce available energy, daily eclipses, and eusocial relationships across scales. Resembling an Earth organism is a useful starting point; adding telepathy to one is not enough.
 
 ## Expanded Species Pages
 
@@ -18,64 +20,64 @@ These examples are design handles for a biosphere shaped by [[Mutable Memory End
 
 ### Prismwake Mats
 
-Prismwake mats are thin wetland sheets that open before predictable eclipse-shadow and close after the returning light. Their surface cells store short-lived optical memories: angle, warmth, recent grazers, and chemical promises left by passing animals.
+Prismwake mats spread in thin sheets through wetlands. They open before the predictable eclipse shadow and close after the light returns. Their surface cells briefly remember light angle, warmth, recent grazers, and promises that passing animals leave in chemical form.
 
-They brighten shallow marshes with pale green, blue, and rose flashes when light returns. The color is not display for display's sake. It is a settlement ledger. Grazers that fed gently receive easier sugars next pass. Biters that tore too much meet bitter tissue and warning blooms.
+When light returns, pale green, blue, and rose flashes brighten the shallow marshes. These colors register the mats' dealings with visitors. An animal that grazed gently receives more accessible sugars on its next pass. One that tore away too much encounters bitter tissue and warning blooms. Feeding leaves a record, and that record changes the next meal.
 
 ### Umbros-Facing Lantern Trees
 
-These tree-analogues grow on slopes where Umbros dominates the sky. Their canopies hold low, cold bioluminescent knots that glow hardest during eclipse ingress. The light is not enough to replace the sun. It is enough to keep pollinator-analogues, infant colonies, and fungal couriers moving through the dim hour.
+These tree-like organisms grow on slopes where Umbros dominates the sky. Knots of cold bioluminescence shine dimly within their canopies, reaching their greatest intensity as an eclipse begins. They cannot replace sunlight, but they provide enough light for pollinator-like organisms, infant colonies, and fungal couriers to keep moving through the dim hour.
 
-Each tree is a local parliament of tissues, symbionts, and visitors. A lantern pulse can mean food access, quarantine, invitation, mourning, or tax. The Airawa learned early that a tree that lights the path can also close the road.
+A tree's tissues, symbionts, and visitors participate in local decisions, making each tree a kind of parliament. Its lantern pulses can signal access to food, quarantine, invitation, mourning, or a demand for payment. The Airawa learned early that relying on a tree for guidance also means dealing with its authority: it can illuminate a route or close it.
 
 ### Threadwing Couriers
 
-Threadwings are bird-analogues with ribbonlike sensory vanes instead of feathers. They cross between memory-bearing groves carrying gut symbionts, pollen analogues, wound scents, and fragments of route memory.
+Threadwings resemble birds, but have ribbonlike sensory vanes in place of feathers. As they travel between memory-bearing groves, they carry gut symbionts, pollen analogues, wound scents, and fragments of remembered routes.
 
-They are independent enough to choose mates, flee predators, and hold local grudges. They are not independent enough to be "just birds." A flock is also a courier guild, a voting packet, a seed dispersal treaty, and occasionally a lawsuit with wings.
+Individuals choose mates, flee predators, and retain local grudges. That independence exists alongside wider obligations. A flock carries messages as a courier guild, conveys votes, participates in seed-dispersal agreements, and sometimes carries a legal dispute. Watching where the animals fly tells only part of what is moving between groves.
 
 ### Glassback Grazers
 
-Glassbacks are mammal-analogues whose translucent dorsal plates expose living heat-storage tissue. During the short bright phase after eclipse, they stand in dense arrangements that let their bodies exchange thermal and memory gradients.
+Glassbacks are mammal-like organisms with translucent plates along their backs. Living tissue beneath the plates stores heat. In the short bright phase after an eclipse, the grazers gather in dense arrangements that allow heat and memory gradients to pass between their bodies.
 
-Predators can read the plates. So can herd-mates, parasites, caretakers, and patient children. A glassback's body is honest in ways no individual would choose if evolution had given it normal privacy. Evolution did not ask nicely.
+The plates also make their bodily states readable. Herd-mates, caretakers, and patient children can interpret them; predators and parasites can too. This visibility leaves an individual with little choice about what others learn from its body. The same anatomy that supports exchange within the herd exposes it to unwelcome readers.
 
 ### Lattice Ants
 
-Lattice ants are insect-analogues that build temporary bridges from their own bodies, shed fibers, and cultivated microbial glue. Their trails are not just scent paths. They are short-term memory circuits that let a colony ask the ground what recently crossed it.
+Lattice ants resemble insects and assemble temporary bridges from their bodies, shed fibers, and microbial glue that they cultivate. Their trails retain more than scent: they form short-lived memory circuits through which a colony can learn what recently crossed the ground.
 
-They are often used by larger organisms as cheap local diagnostics. This is risky. A lattice ant colony paid in sugar may still report your passage to a root mat that has better credit.
+Larger organisms often employ colonies for inexpensive local checks. Paying for a report does not necessarily buy secrecy. A colony paid in sugar may still tell a root mat about the customer's passage if that root mat has better credit.
 
 ### Mirror Amoebae
 
-Mirror amoebae live in wounds, ponds, stomachs, and root sheaths. They copy small memory states from nearby cells and replay distorted versions until the host tissue accepts, rejects, or rewrites them.
+Mirror amoebae inhabit wounds, ponds, stomachs, and root sheaths. They copy small memory states from neighboring cells, then replay distorted versions. The process continues until the host tissue accepts, rejects, or rewrites what they replay.
 
-They are useful for healing and dangerous for identity. Imperial biotechnicians love them in the way empires love anything that makes consent look technically complicated.
+This makes them useful in healing and dangerous to identity. Imperial biotechnicians prize them in particular: a process that lets tissue accept altered memories also makes consent technically complicated, which suits imperial purposes.
 
 ### Candle Fungal Roads
 
-Candle fungal roads are dim mycelial corridors that connect breeding grounds, groves, mineral licks, and seasonal shelters. Their fruiting bodies open in timed waves after eclipses, marking routes with faint amber beads.
+Candle fungal roads are dim corridors of mycelium connecting breeding grounds, groves, mineral licks, and seasonal shelters. After eclipses, their fruiting bodies open in timed waves. Faint amber beads mark the routes.
 
-Sa'auei'a family units treat a bright road as a living recommendation, not a map. The road remembers who fed it, who trampled it, who carried its spores, and who arrived with sick tissue and lied about it.
+Sa'auei'a family units read a brightly lit road as advice from a living organism. Its recommendation carries a history of dealings with travelers. The road remembers who fed it, who trampled it, who transported its spores, and who arrived carrying sick tissue while lying about it. Following its lights means following something that remembers how it has been treated.
 
 ### Choir Reefs
 
-Choir reefs are aquatic colony-analogues that pulse with pressure, mineral taste, and low-frequency vibration. Their cells store route memory from fish-analogues, drifting larvae, storm debris, and visiting divers.
+Choir reefs are aquatic colonies that signal through pressure pulses, mineral taste, and low-frequency vibration. Their cells retain route memories gathered from fish-like organisms, drifting larvae, storm debris, and visiting divers.
 
-They do not speak in words. They can still answer. A reef may open shelter, sour a channel, hide eggs, disclose a current, or sing a predator toward someone who has mistaken silence for stupidity.
+A reef gives answers through changes in its surroundings rather than words. It may open a shelter, sour a channel, conceal eggs, or reveal a current. It can also use its song to draw a predator toward someone who has taken its lack of words as evidence that it cannot understand or respond.
 
 ### Burden Flowers
 
-Burden flowers are small mobile plant-analogues that attach to the hides of grazers and travelers. They drink sweat, light, and trace minerals while storing local emotional and immune states.
+Burden flowers are small, mobile plant-like organisms that attach to the hides of grazers and travelers. They take in sweat, light, and trace minerals while storing local emotional and immune states.
 
-In healthy contracts they warn hosts of disease or hostile territory. In bad contracts they become gossiping parasites. A burden flower can save your child and ruin your reputation before the next eclipse.
+What a host receives in return depends on the relationship. Under healthy agreements, flowers warn of disease or hostile territory. Under bad ones, they become parasites that spread information about their hosts. Protection and disclosure can happen together: a flower may save a host's child and ruin the host's reputation before the next eclipse.
 
 ## Render Notes
 
-For Zyphos, these examples suggest color and motion without breaking the low-energy premise:
+These organisms should give Zyphos color and movement while remaining consistent with scarce available energy:
 
-- brief light-return flashes rather than constant neon;
-- cold eclipse guidance lights instead of bright fantasy lanterns;
-- route-like glows, pulsing mats, and timed fruiting waves;
-- visible memory contracts as patterns that appear, refuse, dim, or reroute;
-- organisms that read as beautiful because they are doing work.
+- Use brief flashes when light returns, rather than constant neon.
+- Keep eclipse guidance lights cold and dim, with enough illumination to guide movement rather than the brightness of fantasy lanterns.
+- Show glowing routes, pulsing mats, and fruiting bodies opening in timed waves.
+- Make agreements between organisms visible through patterns that appear, signal refusal, dim, or change direction.
+- Let their beauty come from visible biological work: gathering energy, guiding travel, exchanging memory, and responding to other life.
