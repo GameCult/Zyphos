@@ -1,15 +1,9 @@
 # Mother Tree Networks
 
-Mother Tree Networks connect [[Matriarch Trees]] to local organisms, archives, chemical signaling paths, and Airawa communities.
+Mother Tree Networks are living systems that connect [[Matriarch Trees]] with Airawa communities, local organisms, archives, and chemical signaling paths. Through these connections, trees preserve communal memory, pass on ecological warnings, and mediate obligations between species.
 
-## Functions
+Airawa communities depend on the networks to retain access to their ancestors’ memories. The trees regulate that access, giving them power over the communities they serve: defying a tree can mean losing the continuity it preserves.
 
-- preserve communal memory;
-- coordinate ecological warnings;
-- mediate obligations between species;
-- regulate access to ancestral continuity;
-- provide the substrate later exploited by the [[Biological Memetic Engine]].
+## Imperial Exploitation
 
-## Failure Mode
-
-Trust made the network powerful. Trust also made it penetrable. The empire did not need to defeat every tribe separately once it could turn shared memory into shared infection.
+The [[Biological Memetic Engine]] later used these same networks to spread imperial influence. Connections trusted to carry communal memory became routes for memetic-biological infection. Once the empire could spread infection through those shared connections, it no longer needed to defeat every tribe separately.
