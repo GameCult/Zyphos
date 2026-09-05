@@ -1,96 +1,52 @@
 # Airawa
 
-The Airawa are the dominant intelligent species of the [[Airawa Home Continent]]. They occupy the same broad narrative position that the Na'vi occupy in Avatar inspiration notes: a people integrated with powerful living networks, then forced into conflict over who controls those networks.
+The Airawa are the dominant intelligent species of the [[Airawa Home Continent]]. They have six limbs, bodies adapted for climbing, and societies that depend on living networks for memory and reproduction. Trees preserve their communal past and gestate their young. Agreements with those trees and other species shape who can reproduce, what a community remembers, and who will defend it.
 
-In this setting, the Airawa are not universal. They did not evolve on the [[Sa'ueia Continent]], and their absence there matters.
+Control of these relationships is central to Airawa conflict. In the Avatar inspiration notes, they occupy a broad narrative position comparable to the Na'vi: a people integrated with powerful living networks who must struggle over who controls them. That comparison is an inspiration reference, not a shared identity or biology.
+
+Airawa did not evolve everywhere on Zyphos. They are absent from the evolutionary history of the [[Sa'ueia Continent]], and that absence matters to the setting.
 
 ## Body Plan
 
-Airawa are a six-limbed, reptilian-adjacent dominant species rather than a
-human silhouette with better scenery. Their evolutionary heritage is visible in
-tiny soft scales, minimal slit-like noses and ears, and grown plate sections
-whose seams expose fine bioluminescent traces.
+An adult Airawa can grip a tree with taloned feet, brace or threaten with large upper arms, and perform delicate work with smaller lower hands—all at once. Their six limbs have different jobs, and their bodies should shape how they build, fight, make tools, perform rituals, learn to move as children, and portray themselves.
 
-The upper limb pair is larger, stronger, and clawed for climbing, hanging,
-hauling, territorial display, and defensive leverage. The lower limb pair is
-smaller and more precise, used for tool manipulation, craft, grooming, record
-handling, and other close work. Lower manipulator hands are blunt and clawless:
-four soft digits arranged as two opposing pairs, suited to touch, tying,
-sorting, grafting, and record handling rather than tearing.
+Airawa are reptilian-adjacent in form. They have tiny soft scales, minimal slit-like noses and ears, and grown plate sections with fine bioluminescent traces visible at the seams.
 
-The feet are part of the climbing system, not human feet with red paint. Airawa
-legs are long and digitigrade, with arboreal grasping feet whose four toes are
-also arranged as two opposing pairs. The toes and extended metatarsal tips carry
-hooked climbing talons for anchoring into bark, roots, plate ridges, and branch
-scar tissue. These talons are load-bearing movement tools paired with the upper
-climbing arms. They may tuck close against the toes during ground travel, but
-they are not fully cat-like retractable claws.
+The upper arms are larger, stronger, and clawed. They serve climbing, hanging, hauling, territorial display, and defense, where their strength provides leverage. The smaller lower arms handle tools, craft, grooming, records, and other close work. Each lower hand has four soft, blunt, clawless digits arranged in two opposing pairs. These hands can touch, tie, sort, and graft with precision; they are poorly suited to tearing.
 
-The result is not decorative extra arms. Airawa architecture, warfare,
-toolmaking, ritual posture, childhood movement, and portraiture should all
-remember that a mature Airawa can anchor with taloned feet, brace or threaten
-with clawed upper arms, and make delicate things with lower hands at the same
-time.
+The long legs are digitigrade, with the heels raised. Each grasping foot also has four toes in two opposing pairs. Hooked climbing talons on the toes and extended metatarsal tips anchor into bark, roots, plate ridges, and branch scar tissue. Together with the upper arms, they bear the body's weight during climbing. The talons may tuck close against the toes for ground travel, but they do not retract fully like a cat's claws.
 
-## Reproduction
+Airawa anatomy therefore affects more than appearance. Architecture, warfare, toolmaking, ritual posture, childhood movement, and portraiture all need to account for a body that can anchor, brace, and manipulate at the same time.
 
-Airawa are not sexually dimorphic in the human sense. Sexual reproduction did
-not become the same social or anatomical organizing axis on Zyphos.
+## Memory and Reproduction
 
-Airawa participate in a gestation contract. [[Matriarch Trees]] are literal
-gestators as well as archival powers: they receive compatible gametes,
-negotiate developmental conditions, and carry young through stages that bind
-body, symbiont memory, lineage, and local ecological obligation together.
+Early Airawa communities negotiated their dependence on [[Matriarch Trees]], also called mother trees. The trees preserved communal memories, genealogies, ecological warnings, ritual songs, and records of disasters. Airawa supplied nutrients, defense, seed dispersal, selective pollination, and social obedience in return. Access to the past came with obligations to the beings that kept it.
 
-Contracted pollinator species collect and deliver Airawa gametes as part of
-their own treaty relationships with mother trees and Airawa communities. This
-makes reproduction a public ecological contract rather than a private pair-bond
-event. It also gives pollinators political leverage, because a broken pollinator
-contract can threaten continuity without needing to defeat a tribe militarily.
+Those same trees gestate Airawa young. They receive compatible gametes, negotiate developmental conditions, and carry the young through stages that connect their bodies with symbiont memory, lineage, and obligations to the local ecology. Reproduction takes place through a gestation contract.
 
-Imperial heredity policy is therefore not only eugenics applied to bodies. It is
-control over gestation access, pollinator routes, mother-tree compliance,
-symbiont inheritance, and which future persons are allowed to become locally
-real.
+Pollinator species collect and deliver the gametes under their own treaties with mother trees and Airawa communities. An Airawa birth therefore depends on public agreements among several species, rather than on a private pair bond alone. Pollinators have political leverage within this arrangement: breaking a pollinator contract can threaten a tribe's continuity without defeating it militarily.
 
-## Pre-Imperial Pattern
+Airawa are not sexually dimorphic in the human sense. On Zyphos, sexual reproduction did not become the same organizing axis for anatomy or social life that it did for humans.
 
-Early Airawa societies lived in negotiated dependency with [[Matriarch Trees]]. The trees preserved communal memories, genealogies, ecological warnings, ritual songs, and disaster scars. In return, Airawa communities provided nutrients, defense, seed dispersal, selective pollination, and social obedience.
+## Clothing and Contract Craft
 
-The arrangement was not pure harmony. It was a contract with roots.
+Tribal Airawa clothing can show who stands behind its wearer. Materials, dyes, plate inlays, carved bindings, woven slings, pollinator shells, fungal threads, resins, scale-safe pigments, and bioluminescent filigree can identify relationships with trees, pollinators, mycorrhizal archives, defensive symbionts, route bodies, or local interbeings.
 
-## Contract Craft
+Airawa take pride in making these relationships beautiful and readable. A finely crafted mantle, climbing harness, arm binding, tool wrap, or archive token can communicate more than personal standing. It can warn that attacking the wearer may draw a response from the ecological partners bound to them, at several scales.
 
-Tribal Airawa dress is a public contract surface. Materials, dyes, plate
-inlays, carved bindings, woven slings, pollinator shells, fungal threads,
-resins, scale-safe pigments, and bioluminescent filigree can signal which
-trees, pollinators, mycorrhizal archives, defensive symbionts, route bodies, or
-local interbeings stand behind a person.
+These objects also preserve local treaties, grudges, debts, and refusals. Imperial fashion tries to standardize the signals and arrange them into ranks. Native Airawa craft retains local distinctions that the [[Biological Memetic Engine]] has difficulty flattening without also destroying useful information.
 
-This is not crude warning signage. Airawa take pride in craft because beauty is
-part of legibility. A finely made mantle, climbing harness, arm binding, tool
-wrap, or archive token can say: attack this person and you are not merely
-fighting one body; you are touching a chain of ecological obligations that may
-answer at several scales.
+## The Imperial Break
 
-Imperial fashion tries to standardize and rank these signals. Native Airawa
-crafts preserve local treaties, grudges, debts, and refusals in forms that are
-harder for the [[Biological Memetic Engine]] to flatten without losing useful
-information.
+The tribe that became the [[Airawa Empire]] invented the Biological Memetic Engine to stop mother trees from holding communal memory hostage. It then used the engine to overwrite rival tribes through the very networks those tribes trusted.
 
-## Imperial Pattern
+Imperial Airawa now judge worth through managed heredity, compliance with doctrine, engineered symbiosis, and service to imperial unification. Official doctrine describes unification as the continent's destiny, despite the continent's lack of agreement.
 
-The tribe that became the [[Airawa Empire]] invented the [[Biological Memetic Engine]] to stop mother trees from holding communal memory hostage. The engine let them overwrite rival tribes through the same networks those tribes trusted.
-
-Imperial Airawa now define worth through managed heredity, doctrinal compliance,
-engineered symbiosis, and service to imperial unification. Official doctrine
-still calls that continental destiny. The continent has not agreed.
+Imperial heredity policy reaches beyond selecting traits in bodies. Because reproduction depends on ecological contracts, the empire seeks control over access to gestation, pollinator routes, mother-tree compliance, and symbiont inheritance. These controls determine which future people are allowed to develop and become part of a local community.
 
 ## Open Questions
 
 - How visible is imperial bioengineering in ordinary bodies?
 - What remnants of pre-imperial Airawa humility still survive inside imperial ritual?
-- Which pollinator lineages handle ordinary gamete collection, elite lineage
-  contracts, forbidden resistance births, and imperial surveillance?
-- How much of a person's craft signal is readable across distant native Airawa
-  polities, and how much remains deliberately local?
+- Which pollinator lineages handle ordinary gamete collection, elite lineage contracts, forbidden resistance births, and imperial surveillance?
+- How much of a person's craft signal is readable across distant native Airawa polities, and how much remains deliberately local?
