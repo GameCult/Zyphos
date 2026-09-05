@@ -1,9 +1,9 @@
 # Reciprocal Ecologies
 
-Reciprocal ecologies are living systems that remember Sa'auei'a conduct and respond with future access, guidance, warning, nourishment, shelter, or refusal.
+Reciprocal ecologies are living systems that remember how Sa'auei'a have treated them. That history affects whether they later provide access, guidance, warnings, food, or shelter—or refuse to help.
 
-They make generosity materially rational without making it sentimental. A family that feeds a route, tends a sick grove, or defends a nesting corridor may be rewarded years later by organisms that do not think like people but remember like infrastructure.
+A family might feed a route, tend a sick grove, or defend a nesting corridor, then receive help years later from organisms that remember its actions. Those organisms do not think like people. Their memory nevertheless has practical consequences: generosity can improve a family's future prospects, even without affection or an immediate reward.
 
 ## Story Use
 
-Reciprocal ecologies let diplomacy happen through action rather than speeches. They also give the [[Airawa Empire]] a problem its memetic engine is poorly suited to solve: a continent whose cooperation is earned locally and repeatedly instead of captured through one dominant network.
+These ecologies allow diplomacy through what people do, rather than what they say. Cooperation must be earned locally and repeatedly. This gives the [[Airawa Empire]] a continental problem its memetic engine is poorly suited to solve: taking control of one dominant network cannot secure all those separate relationships.
