@@ -1,16 +1,13 @@
 # Eusocial Inter-Species Dynamics
 
-Eusocial inter-species dynamics describe systems where reproduction, labor, defense, memory, and status are distributed across multiple species rather than contained inside one social organism.
+On Zyphos, several species can share the work of sustaining a society. Reproduction, labor, defense, memory, and social status are distributed across species rather than held within a single social organism. This is what “eusocial inter-species dynamics” describes: how those shared roles work and how the species depend on one another.
 
-On Zyphos, this sits on top of [[Mutable Memory Endosymbiosis]]. Inter-species
-eusociality is not an exotic late-stage political arrangement. It is a large
-scale expression of a biosphere where mutable memory exchange is already
-cellular, intercellular, organismal, and ecological.
+The biological foundation is [[Mutable Memory Endosymbiosis]]. Mutable memory is already stored and exchanged within cells, between cells, among organisms, and across ecosystems. Societies built from several species extend these existing relationships to a larger scale. They are not an unusual political arrangement that appeared only late in the biosphere’s development.
 
 ## In This Setting
 
-The Airawa-mother-tree relationship is archival eusociality: communal memory and political continuity depend on non-Airawa reproductive bodies.
+For Airawa communities that depend on mother trees, preserving communal memory also means depending on another species’ reproductive bodies. The trees help sustain both the community’s archive and its political continuity. This dependence makes the relationship a form of **archival eusociality**.
 
-The Sa'auei'a system is reciprocal nomadic eusociality: mobile families act as high-trust units inside a continent-wide mesh of remembered ecological relationships.
+The Sa'auei'a organize around mobile families whose members trust one another strongly. Those families participate in a continent-wide network of remembered ecological relationships. Their **reciprocal nomadic eusociality** combines movement with continuing obligations to ecological partners.
 
-The [[Airawa Empire]] weaponizes eusociality by making belief itself transmissible through engineered life.
+The [[Airawa Empire]] turns this biological capacity into a weapon. It uses engineered life to transmit belief itself, making the relationships that connect species a means of political control.

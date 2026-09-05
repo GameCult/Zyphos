@@ -1,17 +1,19 @@
 # Path Dependency
 
-Path dependency is a major worldbuilding theme. The first powerful solution a civilization finds can become the shape of its future stupidity.
+A civilization's first powerful solution can make other approaches difficult to imagine or sustain. This is path dependency, a major theme of the setting.
 
 ## Airawa Version
 
-The [[Airawa Empire]] invented the [[Biological Memetic Engine]] and then increasingly solved every problem with biological persuasion, memory editing, heredity management, and network domination.
+The [[Airawa Empire]] invented the [[Biological Memetic Engine]], a technology that spreads ideas and alters responses through living networks. It increasingly came to address every problem through biological persuasion, memory editing, heredity management, and control of those networks.
 
-That does not mean the engine is useless. It means it is too useful. It eats alternative institutions before anyone notices those institutions would have been load-bearing.
+The trap is the engine's usefulness. As the empire relies on it for more tasks, it displaces alternative institutions. By the time anyone recognizes why those institutions were needed, they may already be gone.
 
 ## Sa'auei'a Version
 
-The [[Sa'ueia]] developed around mobility, reproductive commons, and ecological reciprocity. Their path dependency is less totalitarian, but still real: fixed infrastructure, secrecy, and rapid centralized war-making are culturally difficult for them.
+The [[Sa'ueia]] developed a civilization around movement, shared reproductive sites, and reciprocal relationships with the ecologies they visit. Those arrangements also shape what they find easy or difficult to do.
+
+Fixed infrastructure is culturally difficult for a mobile society. Secrecy and rapid warfare under centralized command are also difficult within their established way of life. Their path dependency is less totalitarian than the empire's, but it still limits their options.
 
 ## Comparative Use
 
-Good conflicts should make each civilization strong where the other is blind.
+Conflicts should put each civilization's strengths up against problems the other struggles to recognize or address.
