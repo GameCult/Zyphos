@@ -1,18 +1,20 @@
 # Zyphos
 
-*A close-binary living world for the Aquarium demo, with names waiting for Weksa to earn them.*
+*An alien world being developed for the Aquarium demo. Its names remain provisional pending Weksa language work.*
 
-Zyphos is one member of a tightly bound terrestrial binary. Its slightly smaller twin, [[World/Zyphos Umbros Binary System|Umbros]], hangs in the sky as a fixed planetary presence. The primary star is dim, the habitable zone is close, and the biosphere has learned to treat light as a scarce civic resource rather than wallpaper.
+Zyphos and its slightly smaller twin, [[World/Zyphos Umbros Binary System|Umbros]], are two terrestrial planets bound closely together. Umbros holds a fixed position in Zyphos’s sky. Their primary star is dim, and its habitable zone lies close to it. Light is scarce enough that access to it shapes both the biosphere and how societies organize shared resources.
 
-This site collects the setting work behind the Zyphos demo: the physics-constrained world model, the mutable-memory biosphere, the civilizations shaped by ecological contracts, the Aquarium rendering surface, and the future Weksa language work that will name the world from inside its inhabitants' ontologies.
+This site collects the work behind the demo: a world model constrained by physics, life that stores and exchanges mutable memories, and civilizations built through ecological agreements and dependencies. It also covers how Aquarium renders the setting. Future Weksa language work will develop names from the ways inhabitants understand and classify their world.
 
 ## Core Premise
 
-Zyphos life is founded on [[Ecology/Mutable Memory Endosymbiosis|mutable memory endosymbiosis]]. Every cell carries a memory-bearing symbiont. Sentience is not reserved for human-shaped minds; it gradients through cells, tissues, organisms, colonies, routes, forests, reefs, and landscapes.
+Every cell in Zyphos life contains a memory-bearing symbiont: an organism living inside it that stores changeable memories and passes them between cells. This is [[Ecology/Mutable Memory Endosymbiosis|mutable memory endosymbiosis]]. Sentience exists in varying forms and degrees across cells, tissues, organisms, colonies, routes, forests, reefs, and landscapes. A human-shaped mind is only one possible form; these different scales of life do not all think alike.
 
-On one continent, the [[Species/Airawa|Airawa]] once lived in tight ecological reciprocity with [[Matriarch Trees|Matriarch Trees]]. Their societies stored communal memory in tree networks that demanded nutrients, ritual labor, and political deference in return. One Airawa tribe created the [[Technologies/Biological Memetic Engine|Biological Memetic Engine]] to break that dependency. The tool worked too well. It became the foundation of the [[Civilizations/Airawa Empire|Airawa Empire]], a eugenics-obsessed biopunk state whose rulers impose doctrine across a quarter-continent artificial superorganism while the surrounding native nations remain dangerously alive.
+On one continent, the [[Species/Airawa|Airawa]] once depended on [[Matriarch Trees|Matriarch Trees]] to hold their communal memories. The relationship was reciprocal, but demanding: the tree networks required nutrients, ritual labor, and political deference in return. One Airawa tribe developed the [[Technologies/Biological Memetic Engine|Biological Memetic Engine]] to escape that dependency.
 
-On another continent, where Airawa never evolved or migrated, the [[Sa'ueia|Sa'ueia]] developed a highly advanced nomadic civilization. They organize in squad-sized family units, keep [[Ecology/Breeding Grounds|Breeding Grounds]] sacred and communal, and bargain with ecologies that remember generosity.
+The engine succeeded, then enabled far more control than the original project required. It became the foundation of the [[Civilizations/Airawa Empire|Airawa Empire]], a state built through biotechnology and obsessed with eugenics. Its rulers impose doctrine throughout an artificial superorganism covering a quarter of the continent. The surrounding native nations remain alive and dangerous to imperial power.
+
+The [[Sa'ueia|Sa'ueia]] developed on another continent, where Airawa neither evolved nor migrated. Their highly advanced civilization is nomadic, organized into squad-sized family units. They maintain sacred, communal [[Ecology/Breeding Grounds|Breeding Grounds]] and negotiate with the ecologies they depend on. Those ecologies can remember generosity, so past exchanges matter to future agreements.
 
 ## Project Surfaces
 
@@ -30,6 +32,6 @@ On another continent, where Airawa never evolved or migrated, the [[Sa'ueia|Sa'u
 
 ## Current Design Rule
 
-Every major institution should be legible as an ecological deal, a reproductive pressure, a memory technology, or a path-dependent consequence. If it is just a normal state wearing wet architecture, cut it until the wound has a purpose.
+Every major institution needs an explanation rooted in this world: an agreement between living partners, pressures surrounding reproduction, a way to store or transmit memory, or earlier choices that constrain what can happen next. Familiar state institutions need more than biological-looking buildings to belong here. Rework or remove features whose ecology makes no difference to how they function.
 
-Physics is design authority. If the orbital math or energy budget tightens the image, the world bends. The bruise is usually where the better idea lives.
+Physics constrains the design. When orbital calculations or the available energy conflict with a proposed feature, change the feature. Those limits should help shape the world, including its appearance.
