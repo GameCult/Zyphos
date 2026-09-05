@@ -1,40 +1,47 @@
 # Choir Reefs
 
-Choir reefs are aquatic colony feeders that live where mineral-rich water, larval drift, storm debris, and migratory traffic converge. They pulse with pressure, mineral taste, and low-frequency vibration. They do not speak in words. They can still answer.
+Choir reefs are aquatic colonies that filter food from the water, shelter other organisms, and decide who may pass through nearby channels. They live where mineral-rich water, drifting larvae, storm debris, and migrating creatures converge. Swimmers may depend on them for safe passage or shelter, but the reef can refuse both. Its borders follow currents rather than fences.
 
-They are filter feeders, shelters, archives, and border authorities for channels whose edges are made of current rather than fence.
+A reef also holds memories gathered from the water and its visitors. It responds through pressure, mineral taste, and low-frequency vibration. These responses contain no words, but they can still be answers.
 
 ## Body and Senses
 
-A choir reef is made of many small bodies anchored into a shared mineral skeleton. Each polyp-like unit filters food and samples passing memory residues. The colony stores route impressions from fish-analogues, drifting larvae, dead travelers, fungal washout, storm scars, and visiting divers.
+Many small, polyp-like bodies share one anchored mineral skeleton. Each unit filters food and samples passing memory residues. Together, the colony stores impressions of routes from fish-analogues, drifting larvae, dead travelers, fungal washout, storm scars, and visiting divers.
 
-The reef's "song" is pressure modulation. Local swimmers feel it through lateral organs, bones, shells, or equipment. Air-breathing visitors often mistake the first response for ambient vibration, because arrogance remains the cheapest technology in any world.
+The reef's “song” consists of changes in water pressure. Local swimmers feel it through lateral sensory organs, bones, shells, or equipment. Air-breathing visitors often mistake the reef's first response for background vibration and miss that it has answered them.
 
-## Ecological Contracts
+## Shelter and Passage
 
-Choir reefs hide eggs, redirect currents, sour unsafe channels, and shelter injured swimmers. In return they demand mineral offerings, corpse return, larval respect, and honest passage. [[Biosphere/Couriers and Pollinators/Threadwing Couriers|Threadwing Couriers]] sometimes carry dried mineral taste from reefs inland, allowing trees and roads to price coastal news.
+Reefs hide eggs, shelter injured swimmers, redirect currents, and make unsafe channels sour. In exchange, they demand mineral offerings, the return of corpses, respect for larvae, and honest passage. Truthful disease signals matter: a visitor who conceals an infection threatens the nursery as well as the relationship.
 
-Reefs maintain wary relations with [[Sa'ueia|Sa'ueia]] coastal families. A reef may guide a family through storm channels for generations, then refuse passage after one hidden infection reaches its nursery shelves.
+These exchanges can last for generations. A reef may guide a [[Sa'ueia|Sa'ueia]] coastal family through storm channels throughout that time, then refuse passage after a single hidden infection reaches its nursery shelves. Reefs and coastal families remain wary of one another even within long relationships.
 
-## Behavioral Model
+Reef information also travels inland. [[Biosphere/Couriers and Pollinators/Threadwing Couriers|Threadwing Couriers]] sometimes carry dried mineral taste from reefs, allowing trees and roads to put a price on coastal news.
 
-Primary drives: filter food, protect larvae, maintain mineral balance, control safe channels, and prevent memory contamination of nursery zones.
+## What Guides a Reef's Behavior
 
-Memory channels: pressure song, mineral taste, larval drift, shell scars, current residues, and corpse chemistry.
+A reef needs to filter enough food and maintain its mineral balance. It also protects larvae, controls safe channels, and keeps contaminating memories out of nursery zones. Passage and shelter are therefore bound up with the colony's feeding, reproduction, and memory.
 
-Cooperation triggers: mineral gifts, gentle anchoring, egg protection, corpse return, and truthful disease signals.
+Its memory channels include pressure song, mineral taste, larval drift, shell scars, residues carried by currents, and corpse chemistry. Visitors encounter a colony that can remember them through more than one kind of trace.
 
-Defection triggers: scraping skeleton, stealing larvae, dumping spoiled memory tissue, concealed infection, or imperial dredging.
+Mineral gifts, gentle anchoring, egg protection, corpse return, and truthful disease signals encourage cooperation. Scraping the skeleton, stealing larvae, dumping spoiled memory tissue, concealing infection, or imperial dredging can turn the reef against a visitor.
 
-Threat response: channel souring, shelter closure, pressure disorientation, predator luring, current misdirection, and long memory against bloodlines or fleets.
+A threatened reef has several responses available. It can sour channels, close shelters, use pressure to disorient swimmers, lure predators, or misdirect currents. Its memory of harm can remain attached to whole bloodlines or fleets.
 
 ## NPC Handles
 
-A choir reef NPC should feel like a border city whose citizens are also its walls. It is slow to chase, quick to refuse, and very difficult to fool twice.
+Play a choir reef as a border city whose citizens also form its walls. It is slow to pursue someone, quick to refuse them, and difficult to fool twice.
 
-Useful state variables: mineral hunger, larval risk, channel trust, storm stress, contamination alarm, and visitor lineage memory.
+Track the pressures that shape its next response:
 
-Readable actions: pressure pulses, current smoothing, sudden silence, sour water, shelter opening, shell brightening, or making a predator route easier than it should be.
+- **Mineral hunger:** how urgently it needs minerals.
+- **Larval risk:** how threatened its larvae are.
+- **Channel trust:** its current trust in passage through its channels.
+- **Storm stress:** the strain it is under from storms.
+- **Contamination alarm:** its level of concern about contamination.
+- **Visitor lineage memory:** what it remembers about a visitor's lineage.
+
+Make its behavior perceptible through pressure pulses, smoothing currents, sudden silence, sour water, opening shelters, or brightening shells. It may also make a predator's route easier than it should be. These are usable signs of a response; they need not arrive as a verbal explanation.
 
 ## Setting Links
 
