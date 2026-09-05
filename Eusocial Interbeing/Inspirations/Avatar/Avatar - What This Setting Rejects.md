@@ -1,7 +1,7 @@
 # Avatar - What This Setting Rejects
 
-This setting rejects a single global model of indigeneity, ecology, or sacred network.
+Avatar is a starting point for this setting, not a model for every society in it. Indigenous peoples need not all relate to their worlds in the same way. Ecologies and sacred networks need not all work alike.
 
-It also rejects the idea that ecological harmony is politically simple. A living archive can be protective and coercive. A mother tree can preserve a people while also holding their continuity hostage. A civilization can rebel against that dependency and become worse.
+Ecological harmony does not settle who has power over whom. A living archive can protect people and coerce them. A mother tree can preserve a people while making their continued existence depend on it, holding that continuity hostage. A civilization that rebels against such dependence can become worse.
 
-The Avatar inspiration is the doorway. The setting should not keep standing in the doorway admiring the hinges.
+The setting takes inspiration from Avatar, then develops its own answers to these problems.

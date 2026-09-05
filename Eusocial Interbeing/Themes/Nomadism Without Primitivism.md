@@ -1,7 +1,9 @@
 # Nomadism Without Primitivism
 
-The [[Sa'ueia]] are nomadic and advanced. The setting should never treat fixed cities as the default proof of civilization.
+The [[Sa'ueia]] have a highly developed civilization built around moving across their continent. Permanent cities are not the setting's measure of civilization: a nomadic society has complex needs of its own.
 
-Sa'auei'a sophistication lives in route law, portable craft, ecological languages, medical continuity, breeding-ground care, distributed archives, and the ability to be remembered well across distance.
+Sa'auei'a families need laws governing routes, crafts they can carry and practise while travelling, and medical care that continues as they move. They maintain distributed archives and care for breeding grounds where infants, the infirm, caretakers, and rotating specialists remain while most adults circulate.
 
-Their society is not simpler than the empire. It is optimized around different constraints.
+Their ecological languages and relationships also matter across long distances and absences. A family can return after years away and still be recognized as beneficial by the ecologies it depends on. Being remembered well is a practical achievement.
+
+This society is no simpler than the empire. Its sophistication answers the demands of mobility, continuity of care, and lasting relationships across distance.

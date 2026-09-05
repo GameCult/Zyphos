@@ -1,7 +1,7 @@
 # Eugenics and Managed Life
 
-The [[Airawa Empire]] treats life as governable material. Bodies, symbionts, desires, immune responses, memories, and reproductive permissions become state infrastructure.
+The [[Airawa Empire]] uses biological editing to govern its population. It manages bodies and their symbionts, shapes desires, immune responses, and memories, and controls who may reproduce. These become means of maintaining state power.
 
-The point is not to make the empire cartoonishly mean. The point is to show how a liberation tool against tree dependency can become a doctrine of managed heredity.
+This control grew from a project to escape dependence on trees. The theme follows how a tool for liberation can become a doctrine of managed heredity: the power to change life becomes the state's authority to decide which inherited traits and forms of life should continue.
 
-Once political order is built through biological editing, unedited life starts to look like sabotage.
+The empire's cruelty has a political logic. Once its order depends on biological editing, life left unedited can begin to look like sabotage. Simply existing beyond that control becomes suspect.
