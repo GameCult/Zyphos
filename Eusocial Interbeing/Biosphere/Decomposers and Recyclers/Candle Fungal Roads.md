@@ -1,40 +1,47 @@
 # Candle Fungal Roads
 
-Candle fungal roads are mycelial logistics systems that connect breeding grounds, groves, mineral licks, wetland mats, shelters, and corpse fields. Their fruiting bodies open in timed waves after eclipses, marking usable routes with faint amber beads.
+Candle fungal roads are living fungal networks that maintain routes between breeding grounds, groves, mineral licks, wetland mats, shelters, and corpse fields. They break down discarded and dead material, recycle its nutrients, and guide travelers. After eclipses, their fruiting bodies open in timed waves, marking usable routes with faint amber beads.
 
-They are decomposers, recyclers, road authorities, and memory brokers. A bright road is a recommendation. A dark road is not empty. It is making a point.
+Travelers depend on the roads' judgment as well as their light. Roads remember how visitors behave, exchange information with other organisms, and decide which routes to recommend. A bright route carries the road's recommendation. Darkness can signal a deliberate refusal; it does not mean nothing lives there.
 
-## Body and Senses
+## The Living Road
 
-The road body lives below the surface as braided mycelium, microbial partners, mineral threads, and borrowed root sheaths. The visible candles are fruiting beacons and chemical vents. Their intensity, spacing, and scent tell travelers whether the road is fed, hungry, contaminated, offended, or afraid.
+Most of a road lies underground. Its body combines braided mycelium—the threads of the fungus—with microbial partners, mineral threads, and borrowed root sheaths. The visible “candles” are fruiting bodies that serve as beacons and chemical vents. Their brightness, spacing, and scent communicate whether the road is fed, hungry, contaminated, offended, or afraid.
 
-Roads digest dead tissue, shed fibers, dung, spoiled nests, failed grafts, and abandoned tools. They remember who brought usable material and who dumped poison then called it tribute.
+A road digests dead tissue, shed fibers, dung, spoiled nests, failed grafts, and abandoned tools. It remembers who supplied usable material and who dumped poison while calling it tribute. Those records make the road both a recycler and an authority over passage.
 
-## Ecological Contracts
+Its memory draws on spore trails, mineral taste, corpse chemistry, foot pressure, exchanges with lantern roots, and the disease states carried through it. These channels let it retain information about traffic and conditions along its routes.
 
-[[Biosphere/Primary Producers/Umbros-Facing Lantern Trees|Umbros-Facing Lantern Trees]] give sugars and shelter to road strands. Roads return minerals, disease warnings, and route continuity. [[Biosphere/Grazers and Browsers/Glassback Grazers|Glassback Grazers]] feed roads through dung and carried spores. [[Sa'ueia|Sa'ueia]] family units treat roads as living recommendations because roads remember behavior at the scale where maps usually lie.
+## Partners and Contamination
 
-[[Biosphere/Parasites and Symbionts/Mirror Amoebae|Mirror Amoebae]] can travel in road moisture, so roads maintain strict quarantine pockets. A careless road can become an identity leak.
+[[Biosphere/Primary Producers/Umbros-Facing Lantern Trees|Umbros-Facing Lantern Trees]] supply sugars and shelter to fungal strands. In return, roads provide minerals, disease warnings, and connections that keep routes usable. Maintaining good standing with these producers is one of a road's priorities.
 
-## Behavioral Model
+[[Biosphere/Grazers and Browsers/Glassback Grazers|Glassback Grazers]] nourish roads with dung and carry their spores. [[Sa'ueia|Sa'ueia]] family units treat the roads as living recommendations: a map can show where a route runs, but the road remembers the behavior of those who use it.
 
-Primary drives: acquire dead matter, maintain route traffic, prevent contamination, preserve credit with producers, and expand into under-served corridors.
+The moisture that connects a road also creates a hazard. [[Biosphere/Parasites and Symbionts/Mirror Amoebae|Mirror Amoebae]], which copy and replay small cellular memory states, can travel through it. Roads maintain strict quarantine pockets to contain them. Carelessness can allow those copied states to spread across distance, turning a travel route into a means of identity leakage.
 
-Memory channels: spore trails, mineral taste, corpse chemistry, foot pressure, lantern root exchange, and carried disease states.
+## What Roads Want and How They Respond
 
-Cooperation triggers: clean offerings, spore transport, careful walking, truthful sickness disclosure, and protection of fruiting candles.
+Roads seek dead matter to consume, traffic to sustain their routes, and opportunities to grow into corridors that lack service. They also work to prevent contamination and preserve the trust of their producer partners.
 
-Defection triggers: trampling beacons, dumping toxins, hiding plague, unauthorized corpse theft, or imperial attempts to standardize route behavior.
+Reliable travelers earn cooperation through clean offerings, spore transport, careful walking, truthful disclosure of sickness, and protection of the fruiting candles. Roads turn against those who trample beacons, dump toxins, conceal plague, or steal corpses without authorization. Imperial attempts to standardize how routes behave also provoke resistance.
 
-Threat response: candle dimming, detours, souring ground, sink-softening, quarantine rings, and reporting offenders to trees, mats, ants, or breeding grounds.
+A threatened road can dim its candles, direct travelers onto detours, sour the ground, or soften it so that it gives way underfoot. It can establish quarantine rings and report offenders to trees, mats, ants, or breeding grounds. Its response can therefore affect both the immediate journey and how other organisms receive the traveler.
 
 ## NPC Handles
 
-A candle road NPC should behave like a logistics office made of hunger. It rewards reliability, not charm.
+Play a candle road as a logistics office driven by hunger. It responds to reliable conduct, not charm. Its concerns are food, useful traffic, dependable partners, and what travelers might bring into its body.
 
-Useful state variables: nutrient reserve, contamination risk, traffic value, root alliance, spore load, and quarantine pressure.
+Track these state variables:
 
-Readable actions: brightening, pulsing, extinguishing, opening shortcut candles, closing into darkness, raising bitter beads, or growing a visible ring around an untrusted traveler.
+- **Nutrient reserve:** how much nourishment it has available.
+- **Contamination risk:** the danger of harmful material or organisms entering or spreading.
+- **Traffic value:** how useful the current traffic is to the road.
+- **Root alliance:** the state of its relationships with root partners.
+- **Spore load:** the quantity of spores it carries.
+- **Quarantine pressure:** the demands placed on its containment efforts.
+
+Make its behavior visible through changes in the road itself. Candles can brighten, pulse, or extinguish. A shortcut can acquire guiding candles, or a route can close into darkness. The road can raise bitter beads or grow a visible ring around a traveler it does not trust.
 
 ## Setting Links
 
