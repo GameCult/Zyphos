@@ -1,40 +1,53 @@
 # Lattice Ants
 
-Lattice ants are colony insects that build temporary bridges, diagnostic trails, and living circuits from their bodies, shed fibers, and cultivated microbial glue. They recycle scraps and corpses, but their more dangerous service is history reading.
+Lattice ants are colony insects that recycle scraps and corpses and read traces of recent events. They join their bodies into temporary bridges and living circuits, using shed fibers and cultivated microbial glue to hold evidence from the ground. A colony can investigate what crossed a route, what leaked there, whether an account was false, and who paid.
 
-Their trails are not scent paths alone. They are short-term memory circuits that ask the ground what recently crossed it, what leaked, what lied, and what paid.
+That makes their work useful—and their reports worth buying. Unless a contract forbids it, ants may sell the same history to more than one buyer.
 
-## Body and Senses
+## How the Lattice Works
 
-Individual lattice ants are small, jointed, and almost disposable at the colony scale. Their bodies lock together into spans, loops, and netted sheets. Shed fibers hold chemical traces. Microbial glue stores brief impressions of pressure, heat, immune residue, and mineral disturbance.
+Individual ants are small and jointed. At the colony's scale, each is almost disposable. They lock together into spans, loops, and netted sheets, forming a physical lattice in which the colony's intelligence is strongest.
 
-A colony's intelligence is strongest while a lattice is physically assembled. Break the bridge and the mind changes shape. This makes them quick, local, and politically cheap until they are suddenly not cheap at all.
+These structures do more than carry traffic. Shed fibers retain chemical traces, while microbial glue stores brief impressions of pressure, heat, immune residue, and mineral disturbance. An ant trail is therefore both a scent path and a short-term memory circuit.
 
-## Ecological Contracts
+The assembled structure matters to how the colony thinks. Breaking a bridge changes the shape of its mind. Lattice ants are consequently quick and local: they work with nearby evidence through structures they can assemble and dismantle. Hiring them can seem politically inexpensive until their findings become costly to someone.
 
-Lattice ants clean wounds, diagnose trails, read abandoned nests, and report route contamination to [[Biosphere/Decomposers and Recyclers/Candle Fungal Roads|Candle Fungal Roads]]. [[Biosphere/Primary Producers/Umbros-Facing Lantern Trees|Lantern Trees]] use them as ground auditors. [[Biosphere/Couriers and Pollinators/Threadwing Couriers|Threadwings]] shed fibers that ants can interpret as route testimony.
+## Work and Payment
 
-Payment is usually sugar, corpse access, shelter cavities, or permission to harvest shed tissue. The dangerous part is that ants may sell the same history twice if no contract forbids it.
+Lattice ants clean wounds, examine trails for evidence, and read abandoned nests. They report route contamination to [[Biosphere/Decomposers and Recyclers/Candle Fungal Roads|Candle Fungal Roads]]. [[Biosphere/Primary Producers/Umbros-Facing Lantern Trees|Lantern Trees]] employ them to check what has happened on the ground. Fibers shed by [[Biosphere/Couriers and Pollinators/Threadwing Couriers|Threadwings]] provide another source: ants can interpret them as testimony about a route.
 
-## Behavioral Model
+Clients usually pay with sugar, access to corpses, shelter cavities, or permission to harvest shed tissue. Buying a report does not automatically buy exclusive access to its contents. A client who needs that restriction must put it in the contract.
 
-Primary drives: feed colony brood, gather diagnostic residues, maintain microbial glue cultures, and preserve profitable neutrality.
+## Colony Behavior
 
-Memory channels: trail circuits, glue states, corpse chemistry, shed courier fibers, and nest temperature.
+A colony works to feed its brood, collect residues useful for diagnosis, and keep its microbial glue cultures alive. It also tries to remain neutral where neutrality is profitable.
 
-Cooperation triggers: sugar payment, stable shelter, clean residues, protected brood chambers, and precise questions.
+Its memory is distributed across several materials and conditions: the circuits formed along trails, the states of its glue, corpse chemistry, shed courier fibers, and nest temperature.
 
-Defection triggers: unpaid diagnostics, glue poisoning, brood threat, false residue planting, or attempts to monopolize colony reports.
+Cooperation becomes more likely when a partner offers:
 
-Threat response: bridge collapse, swarm biting, false negatives, disclosure to rivals, infection tagging, and converting a safe path into a public accusation.
+- Sugar payment and stable shelter.
+- Clean residues to examine and precise questions to answer.
+- Protected brood chambers.
 
-## NPC Handles
+A colony may stop cooperating when its diagnostic work goes unpaid, its glue is poisoned, or its brood is threatened. Planting false residues and trying to monopolize its reports can also provoke defection.
 
-A lattice ant NPC should feel like a forensic contractor with mandibles and no sacred loyalty beyond contract law. It is useful because it is local. It is dangerous because local truth travels.
+Its responses range from physical attack to manipulating evidence and access. It may collapse a bridge, bite in a swarm, or return a false negative—a report that fails to identify something present. It may disclose findings to rivals, use infection tagging, or turn a formerly safe path into a public accusation. The mechanics of infection tagging and of making a path carry an accusation remain unspecified.
 
-Useful state variables: brood hunger, payment ledger, glue health, recent trail density, neutrality pressure, and buyer conflict.
+## Playing a Lattice Ant NPC
 
-Readable actions: assembling bridges, refusing a sample, carrying sugar away without reporting, forming accusation glyphs, biting exposed wounds, or redirecting traffic toward another witness.
+Treat a lattice ant NPC as a forensic contractor: it examines local evidence and answers questions under negotiated terms. Its loyalty rests on contract law. Its local reach makes it useful, but a local finding can travel once the colony reports it.
+
+Track the conditions that shape its decisions:
+
+- **Brood hunger:** how urgently the colony needs food.
+- **Payment ledger:** the state of payment for its work.
+- **Glue health:** the condition of its cultivated microbial glue.
+- **Recent trail density:** how dense recent trails have been.
+- **Neutrality pressure:** pressure on the colony's ability to remain neutral.
+- **Buyer conflict:** conflict among those purchasing its findings.
+
+Make its choices visible through action. It might assemble a bridge, refuse a sample, or carry sugar away without giving a report. It can form accusation glyphs, bite exposed wounds, or redirect traffic toward another witness.
 
 ## Setting Links
 

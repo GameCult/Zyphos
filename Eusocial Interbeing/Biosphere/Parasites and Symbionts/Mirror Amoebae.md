@@ -1,40 +1,44 @@
 # Mirror Amoebae
 
-Mirror amoebae live in wounds, ponds, stomachs, root sheaths, fungal moisture, and surgical cultures. They copy small memory states from nearby cells and replay distorted versions until the host tissue accepts, rejects, or edits them.
+Mirror amoebae are microbes that copy small memory states from nearby cells. They replay distorted versions of those states until the host tissue accepts, rejects, or edits them. This can help a wound heal. It can also cause tissue to accept a copied memory as its own.
 
-They are microbial symbionts, parasites, healers, identity hazards, and the reason "just let the wound decide" is not a serious policy.
+They live in wounds, ponds, stomachs, root sheaths, fungal moisture, and surgical cultures. Depending on their relationship with a host, they can act as helpful symbionts, parasites, healers, or threats to identity.
 
 ## Body and Senses
 
-An individual mirror amoeba is a soft, shifting cell-cluster with memory-binding vesicles. It samples nearby cellular states through contact and chemical gradient. It cannot understand a person. It can copy a wound's fear, a graft's plea, a gut's hunger, or a root sheath's old border rule.
+An individual mirror amoeba is a soft, shifting cluster of cells containing memory-binding vesicles. It samples nearby cellular states through direct contact and chemical gradients.
 
-Colonies form shimmer films in water or silvered slime in tissue. Healthy hosts use immune negotiation to bound them. Weak or engineered hosts can be overwritten by echoes that feel local enough to pass.
+What it copies is limited to the scale of those cells. It cannot understand a person, but it can reproduce a wound's fear, a graft's plea, a gut's hunger, or a root sheath's old rule about where its boundary belongs.
 
-## Ecological Contracts
+Colonies appear as shimmering films in water or silvered slime in tissue. Healthy hosts negotiate with them through immune activity, keeping their influence within bounds. In weak or engineered hosts, copied echoes can pass as the host's own states because they feel sufficiently familiar. Those echoes can overwrite what was there.
 
-Mirror amoebae help close wounds by replaying acceptable repair states. [[Biosphere/Decomposers and Recyclers/Candle Fungal Roads|Candle Fungal Roads]] quarantine them because road moisture can carry identity leakage across distance. [[Biosphere/Primary Producers/Umbros-Facing Lantern Trees|Lantern Trees]] admit them only into outer wounds unless deep archive tissue has explicitly accepted a repair contract.
+## Repair and Containment
 
-Imperial biotechnicians prize mirror amoebae because they blur consent, ancestry, and infection into a manipulable technical problem. Native ecologies treat them with less romance and more locked doors.
+Mirror amoebae help close wounds by replaying repair states that the tissue will accept. The difficulty is controlling what gets accepted and where. “Just let the wound decide” is inadequate when the copying process can alter the states on which that decision depends.
+
+[[Biosphere/Decomposers and Recyclers/Candle Fungal Roads|Candle Fungal Roads]] quarantine mirror amoebae because the roads' moisture can carry them over long distances, allowing identity leakage between places. [[Biosphere/Primary Producers/Umbros-Facing Lantern Trees|Lantern Trees]] normally admit them only into outer wounds. Access to deeper archive tissue requires that tissue's explicit acceptance of a repair contract.
+
+Imperial biotechnicians prize this ability to blur consent, ancestry, and infection: they treat the overlap as a technical problem they can manipulate. Native ecologies respond by tightly restricting access.
 
 ## Behavioral Model
 
-Primary drives: find active tissue, copy memory states, avoid immune burn-out, and persist in moist exchange zones.
+Mirror amoebae seek active tissue, copy its memory states, and try to persist in moist places where exchange can continue. They must also avoid being burned out by the host's immune response.
 
-Memory channels: cellular contact, wound chemistry, gut fluid, root sheath residue, fungal moisture, and engineered culture media.
+Their memory channels are cellular contact, wound chemistry, gut fluid, root sheath residue, fungal moisture, and engineered culture media.
 
-Cooperation triggers: clean wound boundaries, compatible host signals, immune invitation, limited repair scope, and stable moisture.
+The conditions around them determine whether their activity remains cooperative or becomes harmful:
 
-Defection triggers: damaged immune boundary, contradictory host states, engineered feeding, high memory density, or transport into unprepared tissue.
-
-Threat response: mimicry, echo flooding, false familiarity, fragmenting into cysts, hiding in gut films, and inducing host tissue to defend the wrong boundary.
+- **Cooperation:** Clean wound boundaries, compatible host signals, an immune invitation, a limited repair scope, and stable moisture favor a workable relationship with the host.
+- **Defection:** Damaged immune boundaries, contradictory host states, engineered feeding, high memory density, or transport into unprepared tissue can push that relationship into harmful copying.
+- **Threat response:** They can mimic local states, flood tissue with echoes, produce false familiarity, fragment into cysts, hide in gut films, or induce host tissue to defend the wrong boundary.
 
 ## NPC Handles
 
-A mirror amoeba NPC should not behave like a schemer. It should behave like a copying process with survival pressure and no respect for identity metaphysics. The horror comes from competence without intention.
+Portray a mirror amoeba NPC as a copying process under pressure to survive. It does not scheme or understand why identity matters to its host. The horror lies in how effectively it can act without intending the consequences.
 
-Useful state variables: copied state strength, host compatibility, immune pressure, moisture access, echo distortion, and containment integrity.
+Track these state variables: copied state strength, host compatibility, immune pressure, moisture access, echo distortion, and containment integrity.
 
-Readable actions: silver shimmer, wound calming, scar mispatterning, repeated gestures in host tissue, sudden immune flare, or an old memory appearing where it has no right to be.
+Make its activity visible through silver shimmer, a calming wound, a scar forming in the wrong pattern, repeated gestures in host tissue, a sudden immune flare, or an old memory appearing where it does not belong.
 
 ## Setting Links
 
