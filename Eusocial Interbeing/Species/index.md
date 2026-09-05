@@ -8,8 +8,6 @@
 
 ## Design Rule
 
-Species are political actors when they can remember, negotiate, withhold, reproduce strategically, or alter the survival conditions of others. Intelligence is not a permission slip shaped like a face.
+Every Zyphos species develops through [[Mutable Memory Endosymbiosis]]: life stores and transmits memory at the cellular level. Design each organism around that biology, its participation in living networks, and the agreements connecting cells, bodies, and larger ecological systems. Familiar Earth labels help readers picture an organism; they do not explain how it works.
 
-All Zyphos species arise under [[Mutable Memory Endosymbiosis]]. Earth analogue
-labels are handles only; the actual organism must be shaped by cellular memory,
-network participation, and contracts across scale.
+A species can act politically when it can remember, negotiate, withhold something, reproduce strategically, or change the conditions others need to survive. Neither intelligence nor political agency requires a humanlike face.
