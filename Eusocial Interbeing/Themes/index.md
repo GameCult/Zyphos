@@ -8,4 +8,4 @@
 
 ## Design Rule
 
-Themes should generate constraints. If a theme only decorates the prose, it is not pulling its weight.
+Use these themes to set limits on what people and societies can do and how they can solve problems. A theme needs consequences within the setting; mentioning it in the prose is not enough.

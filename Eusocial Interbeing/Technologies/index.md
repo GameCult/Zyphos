@@ -7,4 +7,4 @@
 
 ## Design Rule
 
-Technology should change what a civilization notices. The most dangerous tool is the one so effective it becomes a theology.
+A civilization’s technology should shape which problems it notices and which solutions it considers. Its most dangerous tool may be one that works so well that people begin treating it as sacred truth: a way to explain and order the world, whose authority they no longer question.
