@@ -1,46 +1,33 @@
 # Zyphos Umbros Binary System
 
-Zyphos is one world in a close terrestrial binary. Its slightly smaller twin,
-Umbros, is not a moon in the cultural sense. The two worlds are mutually
-tidally locked and orbit a dim primary star, leaving each planet suspended in
-the other's sky except for slow precession and libration.
+Zyphos and Umbros are two rocky planets orbiting close together around a dim star. Zyphos is approximately Earth-sized; Umbros is its slightly smaller twin, provisionally about 0.9 Earth radii. Culturally, Umbros is regarded as a twin world rather than a moon.
 
-This note is a working physical baseline for the [[Zyphos Simulation Brief]].
-It should stay quantitative enough to constrain the demo, but provisional enough
-to survive better math.
+The planets are mutually tidally locked: each keeps the same face toward the other. From the hemisphere of Zyphos facing Umbros, the twin therefore hangs in nearly the same place in the sky, with only slow shifts from precession and libration. The sun still crosses the sky. Where its path passes behind Umbros, an eclipse interrupts the daylight.
 
-## Physical Priority
+This note supplies a working physical baseline for the [[Zyphos Simulation Brief]]. Its numbers should constrain the demo while remaining open to correction by better calculations.
 
-Zyphos should bend to physics, not bend physics to preserve an early image. If
-orbital mechanics, energy budget, eclipse duration, climate, tides, or
-biosphere constraints make a desired spectacle smaller, stranger, harsher, or
-more local than first imagined, the setting should follow that pressure.
+## What the Sky Is Like
 
-This is not a realism tax. It is the source of the world's specificity. A
-one-hour daily eclipse, a close habitable zone, a stationary twin world, and a
-low-energy biosphere create better civilization problems than a hand-waved sky
-that does everything on command.
+Umbros occupies an enormous patch of sky. At a center-to-center separation of 10 Earth radii, its apparent diameter is about twenty times that of Earth's Moon. Its presence and the eclipses it produces should affect weather, animal behavior, photosynthesis analogues, navigation, culture, and ritual timekeeping.
 
-## Current Baseline
+Its fixed position also divides Zyphos geographically. The sub-Umbros hemisphere faces the twin; the anti-Umbros hemisphere faces away. Between them, whether Umbros is visible creates cultural and geographic gradients resembling those around a day-night boundary.
 
-- Zyphos is approximately Earth-sized.
-- Umbros is slightly smaller, provisionally about 0.9 Earth radii.
-- The pair orbits a dim M-type primary in a close habitable zone.
-- The ecosystem is energy-starved relative to Earth: lower stellar luminosity,
-  frequent eclipses, and a major neighboring world that dominates the sky.
-- The two planets are mutually tidally locked, so Umbros remains fixed above one
-  Zyphos hemisphere while the sun crosses the sky according to the mutual
-  orbital period.
+Eclipses are strongest where the sun's path crosses Umbros. A sub-Umbros equatorial band could receive especially regular daily eclipses if the binary's orbital plane and the planets' spin geometry keep that crossing low and regular. The eclipse track is not yet settled.
 
-## First-Pass Numbers
+For surface life, the day is close to the period of the planets' mutual orbit. Zyphos does not have a separate, Earth-like spin setting its daily rhythm. The result is frequent day-night cycling, repeated eclipse shocks, and a huge stationary world that must figure in how inhabitants reckon time.
 
-Assume a dim primary around 0.25 solar masses and 0.006 solar luminosities. An
-Earth-flux habitable orbit sits near 0.077 AU, with a year of about 16 Earth
-days. A terrestrial binary totaling roughly 1.75 Earth masses has a Hill sphere
-near 35 Earth radii there, so a conservative stable mutual separation should
-stay below roughly 12 Earth radii.
+## The Working Orbit
 
-That makes the close-binary design space tight:
+The current baseline places the pair around a dim M-type star, close enough to lie in its habitable zone. The working baseline is an ecosystem with less available energy than Earth's. Lower stellar luminosity and frequent eclipses are part of that premise, alongside the sky-dominating neighboring world. The energy budget still needs to be checked; these assumptions are a starting point.
+
+For a first calculation, assume:
+
+- a primary star with about 0.25 solar masses and 0.006 solar luminosities;
+- an orbit near 0.077 AU, where the pair would receive approximately Earth's stellar flux;
+- a year of about 16 Earth days;
+- a combined planetary mass of roughly 1.75 Earth masses.
+
+At that distance from the star, the pair's Hill sphere—the region in which its gravity can hold the binary together against the star's influence—has a radius of about 35 Earth radii. A conservative stable center-to-center separation should stay below roughly 12 Earth radii. That leaves a tight range of close orbits to explore.
 
 | Center separation | Mutual day | Umbros angular diameter from Zyphos | Central eclipse duration |
 | --- | ---: | ---: | ---: |
@@ -49,56 +36,33 @@ That makes the close-binary design space tight:
 | 10 Earth radii | 1.40 Earth days | 10.3 degrees | 58 minutes |
 | 12 Earth radii | 1.84 Earth days | 8.6 degrees | 64 minutes |
 
-These eclipse durations are geometric first-order estimates for a central pass:
-duration is approximately mutual period times Umbros angular diameter divided
-by 360 degrees. The stellar disk, atmosphere, penumbra, orbital inclination,
-topography, and precession can lengthen the visible dimming interval, but the
-hard totality-like interval wants to live around an hour unless the pair becomes
-wider, lighter, or hosted by a less restrictive star.
+Here, “mutual day” is the period of the planets' orbit around each other. The eclipse figures are first-order geometric estimates for a central crossing:
 
-## Sky Consequences
+**Eclipse duration ≈ mutual period × Umbros angular diameter ÷ 360 degrees.**
 
-Umbros is enormous in the sky. Even the 10 Earth-radii baseline gives it an
-apparent diameter around twenty times Earth's Moon. It should visibly darken
-weather, culture, animal behavior, photosynthesis analogues, navigation, and
-ritual timekeeping.
+The stellar disk, atmosphere, partial shadow or penumbra, orbital inclination, topography, and precession can extend the interval of visible dimming. The deepest, totality-like part of the eclipse remains around an hour in these estimates. Within these first-pass estimates, making it substantially longer would require a wider or lighter pair, or a star that places fewer restrictions on the binary orbit.
 
-Because the worlds are mutually locked, Umbros is not a wandering moon. It is a
-fixed direction. Zyphos has a sub-Umbros hemisphere, an anti-Umbros hemisphere,
-and terminator-like cultural/geographic gradients based on whether the twin is
-visible. Daily eclipses are strongest where the sun's path crosses Umbros,
-especially near the sub-Umbros equatorial band if the binary plane and spin
-geometry keep that path low and regular.
+## Let the Physics Set the Limits
 
-The "day" experienced by surface ecologies is close to the mutual orbital
-period, not an Earth-like independent spin. This gives the setting fast but
-heavy time: frequent day-night cycling, frequent eclipse shock, and a giant
-stationary world acting as a permanent calendar wound in the sky.
+The setting should change when the calculations demand it. Orbital mechanics, available energy, eclipse duration, climate, tides, and biosphere constraints take priority over an early image of the world. A desired spectacle may turn out to be smaller, stranger, harsher, or confined to fewer places.
 
-## Worldbuilding Pressure
+Those limits give Zyphos its particular problems. A close habitable orbit, a stationary twin, roughly hour-long daily eclipses along the relevant track, and a low-energy biosphere should shape how life and civilization work. They need to remain physical constraints rather than effects the sky supplies whenever convenient.
 
-Low available energy should matter. Ecologies should compete over light timing,
-thermal storage, chemical energy, migration windows, and eclipse adaptation.
-Civilizations should not treat sunlight as a bland default resource.
+## What This Means for Life and Civilization
 
-The Airawa and Sa'auei'a continents should therefore be designed with orbital
-rhythm in mind:
+Under this low-energy baseline, organisms must compete over when they receive light and how they survive the gaps. Thermal storage, chemical energy, migration windows, and adaptation to eclipses should matter. Civilizations should have to plan around sunlight rather than assume it is reliably available.
 
-- mother-tree networks may store, redistribute, or politically ration energy;
-- the [[Biological Memetic Engine]] may exploit eclipse rhythms as transmission
-  timing, ritual synchronization, or immune suppression;
-- disconnected networks may hide in thermal, seasonal, or eclipse-shadow niches;
-- Sa'auei'a routes and [[Breeding Grounds]] may follow reliable light windows,
-  heat reservoirs, or ecological partners adapted to eclipse cycles.
+The Airawa and Sa'auei'a continents should be developed with that orbital rhythm in mind. The following are possibilities to investigate, not settled mechanisms:
+
+- **Storing and sharing energy:** mother-tree networks, which carry communal memory, may store energy, move it between dependents, or control who receives it through political rationing.
+- **Timing biological influence:** the [[Biological Memetic Engine]], which propagates ideas through living networks, may use eclipse rhythms to time those transmissions, synchronize rituals, or suppress immunity.
+- **Finding places to remain disconnected:** tree networks that survive disconnection may hide in niches created by thermal conditions, seasons, or eclipse shadows.
+- **Planning movement and return:** Sa'auei'a routes and [[Breeding Grounds]]—sacred reproductive commons to which mobile adults return—may follow reliable windows of light, reservoirs of heat, or ecological partners adapted to eclipse cycles.
 
 ## Open Questions
 
-- Is the working primary closer to 0.25 solar masses, or should the star be a
-  warmer late-K or early-M dwarf to allow a wider binary and longer eclipses?
-- What is the accepted center separation: 8, 10, or 12 Earth radii?
-- Does Zyphos sit on the more massive side of the pair, with Umbros visibly
-  smaller but still planet-scale?
-- Are regular eclipses centered on the Airawa continent, the Sa'auei'a continent,
-  an oceanic band, or a culturally contested equatorial belt?
-- Does Umbros host life, failed life, hostile life, or merely a visible world
-  that Zyphos cultures cannot ignore?
+- Should the primary remain near 0.25 solar masses, or become a warmer late-K or early-M dwarf that permits a wider binary and longer eclipses?
+- Should the accepted center-to-center separation be 8, 10, or 12 Earth radii?
+- Is Zyphos the more massive planet, with Umbros visibly smaller but still unmistakably planet-scale?
+- Where are regular eclipses centered: the Airawa continent, the Sa'auei'a continent, an oceanic band, or a culturally contested equatorial belt?
+- Does Umbros host life, failed life, hostile life, or simply remain a visible world that Zyphos cultures cannot ignore?
