@@ -1,40 +1,45 @@
 # Burden Flowers
 
-Burden flowers are small mobile plant-analogues that attach to hides, packs, shells, and sometimes bare skin. They drink sweat, light, trace minerals, and emotional immune states. In good contracts they are warning ornaments. In bad contracts they are reputation parasites with petals.
+Burden flowers are small, mobile plant-analogues that cling to hides, packs, shells, and sometimes bare skin. A well-tended flower can warn its host about disease, dangerous routes, bad water, or predatory attention. It can also reveal the host's weakness to everything nearby. Carrying one means living with an informant whose needs partly determine its loyalty.
 
-They occupy a parasitic-symbiotic trophic role. The same individual can slide between mutualist and exploiter depending on hunger, host care, and social opportunity.
+They draw nourishment from sweat, light, trace minerals, and emotional immune states. Their relationship with a host can be mutually beneficial or parasitic. The same flower may shift between helping and exploiting its host as its hunger, care, and social opportunities change.
 
-## Body and Senses
+## Living With a Flower
 
-A burden flower has clasping rootlets, flat photosynthetic leaves, and a cup of sensory filaments that taste sweat chemistry, stress hormones, immune signals, and ambient memory residues. It moves slowly by releasing and regripping. Most long-distance travel happens on hosts such as [[Biosphere/Grazers and Browsers/Glassback Grazers|Glassback Grazers]] or Sa'auei'a gear.
+The usual exchange is practical: the flower provides warnings, while the host supplies mineral sweat, safe exposure to light, grooming, and travel. Its warnings can include hostile memory associated with a route.
 
-Flower color signals recent host state. Healthy hosts receive clear, restrained patterns. Sick, frightened, or socially contaminated hosts may bloom loudly enough for the nearest ecology to notice.
+A flower's colors reveal its host's recent state. Healthy hosts receive clear, restrained patterns. When a host is sick, frightened, or socially contaminated, the flower may produce a display conspicuous enough for the surrounding ecology to notice. Its warning service therefore also gives other organisms information about the host.
 
-## Ecological Contracts
+[[Biosphere/Primary Producers/Prismwake Mats|Prismwake Mats]] read these reports, but give less weight to flowers known to exaggerate. A flower needs enough credibility to remain tolerated, even when disclosure offers an immediate advantage.
 
-Burden flowers warn hosts about disease, hostile route memory, bad water, and predatory attention. In return, they receive mineral sweat, safe light exposure, grooming, and travel. [[Biosphere/Primary Producers/Prismwake Mats|Prismwake Mats]] read burden flower testimony but discount known exaggerators.
+Sa'auei'a family units may cultivate trusted flower lineages as route companions. The Airawa Empire dislikes unmanaged burden flowers because they expose private weakness without waiting for doctrinal permission.
 
-Sa'auei'a family units may cultivate trusted lineages as route companions. The Airawa Empire dislikes unmanaged burden flowers because they make private weakness public without asking doctrine for permission.
+## Body, Movement, and Senses
 
-## Behavioral Model
+A burden flower grips with clasping rootlets. Flat leaves gather light, while a cup of sensory filaments tastes sweat chemistry, stress hormones, immune signals, and ambient memory residues.
 
-Primary drives: secure a mobile host, feed on minerals and light, avoid grooming removal, reproduce near suitable routes, and maintain enough credibility to be tolerated.
+It moves slowly by releasing its grip and fastening again. Hosts provide most long-distance transport, including [[Biosphere/Grazers and Browsers/Glassback Grazers|Glassback Grazers]] and Sa'auei'a carrying gear.
 
-Memory channels: host sweat, immune chemistry, emotional state, contact with mats, fungal road scents, and grooming patterns.
+Its memory draws on host sweat, immune chemistry, emotional state, contact with mats, fungal road scents, and patterns of grooming. These give it information about both its host and the places they pass through.
 
-Cooperation triggers: regular light, honest host sickness, mineral washing, careful pruning, and social environments where warning is rewarded.
+## Needs, Cooperation, and Threats
 
-Defection triggers: starvation, neglect, host deception, high gossip value, or nearby organisms willing to pay for disclosure.
+A flower seeks a mobile host, minerals, and light. It tries to avoid being groomed off, reproduce near suitable routes, and preserve enough credibility that others will tolerate it.
 
-Threat response: loud bloom, bitter rootlets, false alarm, reproductive shedding, host embarrassment, or signaling a predator-like pattern to force movement.
+Its behavior depends on how those needs are met:
 
-## NPC Handles
+- **Cooperation is encouraged by** regular light, honest host sickness, mineral washing, careful pruning, and surroundings where warnings are rewarded.
+- **Exploitation becomes more likely with** starvation, neglect, host deception, opportunities to spread valuable gossip, or nearby organisms willing to pay for disclosure.
 
-A burden flower NPC should behave like a wearable informant whose loyalty is partly metabolic. It wants the host alive, but not necessarily comfortable.
+Under threat, a flower can bloom loudly, make its rootlets bitter, issue a false alarm, or shed reproductive material. It may embarrass its host through disclosure or signal a predator-like pattern to force the host to move.
 
-Useful state variables: host trust, mineral hunger, credibility, gossip pressure, disease alarm, and reproductive readiness.
+## Playing a Burden Flower
 
-Readable actions: tightening rootlets, muting color, alarm blooming, leaning toward light, dropping seed beads, souring against grooming, or showing an old host-state at the worst possible moment.
+A burden flower NPC is a wearable informant that needs to feed. It wants its host alive; the host's comfort is less essential.
+
+Track **host trust, mineral hunger, credibility, gossip pressure, disease alarm, and reproductive readiness**. Together, these help determine whether the flower protects a confidence, gives a useful warning, or finds a reason to disclose something.
+
+Its actions should be visible through its body: tightening rootlets, muting its colors, blooming in alarm, leaning toward light, dropping seed beads, or souring in response to grooming. It can also display an old host-state at the worst possible moment.
 
 ## Setting Links
 
