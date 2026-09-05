@@ -1,6 +1,6 @@
 # Inspirations
 
-These notes track outside influences and useful comparative pressure. They are not setting canon.
+These notes examine outside works that influence Zyphos or help test its design through comparison. They are not setting canon.
 
 - [[Semiosis/index]]
 - [[Avatar/index]]
@@ -8,4 +8,4 @@ These notes track outside influences and useful comparative pressure. They are n
 
 ## Discipline
 
-Use inspiration notes to clarify what this setting is stealing structurally, transforming, or rejecting. Do not import proper nouns, plot beats, or distinctive canon furniture.
+Explain which underlying ideas or relationships Zyphos borrows from each work, how it changes them, and what it rejects. Do not bring over the source’s proper nouns, plot events, or distinctive creatures, objects, and institutions.
