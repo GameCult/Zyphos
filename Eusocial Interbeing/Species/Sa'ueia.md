@@ -1,17 +1,19 @@
 # Sa'ueia
 
-The Sa'ueia are the dominant intelligent species of the [[Sa'ueia Continent]]. Their civilization is nomadic, highly developed, and organized around squad-sized family units rather than permanent cities.
+The Sa'ueia are the dominant intelligent species of the [[Sa'ueia Continent]]. They have a highly developed nomadic civilization. Most adults travel in squad-sized family units, carrying out the work of society as they move rather than gathering in permanent cities.
 
-They are loosely comparable to wolves in social unit scale and movement logic, but that comparison is a handle, not a cage. They are not dogs with philosophy stapled on.
+Wolves offer a loose comparison for the size of these groups and the way they move. That comparison has limits: it does not explain Sa'ueia biology or civilization.
 
-## Social Pattern
+## Families and Breeding Grounds
 
-Sa'ueia families move across the continent making deals with remembered ecologies. Their units combine kinship, apprenticeship, defense, diplomacy, childcare, and mobile craft production.
+A traveling family unit raises children, trains apprentices, makes things, defends its members, and negotiates with others. Kinship, craft, and diplomacy belong to the same mobile group.
 
-They treat [[Breeding Grounds]] as sacred commons. These sites are not private property, dynastic capitals, or imperial nurseries. Infants, the infirm, caretakers, and rotating specialists remain there, while most adults circulate through the wider continent.
+These families also maintain ties to [[Breeding Grounds]], which they treat as sacred commons. Infants, infirm members, caretakers, and rotating specialists stay at these sites while most adults circulate through the continent. The grounds are shared places, not private property, seats of ruling families, or nurseries controlled by an empire.
 
-## Ecological Politics
+## Relationships Across the Continent
 
-Sa'ueia prestige comes from being remembered as generous by more-than-social partners: feeding sites, medicinal groves, migratory herds, reef analogues, pollinator corridors, and defensive organisms.
+As families travel, they make and renew agreements with the ecologies they visit. Those relationships depend on memory: a family's past generosity can affect how it is received when it returns.
 
-The strongest family units are not those that can seize territory. They are those that can arrive after years away and still be recognized as beneficial.
+The partners involved include feeding sites, medicinal groves, migratory herds, reef analogues, pollinator corridors, and defensive organisms. Sa'ueia politics therefore extends beyond relations among Sa'ueia themselves. A family's prestige depends on these ecological partners remembering it as generous.
+
+The strongest families are those that can return after years away and still be recognized as beneficial. Their standing rests on relationships that survive their absence, rather than on their ability to seize territory.

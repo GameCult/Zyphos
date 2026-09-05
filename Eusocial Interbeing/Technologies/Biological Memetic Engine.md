@@ -1,27 +1,25 @@
 # Biological Memetic Engine
 
-The Biological Memetic Engine is the founding technology of the [[Airawa Empire]]. It began as a tool for freeing Airawa communities from [[Matriarch Trees]] that held communal memory hostage.
+The Biological Memetic Engine spreads ideas through living networks and changes how their members remember, feel, and respond. It is the founding technology of the [[Airawa Empire]], originally developed to free Airawa communities from [[Matriarch Trees]] that held their communal memory hostage.
 
-## Mechanism
+## How It Works
 
-The engine uses engineered organisms, signals, and ritual payloads to propagate ideas through living networks. It can alter memory emphasis, emotional association, taboo response, enemy recognition, reproductive desire, and obedience patterns.
+The engine uses engineered organisms, signals, and material carried through rituals to transmit ideas. Its effects can reach into several parts of life: which memories receive emphasis, what emotions become associated with something, how someone responds to a taboo, whom they recognize as an enemy, their reproductive desires, and their patterns of obedience.
 
-It is not simple hypnosis. It is ecological propaganda with teeth in the substrate.
+This goes beyond simple hypnosis. The engine makes the living systems through which communities interact carry propaganda capable of changing their responses.
 
-The engine is strongest inside the imperial topology, where borders, archives,
-reproduction, and symbiont traffic have already been engineered for legibility.
-It is less reliable against native [[Nation Scale Interbeings]] whose boundaries
-are locally negotiated, partially closed, and not organized around one imperial
-root.
+Its effectiveness depends on how those networks are organized. Inside the empire, borders, archives, reproduction, and the movement of symbionts have already been engineered so that the imperial system can read and manage them. The engine is strongest there.
 
-## Path Dependency
+It is less reliable against native [[Nation Scale Interbeings]]. Their boundaries are negotiated locally and closed to some kinds of traffic. They do not organize their networks around a single imperial root, so the engine cannot rely on the same arrangement it uses at home.
 
-The engine was so powerful that the empire learned to solve every problem through memetic-biological intervention:
+## How the Tool Shapes the Empire
 
-- dissent becomes infection management;
-- foreignness becomes immune threat;
-- heredity becomes policy;
-- ecology becomes transmission medium;
-- politics becomes root access.
+The engine proved so powerful that the empire learned to approach every problem through biological changes to ideas and behavior. That habit shapes what imperial authorities think a problem is and what they consider an answer:
 
-This is the setting's central Turtledove-style trap. A civilization does not merely possess a tool. Eventually the tool possesses the menu of possible answers.
+- They treat dissent as an infection to manage.
+- They treat foreignness as a threat requiring an immune response.
+- They make heredity a matter of policy.
+- They use ecology to transmit ideas and behavioral changes.
+- They approach politics as a struggle for access to the underlying networks through which memory and behavior can be altered.
+
+This is the setting's central Turtledove-style trap: a successful technology gradually narrows a civilization's ability to imagine other solutions. The empire possesses an extraordinarily powerful tool, and increasingly understands its problems only in terms that the tool can address.
