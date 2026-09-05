@@ -1,13 +1,13 @@
 # Ecological Memory Partners
 
-Ecological memory partners are non-Airawa and non-Sa'auei'a organisms that can remember interactions across time and alter future cooperation accordingly.
+Ecological memory partners are organisms other than Airawa and Sa'auei'a that remember past interactions and change how they cooperate in response. Their history with a family or group can affect the help they provide later.
 
-Examples may include:
+Possible examples include:
 
-- migratory herds that preferentially guide generous families;
-- medicinal root systems that respond to long-term tending;
-- carrion guilds that clean routes for groups that feed them well;
-- pollinator swarms that carry warnings between breeding grounds;
-- reef-like structures that open or deny shelter.
+- Migratory herds that are more likely to guide families that have been generous to them.
+- Medicinal root systems that respond to tending sustained over time.
+- Carrion guilds that clean routes for groups that feed them well.
+- Pollinator swarms that carry warnings between breeding grounds.
+- Reef-like structures that grant or deny access to shelter.
 
-These partners make the setting's diplomacy more than person-to-person politics. A treaty can be chewed, flowered, withheld, or inherited.
+Diplomacy therefore extends beyond negotiations between people. Cooperation can involve feeding, tending, carrying warnings, or providing shelter. A treaty may take a form that can be chewed or flower, may be withheld, or may be inherited.

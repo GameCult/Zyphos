@@ -1,13 +1,7 @@
 # Breeding Grounds
 
-Breeding Grounds are sacred communal sites of the [[Sa'ueia]]. They are permanently occupied mainly by infants, infirm adults, caretakers, rotating specialists, and allied organisms.
+Breeding Grounds are sacred communal sites where the [[Sa'ueia]] breed and care for those who need to stay in one place. They remain occupied year-round, mainly by infants, infirm adults, caretakers, rotating specialists, and allied organisms.
 
-## Social Role
+Most adults visit, then leave again with their family units. They return to breed, recover, teach, mourn, settle disputes, and renew obligations. The grounds provide shared places for reproduction and medical care, preserve communal memory, and anchor legal relationships. They also serve as places where important transitions are marked through ritual.
 
-They are not cities. They are reproductive commons, legal anchors, memory reservoirs, medical centers, and ritual thresholds.
-
-Adults return to breed, recover, teach, mourn, settle disputes, and renew obligations. Most then leave again with their family units.
-
-## Constraint
-
-If a breeding ground becomes a capital, the Sa'auei'a system starts breaking. Permanent concentration would invite hierarchy, resource exhaustion, ecological resentment, and imperial-style capture.
+These sites support a mobile civilization; they are not cities. If a breeding ground becomes a capital, the Sa'ueia system starts to break down. Concentrating the population permanently would invite hierarchy, exhaust resources, provoke ecological resentment, and leave the grounds vulnerable to imperial-style capture.
