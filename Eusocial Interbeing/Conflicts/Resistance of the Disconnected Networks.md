@@ -1,11 +1,9 @@
 # Resistance of the Disconnected Networks
 
-The resistance of the [[Disconnected Tree Networks]] is the Airawa continent's unresolved civil wound.
+The [[Disconnected Tree Networks]] survived by cutting themselves off from the [[Biological Memetic Engine]], which spreads ideas and influences memory and behavior through living networks. Their continuing resistance leaves an unresolved internal conflict on the Airawa continent.
 
-These networks survived by cutting themselves off from the [[Biological Memetic Engine]]. They now fight through ecological sabotage, secret memory preservation, false trails, immune counter-signals, and alliances with Airawa communities the empire claims no longer exist.
+They fight through ecological sabotage, false trails, and immune counter-signals. They also preserve memories in secret and form alliances with Airawa communities that the empire claims no longer exist. The details of these methods remain unspecified.
 
-## Narrative Pressure
+Their survival threatens the empire's legitimacy more than any foreign enemy can. The empire claims consensus; the networks are evidence that its consensus is incomplete and that submission to it is not inevitable.
 
-Their existence undermines imperial legitimacy more than any foreign enemy can. If they are real, then imperial consensus is neither complete nor inevitable.
-
-This is why the empire denies them while quietly bleeding resources into campaigns against them. Very normal state behavior. Nothing to see in the haunted budget.
+The empire therefore denies that the networks exist while quietly draining resources into campaigns against them. It must fight an enemy it cannot publicly admit is there.

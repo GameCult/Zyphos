@@ -1,19 +1,15 @@
 # Xenophobic Memetic Campaign
 
-The Xenophobic Memetic Campaign is the Airawa Empire's response to discovering the [[Sa'ueia]].
+The Xenophobic Memetic Campaign is the Airawa Empire's effort to turn its citizens against the [[Sa'ueia]] after discovering them. The imperial center uses its power to shape belief across the quarter of the [[Airawa Home Continent]] it controls, flooding citizens with messages that portray Sa'auei'a life as a threat:
 
-Because the imperial center can shape belief across the imperial quarter of the
-[[Airawa Home Continent]], it floods citizens with totalitarian xenophobic
-payloads:
+- Their movement from place to place is described as disease.
+- Their communal breeding grounds are condemned as obscene.
+- Their reciprocal relationships with other organisms are presented as submission to animals.
+- Airawa who dissent are accused of being infected by the Sa'auei'a.
+- Imperial military violence is justified as the continent's immune response.
 
-- Sa'auei'a mobility is framed as disease;
-- communal breeding grounds are framed as obscene;
-- ecological reciprocity is framed as animal submission;
-- Airawa dissenters are accused of Sa'auei'a infection;
-- military violence is framed as continental immune response.
+These messages make hostility to the Sa'auei'a part of obedience to the empire. They also give the imperial center a way to treat disagreement as evidence of foreign infection.
 
 ## Political Use
 
-The campaign also helps the empire suppress news of [[Disconnected Tree Networks]]. Any contradiction can be blamed on foreign memetic contamination.
-
-It is a neat lie, which is the worst kind. It fits in the hand.
+The campaign helps the empire suppress news of [[Disconnected Tree Networks]]. Any report that contradicts the imperial account can be blamed on foreign influence corrupting people's beliefs. The same accusation serves against both a foreign species and inconvenient news from home.

@@ -1,16 +1,16 @@
 # Continental Contact War
 
-The Continental Contact War is the broad conflict between the [[Airawa Empire]] and the [[Sa'ueia Nomadic Civilization]] after imperial discovery.
+The Continental Contact War is the broad conflict between the [[Airawa Empire]] and the [[Sa'ueia Nomadic Civilization]] that follows imperial discovery of the Sa'auei'a continent.
 
-## Strategic Mismatch
+## Why Their Expectations Fail
 
-The empire expects to capture command centers, overwrite populations, and control ecological substrate. The Sa'auei'a have no single capital, no continental mother-tree network, and no public mind that can be seized at one root.
+The empire expects conquest to work by capturing command centers, rewriting what populations believe, and taking control of the living systems their societies depend on. But the Sa'auei'a have no single capital, no continental mother-tree network, and no shared public mind the empire can seize through a single root. The empire's expected points of control are absent.
 
-The Sa'auei'a expect conflicts to be negotiated through remembered relationships. The empire brings a machine built to make negotiation unnecessary.
+The Sa'auei'a expect to negotiate conflicts through remembered relationships. They face an imperial system built to impose control without needing negotiation.
 
-## Useful Fronts
+## Fronts of the Conflict
 
-- imperial attempts to infect breeding grounds;
-- Sa'auei'a efforts to make the new continent refuse imperial biology;
-- Disconnected Tree Network envoys crossing into Sa'auei'a territory;
-- imperial citizens encountering living proof that the campaign lied.
+- Imperial forces attempt to infect Sa'auei'a breeding grounds.
+- The Sa'auei'a work to make their continent's living systems reject imperial biology.
+- Envoys from the Disconnected Tree Networks cross into Sa'auei'a territory.
+- Imperial citizens encounter living evidence that the campaign has lied to them.
