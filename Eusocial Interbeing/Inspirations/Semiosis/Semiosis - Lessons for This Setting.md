@@ -1,14 +1,15 @@
 # Semiosis - Lessons for This Setting
 
+*Semiosis* informs this setting's nonhuman politics. These are inspirations, not imported canon.
+
 ## Keep
 
-- nonhuman agency as strategic pressure;
-- colonists or dominant species discovering they are not the only political actors;
-- ecology as negotiation rather than backdrop;
-- intelligence expressed through growth, timing, dependency, and reward.
+Colonists or dominant species can discover that other organisms are political actors with interests of their own. Their strategies must then account for beings they previously overlooked.
+
+Ecology becomes something participants negotiate. Intelligence can appear in how an organism grows, when it acts, how others depend on it, and what it rewards. These are ways to exert influence, not merely details of the landscape.
 
 ## Change
 
-This setting foregrounds eusocial inter-species structures, reproductive commons, and memetic infrastructure more than first-contact plant diplomacy.
+This setting gives more attention to eusocial organization across species, shared reproductive resources, and the living systems that carry memory and shape belief than to first-contact diplomacy with plants.
 
-The [[Airawa Empire]] turns ecological communication into domination. The [[Sa'ueia]] maintain ecological bargaining as civilization. That contrast is the engine.
+The central contrast is between two uses of ecological communication. The [[Airawa Empire]] uses living networks to impose control. The [[Sa'ueia]] sustain civilization through ecological bargaining.
