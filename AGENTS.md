@@ -24,6 +24,15 @@ Treat it as a navigable setting bible, not a heap of shiny organism facts dragge
 - Avoid empty praise or anti-praise. Describe how systems work, who benefits, who is harmed, and what contradictions they create.
 - Fan-facing inspiration notes should explain the useful pressure without laundering source material into this setting.
 
+## Reader Calibration
+
+- Calibration drifts upward across edits and never downward: writing above a reader reads as respect, writing below them reads as condescension. Each pass inherits the last one's ceiling, so accessibility erodes unless something actively resists it.
+- Prose is legible to precisely the reader it was tuned for, which is whoever wrote it. Rereading cannot detect over-calibration. Only a read without authorial context can.
+- Completeness is not legibility. A breach usually compresses rather than omits: an argument folded into a named term is fully present and expandable only by a reader who already holds it. Ask whether context is stated or merely named.
+- Restatement after an abstraction is error correction, not padding. The concrete instance is how a reader who missed the abstraction recovers.
+- Introduce at most one unfamiliar idea per paragraph and anchor it to something concrete. Term load is the variable that actually governs whether an ecological or political mechanism lands.
+- The failure is silent: a newcomer understands every sentence while nothing accumulates, and names that carry weight for us stay inert for them. That produces no complaint, so absence of complaint is not evidence.
+
 ## Source Discipline
 
 - Use public sources only for inspiration tracking and comparative analysis.
