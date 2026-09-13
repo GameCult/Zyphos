@@ -1,5 +1,3 @@
-import { QuartzComponent, QuartzComponentConstructor } from "./types"
-
 export const zyphosHeroScript = String.raw`
 function bootZyphosHero() {
   const home = document.querySelector("body[data-slug='index'] article")
@@ -108,11 +106,3 @@ document.addEventListener("nav", bootZyphosHero)
 document.addEventListener("DOMContentLoaded", bootZyphosHero)
 bootZyphosHero()
 `
-
-export default (() => {
-  const ZyphosHeroScript: QuartzComponent = () => (
-    <script dangerouslySetInnerHTML={{ __html: zyphosHeroScript }} />
-  )
-
-  return ZyphosHeroScript
-}) satisfies QuartzComponentConstructor
