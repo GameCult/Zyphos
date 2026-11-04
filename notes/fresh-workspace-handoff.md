@@ -20,8 +20,8 @@ Core content lives under `Eusocial Interbeing/`. The baseline setting is an orig
 
 The Airawa on one continent once depended on mother-tree networks for communal memory. One tribe invented a biological memetic engine to escape that dependency and became a eugenics-obsessed biopunk empire. Disconnected tree networks still resist while the empire denies they exist.
 
-The Sa'auei'a evolved on another continent without Airawa presence. They have an advanced nomadic civilization organized in squad-sized family units, sacred communal breeding grounds, and reciprocal ecological relationships.
+The Sa'ueia evolved on another continent without Airawa presence. They have an advanced nomadic civilization organized in squad-sized family units, sacred communal breeding grounds, and reciprocal ecological relationships.
 
 ## Next Useful Action
 
-Use the fractal NPC simulation plan to pressure-test Airawa and Sa'auei'a daily life at multiple scales, then deepen the two sophont species' biology, reproduction, and sensory experience before adding plot-scale characters.
+Use the fractal NPC simulation plan to pressure-test Airawa and Sa'ueia daily life at multiple scales, then deepen the two sophont species' biology, reproduction, and sensory experience before adding plot-scale characters.

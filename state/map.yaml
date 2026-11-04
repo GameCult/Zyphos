@@ -4,10 +4,10 @@ project:
   root_content_dir: Eusocial Interbeing
 current_status:
   summary: Zyphos now has a Game Design plan for fractal NPC simulation that mirrors Aquarium mapped-domain architecture from continental population fields down to full individuals.
-  next_action: Use the fractal NPC plan to pressure-test Airawa and Sa'auei'a daily life, then feed Weksa naming briefs from organism and institution domains.
+  next_action: Use the fractal NPC plan to pressure-test Airawa and Sa'ueia daily life, then feed Weksa naming briefs from organism and institution domains.
 active_subgoals:
   - Expand Airawa biology and imperial caste pressures.
-  - Expand Sa'auei'a family-unit roles, breeding grounds, and mobile technologies.
+  - Expand Sa'ueia family-unit roles, breeding grounds, and mobile technologies.
   - Define limits and failure states of the Biological Memetic Engine.
   - Keep Zyphos simulation questions synchronized with Aquarium Engine.
 invariants:

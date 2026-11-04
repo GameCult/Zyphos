@@ -6,7 +6,7 @@ Ribbonlike sensory vanes take the place of feathers. Calling threadwings birds i
 
 ## Bodies That Sense and Remember
 
-Each vane detects pressure, chemical gradients, static charge, thermal plumes, and memory residues. The ribbons naturally fray and regrow, leaving fibers in nests and courier stations. [[Biosphere/Decomposers and Recyclers/Lattice Ants|Lattice Ants]] can read those fibers. Sa'auei'a travelers can braid them into warning knots, though the knots do not last long.
+Each vane detects pressure, chemical gradients, static charge, thermal plumes, and memory residues. The ribbons naturally fray and regrow, leaving fibers in nests and courier stations. [[Biosphere/Decomposers and Recyclers/Lattice Ants|Lattice Ants]] can read those fibers. Sa'ueia travelers can braid them into warning knots, though the knots do not last long.
 
 Threadwings remember through several channels: gut symbionts, residues on their vanes, route songs, nesting fibers, and lantern pulses. Remembered insults also influence their behavior.
 

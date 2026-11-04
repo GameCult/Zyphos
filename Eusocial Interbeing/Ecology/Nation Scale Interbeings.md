@@ -21,7 +21,7 @@ The channels include:
 - carriers of taboos, rituals, and law;
 - military organisms and engineered memetic packets.
 
-Most native nation scale interbeings apply different rules in different places. A marsh front may admit fungal couriers while blocking grazer herds. A cliff nesting system may welcome Sa'auei'a midwives and turn away Airawa archive pilgrims. Even within one negotiation, a mother-tree polity may agree to share weather memory while withholding ancestry memory.
+Most native nation scale interbeings apply different rules in different places. A marsh front may admit fungal couriers while blocking grazer herds. A cliff nesting system may welcome Sa'ueia midwives and turn away Airawa archive pilgrims. Even within one negotiation, a mother-tree polity may agree to share weather memory while withholding ancestry memory.
 
 Diplomacy therefore proceeds through specific permissions, often slowly, and takes effect in living bodies and habitats. A treaty may establish a pollinator route, suspend an immune response temporarily, grant guests access to breeding grounds, or set a fungal toll. A remembered injury may close a valley for three generations.
 

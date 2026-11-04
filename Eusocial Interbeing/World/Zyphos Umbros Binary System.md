@@ -52,17 +52,17 @@ Those limits give Zyphos its particular problems. A close habitable orbit, a sta
 
 Under this low-energy baseline, organisms must compete over when they receive light and how they survive the gaps. Thermal storage, chemical energy, migration windows, and adaptation to eclipses should matter. Civilizations should have to plan around sunlight rather than assume it is reliably available.
 
-The Airawa and Sa'auei'a continents should be developed with that orbital rhythm in mind. The following are possibilities to investigate, not settled mechanisms:
+The Airawa and Sa'ueia continents should be developed with that orbital rhythm in mind. The following are possibilities to investigate, not settled mechanisms:
 
 - **Storing and sharing energy:** mother-tree networks, which carry communal memory, may store energy, move it between dependents, or control who receives it through political rationing.
 - **Timing biological influence:** the [[Biological Memetic Engine]], which propagates ideas through living networks, may use eclipse rhythms to time those transmissions, synchronize rituals, or suppress immunity.
 - **Finding places to remain disconnected:** tree networks that survive disconnection may hide in niches created by thermal conditions, seasons, or eclipse shadows.
-- **Planning movement and return:** Sa'auei'a routes and [[Breeding Grounds]]—sacred reproductive commons to which mobile adults return—may follow reliable windows of light, reservoirs of heat, or ecological partners adapted to eclipse cycles.
+- **Planning movement and return:** Sa'ueia routes and [[Breeding Grounds]]—sacred reproductive commons to which mobile adults return—may follow reliable windows of light, reservoirs of heat, or ecological partners adapted to eclipse cycles.
 
 ## Open Questions
 
 - Should the primary remain near 0.25 solar masses, or become a warmer late-K or early-M dwarf that permits a wider binary and longer eclipses?
 - Should the accepted center-to-center separation be 8, 10, or 12 Earth radii?
 - Is Zyphos the more massive planet, with Umbros visibly smaller but still unmistakably planet-scale?
-- Where are regular eclipses centered: the Airawa continent, the Sa'auei'a continent, an oceanic band, or a culturally contested equatorial belt?
+- Where are regular eclipses centered: the Airawa continent, the Sa'ueia continent, an oceanic band, or a culturally contested equatorial belt?
 - Does Umbros host life, failed life, hostile life, or simply remain a visible world that Zyphos cultures cannot ignore?

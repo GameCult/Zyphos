@@ -1,6 +1,6 @@
 # Reciprocal Ecologies
 
-Reciprocal ecologies are living systems that remember how Sa'auei'a have treated them. That history affects whether they later provide access, guidance, warnings, food, or shelter—or refuse to help.
+Reciprocal ecologies are living systems that remember how Sa'ueia have treated them. That history affects whether they later provide access, guidance, warnings, food, or shelter—or refuse to help.
 
 A family might feed a route, tend a sick grove, or defend a nesting corridor, then receive help years later from organisms that remember its actions. Those organisms do not think like people. Their memory nevertheless has practical consequences: generosity can improve a family's future prospects, even without affection or an immediate reward.
 

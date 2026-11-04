@@ -10,7 +10,7 @@ Treat it as a navigable setting bible, not a heap of shiny organism facts dragge
 
 - Keep vault content under `Eusocial Interbeing/`.
 - Use Title Case filenames matching the topic name.
-- Preserve Obsidian wiki links such as `[[Airawa]]`, `[[Sa'auei'a]]`, `[[Mother Trees]]`, and `[[Biological Memetic Engine]]`.
+- Preserve Obsidian wiki links such as `[[Airawa]]`, `[[Sa'ueia]]`, `[[Mother Trees]]`, and `[[Biological Memetic Engine]]`.
 - Avoid YAML frontmatter unless the whole vault adopts it later.
 - Prefer one clear note per species, continent, ecology, faction, technology, conflict, theme, or inspiration source.
 - Separate setting canon, design inference, and outside inspiration.

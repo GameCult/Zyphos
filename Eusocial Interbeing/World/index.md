@@ -3,7 +3,7 @@
 ## Continents
 
 - [[Airawa Home Continent]]: birthplace of the Airawa species, the mother-tree networks, and the Airawa Empire.
-- [[Sa'ueia Continent]]: Airawa-free continent where Sa'auei'a nomadic civilization evolved around mobile reciprocity and sacred breeding grounds.
+- [[Sa'ueia Continent]]: Airawa-free continent where Sa'ueia nomadic civilization evolved around mobile reciprocity and sacred breeding grounds.
 
 ## Planet and Simulation
 

@@ -8,7 +8,7 @@ They are distinct from [[Matriarch Trees|Matriarch Trees]], although the two can
 
 ## Light, Signals, and Memory
 
-The lantern knots hang below the canopy rather than at its crown, directing light toward ground traffic. Their colored pulses carry messages as well as illumination. [[Biosphere/Couriers and Pollinators/Threadwing Couriers|Threadwing Couriers]], [[Biosphere/Decomposers and Recyclers/Lattice Ants|Lattice Ants]], and some Sa'auei'a route readers can distinguish invitations, closures, taxes, mourning, and warnings.
+The lantern knots hang below the canopy rather than at its crown, directing light toward ground traffic. Their colored pulses carry messages as well as illumination. [[Biosphere/Couriers and Pollinators/Threadwing Couriers|Threadwing Couriers]], [[Biosphere/Decomposers and Recyclers/Lattice Ants|Lattice Ants]], and some Sa'ueia route readers can distinguish invitations, closures, taxes, mourning, and warnings.
 
 Inside the trunk, layers of memory-bearing growth tissue—memory cambium—hold records on different timescales. Outer rings store recent passage, wounds, pollen, and fungal reports. Deeper rings preserve lasting agreements and obligations: who may nest, which grove is quarantined, where a trail may cross, and which family line failed to repay shelter.
 

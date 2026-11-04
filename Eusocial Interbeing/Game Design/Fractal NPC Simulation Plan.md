@@ -31,7 +31,7 @@ Online learning and multi-armed bandits provide the cache policy. The scheduler 
 
 Support Zyphos scenes with millions of possible NPCs and organism-agents while keeping gameplay responsive, readable, and coherent at every zoom level:
 
-- a named Sa'auei'a child with a burden flower;
+- a named Sa'ueia child with a burden flower;
 - a glassback herd responding to eclipse ingress;
 - a candle-road corridor rerouting travelers;
 - a breeding ground holding thousands of dependents;
@@ -71,18 +71,18 @@ claim {
 - `RouteDomain`: candle-road segment, crossing, shelter, mineral lick, quarantine gate.
 - `AquaticChannelDomain`: reef channel, current band, nursery shelf, storm exposure.
 - `GroveDomain`: lantern-tree grove, mother-tree archive edge, root treaty zone.
-- `SettlementDomain`: imperial district, Sa'auei'a camp, breeding-ground perimeter.
+- `SettlementDomain`: imperial district, Sa'ueia camp, breeding-ground perimeter.
 - `BodyDomain`: individual anatomy, herd array, colony lattice, host-parasite surface.
 
 ### Social Domains
 
 - `IndividualDomain`: one high-fidelity agent with body, memory, attention, and agenda.
-- `HouseholdDomain`: Sa'auei'a family unit, Airawa caste cell, nest cluster, caretaker group.
+- `HouseholdDomain`: Sa'ueia family unit, Airawa caste cell, nest cluster, caretaker group.
 - `CohortDomain`: age band, work party, flock, patrol, nursery wave, courier guild.
 - `InstitutionDomain`: breeding ground, road authority, reef border, mother archive, imperial bureau.
 - `PopulationFieldDomain`: millions of low-detail people or organisms represented as densities and flows.
 
-Spatial and social domains can overlap. A Sa'auei'a family unit crossing a candle road is a household domain moving through a route domain, both negotiating authority.
+Spatial and social domains can overlap. A Sa'ueia family unit crossing a candle road is a household domain moving through a route domain, both negotiating authority.
 
 ## Detail Layers
 
@@ -124,7 +124,7 @@ Used when the player can read or alter a group but individual identity is not ye
 
 Examples:
 
-- a Sa'auei'a family unit;
+- a Sa'ueia family unit;
 - a glassback herd cluster;
 - a threadwing flock;
 - a lattice ant diagnostic lattice;

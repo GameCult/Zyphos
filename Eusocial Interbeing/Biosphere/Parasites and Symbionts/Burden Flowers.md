@@ -12,13 +12,13 @@ A flower's colors reveal its host's recent state. Healthy hosts receive clear, r
 
 [[Biosphere/Primary Producers/Prismwake Mats|Prismwake Mats]] read these reports, but give less weight to flowers known to exaggerate. A flower needs enough credibility to remain tolerated, even when disclosure offers an immediate advantage.
 
-Sa'auei'a family units may cultivate trusted flower lineages as route companions. The Airawa Empire dislikes unmanaged burden flowers because they expose private weakness without waiting for doctrinal permission.
+Sa'ueia family units may cultivate trusted flower lineages as route companions. The Airawa Empire dislikes unmanaged burden flowers because they expose private weakness without waiting for doctrinal permission.
 
 ## Body, Movement, and Senses
 
 A burden flower grips with clasping rootlets. Flat leaves gather light, while a cup of sensory filaments tastes sweat chemistry, stress hormones, immune signals, and ambient memory residues.
 
-It moves slowly by releasing its grip and fastening again. Hosts provide most long-distance transport, including [[Biosphere/Grazers and Browsers/Glassback Grazers|Glassback Grazers]] and Sa'auei'a carrying gear.
+It moves slowly by releasing its grip and fastening again. Hosts provide most long-distance transport, including [[Biosphere/Grazers and Browsers/Glassback Grazers|Glassback Grazers]] and Sa'ueia carrying gear.
 
 Its memory draws on host sweat, immune chemistry, emotional state, contact with mats, fungal road scents, and patterns of grooming. These give it information about both its host and the places they pass through.
 

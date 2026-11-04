@@ -64,13 +64,13 @@ That arrangement makes the empire behave like a biological singularity: its soci
 
 ## What This Makes Possible
 
-Airawa, Sa'auei'a, mother trees, breeding grounds, ecological partners, parasites, crop analogues, pathogens, domesticated systems, and technologies all develop within this memory-bearing biology. Their distinctive powers and dependencies grow from it.
+Airawa, Sa'ueia, mother trees, breeding grounds, ecological partners, parasites, crop analogues, pathogens, domesticated systems, and technologies all develop within this memory-bearing biology. Their distinctive powers and dependencies grow from it.
 
 The [[Biological Memetic Engine]] can exert such power because the biosphere already supports mutable cellular memory. It hijacks an existing means of transmission. Life already trusted the channel; the engine made coercion through it an industrial capability.
 
 Mother trees draw their power from the same foundation. They serve as large archival organs within a biosphere where even cells already store memory. Their scale, longevity, control over memory routes, and the dependence of other beings on them give them authority. Remembering is common. Holding and routing memory on that scale is another matter.
 
-The Sa'auei'a system organizes reciprocity while moving through this living network. Its practices keep participants in good standing with memory-bearing places, routes, herds, colonies, and reproductive commons. That reciprocity is part of their ecological relationships, as well as their culture.
+The Sa'ueia system organizes reciprocity while moving through this living network. Its practices keep participants in good standing with memory-bearing places, routes, herds, colonies, and reproductive commons. That reciprocity is part of their ecological relationships, as well as their culture.
 
 ## Design Rules
 

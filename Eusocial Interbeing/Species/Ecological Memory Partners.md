@@ -1,6 +1,6 @@
 # Ecological Memory Partners
 
-Ecological memory partners are organisms other than Airawa and Sa'auei'a that remember past interactions and change how they cooperate in response. Their history with a family or group can affect the help they provide later.
+Ecological memory partners are organisms other than Airawa and Sa'ueia that remember past interactions and change how they cooperate in response. Their history with a family or group can affect the help they provide later.
 
 Possible examples include:
 
