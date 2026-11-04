@@ -2,7 +2,7 @@
 
 - [[Biological Memetic Engine]]
 - [[Imperial Biopunk Infrastructure]]
-- [[Sa'auei'a Mobile Technologies]]
+- [[Sa'ueia Mobile Technologies]]
 - [[Path Dependency]]
 
 ## Design Rule

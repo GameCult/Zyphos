@@ -18,7 +18,7 @@ Glassbacks must keep the cooperation of the organisms they feed on and travel am
 
 As they move, glassbacks disperse [[Biosphere/Parasites and Symbionts/Burden Flowers|Burden Flowers]] and carry fungal spores between [[Biosphere/Decomposers and Recyclers/Candle Fungal Roads|Candle Fungal Roads]]. Their readable bodies also give threadwings moving surfaces from which to gather information.
 
-Herds often bargain with [[Sa'ueia|Sa'ueia]] family units, the small mobile groups through which Sa'auei'a organize family life and travel. The Sa'auei'a protect calving lanes, prune parasites, and read herd plate-states for signs of weather and danger. In return, glassbacks allow families to pass close by, carry lightweight goods, and lead them toward honest water.
+Herds often bargain with [[Sa'ueia|Sa'ueia]] family units, the small mobile groups through which Sa'ueia organize family life and travel. The Sa'ueia protect calving lanes, prune parasites, and read herd plate-states for signs of weather and danger. In return, glassbacks allow families to pass close by, carry lightweight goods, and lead them toward honest water.
 
 ## What Shapes Their Behavior
 

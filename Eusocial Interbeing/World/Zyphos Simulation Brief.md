@@ -41,7 +41,7 @@ Tree-mediated memory networks densely cover the Airawa home continent. The [[Air
 
 Several [[Disconnected Tree Networks]] survived by cutting their connections to the saturated living substrate.
 
-The Sa'auei'a continent never produced Airawa and did not develop around dependency on mother-tree archives. Its advanced, nomadic society is organized around mobile family units and breeding-ground commons.
+The Sa'ueia continent never produced Airawa and did not develop around dependency on mother-tree archives. Its advanced, nomadic society is organized around mobile family units and breeding-ground commons.
 
 ## Proposed Visual Approach
 
@@ -51,9 +51,9 @@ The following are design inferences, not additional canon.
 
 The Airawa continent's visible organization should follow its memory infrastructure. The renderer needs ways to suggest where ecological transmission is coerced, where connections break, and where networks refuse participation. Ordinary urban layouts covered in greenery would not explain those relationships.
 
-The Sa'auei'a continent needs visible evidence of civilization even where there are no permanent cities. Its mobile society is remembered by the ecology through which it moves. Possible signs include seasonal corridors, reciprocity routes, defended commons, recurring camps, managed migration paths, and breeding-ground clusters. These could take the visual role that fixed clusters of cities would play on a more familiar planet.
+The Sa'ueia continent needs visible evidence of civilization even where there are no permanent cities. Its mobile society is remembered by the ecology through which it moves. Possible signs include seasonal corridors, reciprocity routes, defended commons, recurring camps, managed migration paths, and breeding-ground clusters. These could take the visual role that fixed clusters of cities would play on a more familiar planet.
 
-Night-side light needs the same distinction. Airawa signals may be controlled and connected as infrastructure. Sa'auei'a signals may appear intermittently, follow routes or seasons, or cluster around commons. These possibilities are not final canon.
+Night-side light needs the same distinction. Airawa signals may be controlled and connected as infrastructure. Sa'ueia signals may appear intermittently, follow routes or seasons, or cluster around commons. These possibilities are not final canon.
 
 ### Design Organisms from Zyphos Biology
 
@@ -77,7 +77,7 @@ Future names used by inhabitants should come through the neighboring Weksa repo 
 - What would make a mother-tree network recognizable from orbit?
 - What would an imperial corridor for biological-memetic transmission look like at continental scale?
 - How can disconnected networks be represented without implying that the empire can easily spot them?
-- What visible pattern would distinguish Sa'auei'a breeding grounds from camps, routes, and ecological partner sites?
+- What visible pattern would distinguish Sa'ueia breeding grounds from camps, routes, and ecological partner sites?
 - Should the demo show one historical moment, or offer time slices showing seasonal and political change?
 - After the first physics pass, what exact primary-star mass and luminosity, and what Zyphos–Umbros separation, should be accepted?
 - Which continental or oceanic regions lie under the most reliable daily eclipse track?

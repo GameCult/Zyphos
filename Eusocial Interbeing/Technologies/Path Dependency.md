@@ -8,7 +8,7 @@ The [[Airawa Empire]] invented the [[Biological Memetic Engine]], a technology t
 
 The trap is the engine's usefulness. As the empire relies on it for more tasks, it displaces alternative institutions. By the time anyone recognizes why those institutions were needed, they may already be gone.
 
-## Sa'auei'a Version
+## Sa'ueia Version
 
 The [[Sa'ueia]] developed a civilization around movement, shared reproductive sites, and reciprocal relationships with the ecologies they visit. Those arrangements also shape what they find easy or difficult to do.
 

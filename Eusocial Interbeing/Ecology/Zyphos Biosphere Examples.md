@@ -58,7 +58,7 @@ This makes them useful in healing and dangerous to identity. Imperial biotechnic
 
 Candle fungal roads are dim corridors of mycelium connecting breeding grounds, groves, mineral licks, and seasonal shelters. After eclipses, their fruiting bodies open in timed waves. Faint amber beads mark the routes.
 
-Sa'auei'a family units read a brightly lit road as advice from a living organism. Its recommendation carries a history of dealings with travelers. The road remembers who fed it, who trampled it, who transported its spores, and who arrived carrying sick tissue while lying about it. Following its lights means following something that remembers how it has been treated.
+Sa'ueia family units read a brightly lit road as advice from a living organism. Its recommendation carries a history of dealings with travelers. The road remembers who fed it, who trampled it, who transported its spores, and who arrived carrying sick tissue while lying about it. Following its lights means following something that remembers how it has been treated.
 
 ### Choir Reefs
 
