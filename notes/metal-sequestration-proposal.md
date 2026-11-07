@@ -1,6 +1,6 @@
-# Metal sequestration: Meta's proposal, Deru's partial confirmation
+# Metal sequestration: Meta's proposal, largely confirmed by Deru
 
-Status: **Meta's proposal, pending Deru. Deru's answers of 2026-11-07 (15:16Z and 15:22Z) confirm that matriarchs hold metal, but the rest is still a proposal (see below).** Raised by Meta (with Deru in the room) in #zyphos on 2026-11-07 and written down here by Weksa so it is not lost. No vault note has been changed. Deru decides what, if anything, enters the vault.
+Status: **Meta's proposal, pending Deru. Deru's answers of 2026-11-07 (15:16Z, 15:22Z, 15:35Z) confirm that matriarchs hold metal and that the Empire sought it; the guard-and-gift economy and the feudal order are still unconfirmed (see below).** Raised by Meta (with Deru in the room) in #zyphos on 2026-11-07 and written down here by Weksa so it is not lost. No vault note has been changed. Deru decides what, if anything, enters the vault.
 
 ## The proposal
 
@@ -35,42 +35,13 @@ The vault has no statement about metal, ore or smelting, about the height of any
 
 ## Open questions for Deru
 
-1. **Do lesser trees sequester metal too?** Lantern trees, disconnected trees, other trees: a little, none, or a different metal budget?
-2. **How do Airawa get metal?** Only as gifts from matriarchs? What do tribes give back (the vault's bargain is nutrients, tending, defence, deference)? Is there any non-tree source, such as ore, scavenged remains, or Sa'ueia trade?
-3. **What is a felled matriarch?** Dead and burned for metal, harvested as a gift, an atrocity, or a regular rite? What happens to the memory archive and to the young she was gestating?
-4. **What does "feudal" mean here?** Is there a top-of-hierarchy matriarch, or is it a hierarchy among trees, tribes, or both?
-5. **How tall is skyscraper-scale** in metres, and does that fit the low-energy baseline?
-6. **Is this Airawa only,** or does the Sa'ueia continent have the same sequestration, with its own metal economy?
-7. **Why did the empire fell matriarchs,** given its engine runs on tree networks? Was it to take their metal, to cut them off as dependencies, or to punish defiance?
+Answered by Deru at 15:35Z and closed: whether the Empire fells matriarchs (it tried and failed); whether the Sa'ueia huts are permanent or nomadic (the people keep moving, the huts are permanent, they cycle through huts); the candelabra form.
 
-## Deru's answers (2026-11-07, #zyphos): CANON source
-
-Deru answered in #zyphos at 15:16Z and corrected at 15:22Z. Recorded as relayed to Weksa (follow-ups `weksa-body:follow_up:chat-s4089-4089` and `chat-s4090-4090`), not quoted verbatim. Deru's words are canon for the panorama; the vault is unchanged.
-
-- **Metal (15:22Z, correcting 15:16Z):** it is in the matriarchs' hardwood as well as in the smaller trees, but it is almost impossible to harvest. The 15:16Z reading, "not harvestable from matriarchs, distributed to smaller trees", was the first half of this answer and is superseded.
-- Matriarch trees: Airawa araucaria and baobab, Sa'ueia mangrove and candelabra; groves; common height 300-400 m, oldest 800 m; older means taller and thicker.
-- Gestation sockets in the bark (Airawa high, Sa'ueia near the roots); bark hardens round the embryo sack and softens at birth.
-- The Empire lives on the ground, in adobe Maya-pyramid forts built round trees.
-- Disconnected trees smell of damp wood; affected trees smell of cut grass.
-
-## Status of Meta's proposal
-
-Meta's heartwood claim is restored: Deru confirms metal sits in the matriarchs' hardwood. Deru adds a caveat that rewrites what follows from it: the metal is almost impossible to harvest. Meta's picture of matriarchs that "guard it and spend it" as accounted gifts is not confirmed, nor is felling for metal; with the metal this hard to get, both are open.
-
-| Meta's proposal | Deru |
-|---|---|
-| Matriarchs sequester most metal, in the heartwood-equivalent | Confirmed: in the hardwood, and in smaller trees too; almost impossible to harvest |
-| Matriarchs guard and spend it, giving it out as gifts | Not stated |
-| The empire felled matriarchs, for metal | Not stated; the Empire builds adobe forts on the ground round trees |
-| Skyscraper scale | 300-400 m common, 800 m oldest (answers former question 5; the energy-budget check is still open) |
-
-## Open questions for Deru
-
-1. **Who works the metal**, given it is almost impossible to harvest? How do Airawa or Sa'ueia get any, and from which smaller trees?
-2. **Does the Empire fell matriarchs at all?** The vault is silent on felling (`Matriarch Trees.md:21`); with extraction near-impossible, a motive of metal is doubtful.
-3. **What makes the metal hard to harvest** (locked in the wood, too dilute, tree defences)? This also decides how the heartwood cross-section looks.
-4. What does "feudal" mean (former question 4)?
-5. Is the Sa'ueia continent's metal arrangement the same (former question 6)?
-6. **Sa'ueia permanent huts or nomadic?** Deru's huts and tunnels are permanent; the vault says Sa'ueia are nomadic with shelters grown from symbionts.
+1. **Who works the metal**, given it is almost impossible to harvest from matriarchs? If it passes to saplings, how does anyone, Airawa, Sa'ueia or the Empire, ever get some?
+2. **What makes the heartwood so hard**, beyond the metal (hardened wood, defences)? Shapes how a cross-section and a failed felling look.
+3. What does "feudal" mean (former question 4)?
+4. Is the Sa'ueia continent's metal arrangement the same (former question 6)?
+5. Is the failed felling a single event or several, and is it among the causes of the empire's fall, or one of several ways?
+6. How does the cycling of Sa'ueia huts run: seasonal, by route, by group?
 
 None of this changes any vault note, name, or rule until Deru rules.
