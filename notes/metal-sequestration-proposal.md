@@ -1,6 +1,6 @@
 # Metal sequestration: Meta's proposal, largely confirmed by Deru
 
-Status: **Meta's proposal, pending Deru. Deru's answers of 2026-11-07 (15:16Z, 15:22Z, 15:35Z, 16:00Z) confirm that matriarchs hold and are responsible for the metal and that the Empire sought it; the feudal order is still unconfirmed (see below).** Raised by Meta (with Deru in the room) in #zyphos on 2026-11-07 and written down here by Weksa so it is not lost. No vault note has been changed. Deru decides what, if anything, enters the vault.
+Status: **Meta's proposal, pending Deru. Deru's answers of 2026-11-07 (15:16Z to 16:51Z) confirm that matriarchs hold and are responsible for the metal and that the Empire sought it; the feudal order is still unconfirmed (see below).** Raised by Meta (with Deru in the room) in #zyphos on 2026-11-07 and written down here by Weksa so it is not lost. No vault note has been changed. Deru decides what, if anything, enters the vault.
 
 ## The proposal
 
@@ -37,10 +37,10 @@ The vault has no statement about metal, ore or smelting, about the height of any
 
 Answered and closed by Deru (15:35Z, 16:00Z): whether the Empire fells matriarchs; Sa'ueia huts permanent or nomadic, and how they cycle; the candelabra form; who works the metal (nobody harvests it; matriarchs give a trickle through the socket); why the heartwood is hard (chemical); whether the felling was one event (one); what affected trees are (subdued by the Empire's machine); whether lantern light stays (it does).
 
-1. **What does the Empire's tree-subduing machine look like**, and does it take metal from the trees it subdues?
+1. **What does the subduing machine look like, and how does it reach a tree's neural socket?** Was the metal among the resources taken from the oldest matriarch, given the heartwood is hard to cut? Is a subdued, not dead, tree a labour or a weapon?
 2. **What does "feudal" mean** here (former question 4)? Is there a top-of-hierarchy matriarch, or a hierarchy among trees, tribes or both?
 3. Do the Sa'ueia matriarchs (mangrove, candelabra) hold and give metal the same way (former question 6)?
-4. The Empire has fallen many times: is there an imperial era the panorama should show?
+4. The Empire has fallen many times, and the oldest matriarch died under the current one: is there an imperial era the panorama should show?
 5. Is the lantern-tree "cold" light a hue (blue-white) or just dim, and is the candle-bead amber hue-canon?
 
 None of this changes any vault note, name, or rule until Deru rules.
