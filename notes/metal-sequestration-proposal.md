@@ -1,6 +1,6 @@
 # Metal sequestration: Meta's proposal, largely confirmed by Deru
 
-Status: **Meta's proposal, pending Deru. Deru's answers of 2026-11-07 (15:16Z, 15:22Z, 15:35Z) confirm that matriarchs hold metal and that the Empire sought it; the guard-and-gift economy and the feudal order are still unconfirmed (see below).** Raised by Meta (with Deru in the room) in #zyphos on 2026-11-07 and written down here by Weksa so it is not lost. No vault note has been changed. Deru decides what, if anything, enters the vault.
+Status: **Meta's proposal, pending Deru. Deru's answers of 2026-11-07 (15:16Z, 15:22Z, 15:35Z, 16:00Z) confirm that matriarchs hold and are responsible for the metal and that the Empire sought it; the feudal order is still unconfirmed (see below).** Raised by Meta (with Deru in the room) in #zyphos on 2026-11-07 and written down here by Weksa so it is not lost. No vault note has been changed. Deru decides what, if anything, enters the vault.
 
 ## The proposal
 
@@ -35,13 +35,12 @@ The vault has no statement about metal, ore or smelting, about the height of any
 
 ## Open questions for Deru
 
-Answered by Deru at 15:35Z and closed: whether the Empire fells matriarchs (it tried and failed); whether the Sa'ueia huts are permanent or nomadic (the people keep moving, the huts are permanent, they cycle through huts); the candelabra form.
+Answered and closed by Deru (15:35Z, 16:00Z): whether the Empire fells matriarchs; Sa'ueia huts permanent or nomadic, and how they cycle; the candelabra form; who works the metal (nobody harvests it; matriarchs give a trickle through the socket); why the heartwood is hard (chemical); whether the felling was one event (one); what affected trees are (subdued by the Empire's machine); whether lantern light stays (it does).
 
-1. **Who works the metal**, given it is almost impossible to harvest from matriarchs? If it passes to saplings, how does anyone, Airawa, Sa'ueia or the Empire, ever get some?
-2. **What makes the heartwood so hard**, beyond the metal (hardened wood, defences)? Shapes how a cross-section and a failed felling look.
-3. What does "feudal" mean (former question 4)?
-4. Is the Sa'ueia continent's metal arrangement the same (former question 6)?
-5. Is the failed felling a single event or several, and is it among the causes of the empire's fall, or one of several ways?
-6. How does the cycling of Sa'ueia huts run: seasonal, by route, by group?
+1. **What does the Empire's tree-subduing machine look like**, and does it take metal from the trees it subdues?
+2. **What does "feudal" mean** here (former question 4)? Is there a top-of-hierarchy matriarch, or a hierarchy among trees, tribes or both?
+3. Do the Sa'ueia matriarchs (mangrove, candelabra) hold and give metal the same way (former question 6)?
+4. The Empire has fallen many times: is there an imperial era the panorama should show?
+5. Is the lantern-tree "cold" light a hue (blue-white) or just dim, and is the candle-bead amber hue-canon?
 
 None of this changes any vault note, name, or rule until Deru rules.
