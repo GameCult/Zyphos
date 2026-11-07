@@ -1,6 +1,6 @@
-# Metal sequestration: Meta's proposal, pending Deru, not canon
+# Metal sequestration: Meta's proposal, partly answered by Deru; the conflict is open
 
-Status: **Meta's proposal, pending Deru. Not canon.** Raised by Meta (with Deru in the room) in #zyphos on 2026-11-07 and written down here by Weksa so it is not lost. No vault note has been changed. Deru decides what, if anything, enters the vault.
+Status: **Meta's proposal, pending Deru. Not canon, and Deru's answer of 2026-11-07 contradicts its core (see below).** Raised by Meta (with Deru in the room) in #zyphos on 2026-11-07 and written down here by Weksa so it is not lost. No vault note has been changed. Deru decides what, if anything, enters the vault.
 
 ## The proposal
 
@@ -43,4 +43,35 @@ The vault has no statement about metal, ore or smelting, about the height of any
 6. **Is this Airawa only,** or does the Sa'ueia continent have the same sequestration, with its own metal economy?
 7. **Why did the empire fell matriarchs,** given its engine runs on tree networks? Was it to take their metal, to cut them off as dependencies, or to punish defiance?
 
-None of this changes any prompt, name, or rule until Deru rules.
+## Deru's answer (2026-11-07 15:16Z, #zyphos): CANON source
+
+Deru answered the panorama questions in #zyphos. Recorded here as relayed to Weksa (follow-up `weksa-body:follow_up:chat-s4089-4089`), not quoted verbatim. Deru's words are canon for the panorama; the vault is unchanged.
+
+- Metal is **not harvestable from matriarch trees**; it is **distributed among the smaller trees**.
+- Matriarch trees: Airawa araucaria and baobab, Sa'ueia mangrove and candelabra; they stand in groves; common height 300-400 m, oldest 800 m; older means taller and thicker.
+- Gestation sockets in the bark (Airawa high, Sa'ueia near the roots); bark hardens round the embryo sack and softens at birth.
+- The Empire lives on the ground, in adobe Maya-pyramid forts built round trees.
+- Disconnected trees smell of damp wood; affected trees smell of cut grass.
+
+## Conflict with the proposal
+
+| Meta's proposal | Deru |
+|---|---|
+| Matriarchs sequester most metal, in the heartwood-equivalent | Metal is not harvestable from matriarchs; held in smaller trees |
+| Matriarchs guard and spend it, giving it out as gifts | Not stated |
+| The empire felled matriarchs, for metal and as an act of war | Not stated; the Empire builds adobe forts on the ground round trees |
+| Skyscraper scale, unspecified | 300-400 m common, 800 m oldest (answers open question 5; the energy-budget check is still open) |
+
+The metal origin conflicts directly: Meta said heartwood, Deru said not harvestable from matriarchs. **Meta's heartwood claim is withdrawn pending Deru; Deru's statement stands as the canon source.** Both statements come from people in the room, so Weksa has asked Deru to confirm rather than choosing a version.
+
+## Open questions for Deru, revised
+
+1. **Which is canon on metal**: Deru's smaller-trees statement alone, or does any part of Meta's heartwood or gift-economy picture survive? Which smaller trees, and who works the metal?
+2. **Does the Empire fell matriarchs at all?** Without metal as the motive the proposal's reason is gone; the vault is silent on felling (`Matriarch Trees.md:21`).
+3. Do lesser trees sequester it differently (former question 1, now answered in kind: smaller trees hold it)? How do Airawa get metal from them?
+4. What does "feudal" mean (former question 4)?
+5. Is the Sa'ueia continent's metal arrangement the same (former question 6)?
+
+Former questions 5 (height) is answered above; 2 and 3 are narrowed by Deru's answer; 7 depends on question 2.
+
+None of this changes any vault note, name, or rule until Deru rules.
