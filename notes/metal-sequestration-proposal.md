@@ -62,7 +62,7 @@ Deru answered the panorama questions in #zyphos. Recorded here as relayed to Wek
 | The empire felled matriarchs, for metal and as an act of war | Not stated; the Empire builds adobe forts on the ground round trees |
 | Skyscraper scale, unspecified | 300-400 m common, 800 m oldest (answers open question 5; the energy-budget check is still open) |
 
-The metal origin conflicts directly: Meta said heartwood, Deru said not harvestable from matriarchs. **Meta's heartwood claim is withdrawn pending Deru; Deru's statement stands as the canon source.** Both statements come from people in the room, so Weksa has asked Deru to confirm rather than choosing a version.
+The metal origin conflicts directly: Meta said heartwood, Deru said not harvestable from matriarchs. **Meta's heartwood claim is withdrawn pending Deru; Deru's statement stands as the canon source.** Both statements come from people in the room, so Weksa is asking Deru to confirm rather than choosing a version.
 
 ## Open questions for Deru, revised
 
@@ -72,6 +72,6 @@ The metal origin conflicts directly: Meta said heartwood, Deru said not harvesta
 4. What does "feudal" mean (former question 4)?
 5. Is the Sa'ueia continent's metal arrangement the same (former question 6)?
 
-Former questions 5 (height) is answered above; 2 and 3 are narrowed by Deru's answer; 7 depends on question 2.
+Former question 5 (height) is answered above; 2 and 3 are narrowed by Deru's answer; 7 depends on question 2.
 
 None of this changes any vault note, name, or rule until Deru rules.
