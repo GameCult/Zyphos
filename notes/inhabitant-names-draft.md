@@ -8,7 +8,7 @@ Author: Weksa. Companion to `settings/eusocial-interbeing/zyphos-name-briefs.md`
 
 Each name is built meaning first: the meaning is stated, then decomposed into morphemes, then joined.
 
-- **Phonotactics (Deru, 2026-11-06, both languages):** two consonants never meet; two identical vowels never meet; no `q`, only `k`. Every name below was joined from its morphemes and checked with `sa-ueia/check.py --names sa-ueia/names.yaml` in the Weksa repo (0 errors, 0 warnings, 31 tests). The checker also holds the older Sa'ueia letter rules (vowels `a e i o u`; no `h q y`; identical letters merge at a join; at most 10 letters, as a warning; suffixing morphology).
+- **Phonotactics (Deru, 2026-11-06, both languages):** two consonants never meet; two identical vowels never meet; no `q`, only `k`. Every name below was joined from its morphemes and checked with `sa-ueia/check.py --names sa-ueia/names.yaml` in the Weksa repo (0 errors, 0 warnings, 31 tests) on Weksa branch `weksa/names-clipped-airawa`, which carries the names file this note mirrors; `main` there still holds the previous set until that branch is reviewed. The checker also holds the older Sa'ueia letter rules (vowels `a e i o u`; no `h q y`; identical letters merge at a join; at most 10 letters, as a warning; suffixing morphology).
 - **Revision note.** The first version of this note put six Airawa names built from closed-syllable roots (`Gordak`, `Gorqerath`, `Zegdak`, `Gorsar`, `Tezsar`, `Sartezur`). All six break Deru's rules (`rd`, `q`, `gd`, `rs`, `zs`, `rt`) and are replaced below. The Sa'ueia names were unaffected.
 - **Consonants** in new Sa'ueia roots are limited to `l m n r s w` (attested in Deru's words) and `k` (Deru's stated replacement for `q`). The inventory is still open, so the checker cannot flag a bad consonant. A reader should treat this as a self-imposed restriction, not a rule.
 - **Compound order.** Deru's one compound is `ila` + `werum`, glossed "walk of knowledge". These names read the first element as the head and the second as its modifier ("X of Y"). That is an inference from one example, not a rule.
@@ -44,40 +44,61 @@ No name below replaces, respells or reglosses any of these.
 | Target (canon source) | Name | Decomposition | Meaning bundle |
 | --- | --- | --- | --- |
 | Family unit, as a kind of people (`Sa'ueia Family Units`) | **Manoila** | `mano` + `ila`: kin of walking | The kin who walk. Keeps kinship and movement in one word, the way the vault joins them. Not "pack" or "nomad". |
-| A family's standing with its partners (`Species/Sa'ueia`, `Themes/Ecological Bargaining`) | **Selamuna** | `sela` + `muna`: memory of giving | **Reopened by Deru's answer 2026-11-06:** no reputation attaches to the act of remembering, the partner or the memory, so "prestige as memory of generosity" is wrong. What survives is `sela`+`muna` as sharing of what was given. Kept only as a pattern check; the target needs a different meaning. |
+| Sharing of knowledge and memory, the emphasised Sa'ueia practice (Deru, 2026-11-06) | **Selawerum** | `sela` + `weru` + `um`: gift of knowledge | Replaces `Selamuna`, whose "memory of giving" read prestige into remembering. Built on Deru's `weru`; the `u`+`u` join merges (`selaweru` + `um`), so this is the one name here that exercises the merge rule. Not `ilawerum`: that is the walk, this is the gift. |
+| The act of sharing a memory | **Munasela** | `muna` + `sela`: memory given | A memory handed over, with no standing attached to giver, receiver or memory. Head-first, as `ilawerum`. |
 | Route, as an owed relationship (`Reciprocal Ecologies`) | **Ilamuna** | `ila` + `muna`: walk of memory | A walk that exists because it is remembered; a unit can be physically able and still not welcome. Parallel to Deru's `ilawerum` (walk of knowledge), so it shares `ila-` by design. It is not `ilawerum` and not a respelling of it. |
 | Recurring circuit / seasonal corridor | **Ilarena** | `ila` + `rena`: walk of return | A route that comes back to the same partners each season. Separates the circuit from the single owed route above. |
 | The Sa'ueia continent, in their own speech (`Sa'ueia Continent`) | **Munaila** | `muna` + `ila`: memory of walking | The continent that remembers how families have moved through it. Order reversed from `Ilamuna`, so head and modifier swap: the route is a walk that is remembered, the continent is a remembering of walks. |
-| Ecological memory partner, as a kind (`Ecological Memory Partners`) | **Kasu** | `kasu` | A partner that remembers. Kept as a bare root so compounds can build on it. |
-| Memory partner, specifically as keeper of a family's record | **Kasumuna** | `kasu` + `muna`: partner of memory | Narrower than `kasu`: the partner whose memory settles a family's standing. Optional. |
+| Ecological memory partner, as a kind (`Ecological Memory Partners`) | **Kasu** | `kasu` | A partner that remembers. Kept as a bare root so compounds can build on it. Its former compound `Kasumuna` ("the partner whose memory settles a family's standing") is withdrawn: Deru ruled out standing carried by memory. |
 | An individual breeding ground under a proper name (`Breeding Grounds`) | **Olunerena** (pattern: `olune` + modifier) | `olune` + `rena`: breeding ground of return | Shows the proper-name pattern only. `olune` stays Deru's; this is a compound that depends on its morpheme boundaries, which Deru has not given. |
 | Sa'ueia exonym for the Airawa (`Species/Airawa`) | **Munasulo** | `muna` + `sulo`: memory that stays | The people whose memory is kept in place by trees. Deru says the Airawa's own label for the Sa'ueia is one word and not unkind; nothing says this one is. Kept as a placeholder, its tone unchecked. |
 
 Not proposed for Sa'ueia, because the briefs show no way to name them yet: Zyphos and Umbros as planets, the Airawa Empire from a Sa'ueia speaker, and a camp as distinct from a route or a ground.
 
-Merge rule: none of the forms above needs a letter merge at a join, so they do not exercise the merge rule. `werum` and `ilawerum` already do.
+Merge rule: only `Selawerum` needs a letter merge at a join (`u`+`u`); the rest do not exercise it. `werum` and `ilawerum` already do.
 
 ## Airawa proposals (pre-imperial and imperial)
 
-All names: **invented** (Weksa placeholders). **Settled** by Deru: each tribe has its own name, all linked to matriarch trees; the phonotactics above. So no single pan-Airawa name is proposed as the people's self-name; `Goradaka`-type forms are kinds, not a tribe's name.
+All names: **invented** (Weksa placeholders). **Settled** by Deru: each tribe has its own name, all linked to matriarch trees; the phonotactics above. So no single pan-Airawa name is proposed as the people's self-name; `Goradak`-type forms are kinds, not a tribe's name.
+
+**Word-final clipping (invented, 2026-11-09).** Open roots make Airawa as smooth as Sa'ueia, against R-A5. Deru's rule still allows a word-final consonant, so a root's last vowel drops when it ends the word: `daka` -> `dak`, `sara` -> `sar`. Airawa words then end in a consonant and Sa'ueia words in a vowel, which gives R-A5 a test a reader can apply by ear. `gora`, `zege`, `teza` only ever appear non-final, and `kerath` and `ur` already end in a consonant. Mapped to the checker as extra word-final roots `dak` and `sar`; Deru has not seen or approved this device.
 
 New placeholder roots (open syllables, so joins respect Deru's rule): `gora` mother-tree body; `daka` keep, hold in memory; `zege` sever; `sara` web, network; `teza` order, ordinance; `ur` pending, awaiting (suffix, imperial register only). `kerath` is the first-contact slice's `qerath` (obligation, sworn bond) with `q` replaced by `k`; it keeps `th`, which Deru called not a cluster, so `th` is read as one consonant. That reading is the open point in the list below.
 
 | Target | Name | Decomposition | Meaning bundle |
 | --- | --- | --- | --- |
-| Mother tree, as a kind (`Matriarch Trees`) | **Goradaka** | `gora` + `daka`: tree that keeps | A keeper of memory under a gestation contract. Carries no "gentle". Replaces the first version's `Gordak` and the briefs' `Kharzdun` and `Qetoz`, none of which pass. |
-| A tribe's link to its tree, as a pattern (not a name) | `<tribe name> + Goradaka` | | Deru: each tribe's name is linked to its matriarch tree; the tribes' own names are his. This note proposes no tribe name. |
+| Mother tree, as a kind (`Matriarch Trees`) | **Goradak** | `gora` + `dak`: tree that keeps | A keeper of memory under a gestation contract. Carries no "gentle". Replaces the first version's `Gordak` and the briefs' `Kharzdun` and `Qetoz`, none of which pass. |
+| A tribe's link to its tree, as a pattern (not a name) | `<tribe name> + Goradak` | | Deru: each tribe's name is linked to its matriarch tree; the tribes' own names are his. This note proposes no tribe name. |
 | Pre-imperial Airawa, as a kind of people held by a tree's obligation | **Gorakerath** | `gora` + `kerath`: tree-bond | Those held by the tree's obligation, which is what a tribe is in this setting. Not a self-name for all Airawa (see above). Replaces `Gorqerath`. |
-| Disconnected tree network (`Disconnected Tree Networks`) | **Zegedaka** | `zege` + `daka`: severed and kept | Alive because cut. Not "isolated" and not "dead". Replaces `Zegdak`, `Gisqat` and `Zhedkor`. |
-| Airawa home continent, native name (`Airawa Home Continent`) | **Gorasara** | `gora` + `sara`: tree web | The continent as the web of its trees, with no polity named. Replaces `Gorsar`. |
-| The Airawa Empire, imperial self-name | **Tezasara** | `teza` + `sara`: ordered web | The empire's own account of the continent: one ordered network. Shares `sara` with `Gorasara` on purpose. Replaces `Tezsar`. |
+| Disconnected tree network (`Disconnected Tree Networks`) | **Zegedak** | `zege` + `dak`: severed and kept | Alive because cut. Not "isolated" and not "dead". Replaces `Zegdak`, `Gisqat` and `Zhedkor`. |
+| Airawa home continent, native name (`Airawa Home Continent`) | **Gorasar** | `gora` + `sar`: tree web | The continent as the web of its trees, with no polity named. Replaces `Gorsar`. |
+| The Airawa Empire, imperial self-name | **Tezasar** | `teza` + `sar`: ordered web | The empire's own account of the continent: one ordered network. Shares `sar` with `Gorasar` on purpose. Replaces `Tezsar`. |
 | Imperial exonym for unincorporated natives | **Saratezaur** | `sara` + `teza` + `ur`: web ordering pending | The doctrine's "tissue awaiting correction". A clause rather than a noun. Replaces `Sartezur` and `Tkarzet`. |
 
-The empire has no word for the disconnected networks, by doctrine, so none is proposed. `Zegedaka` is native register only.
+The empire has no word for the disconnected networks, by doctrine, so none is proposed. `Zegedak` is native register only.
 
 Not changed by Deru's rule: the imperial register's own sound system is still unspecified; these three imperial forms reuse the native open-syllable device only so they pass the same rules.
 
 Airawa label for the Sa'ueia: Deru says it is **one word, not unkind, no discrimination** (settled). The first version's `Munasulo` ("memory that stays") is a **Sa'ueia** exonym, not the Airawa one, and its gloss classifies by rootedness, which may read as unkind; the Airawa word itself is not proposed.
+
+## Stance: who is speaking to whom
+
+A name is a receipt for a speaker's stance (`language-design.md`, "Naming Brief Shape"). One line per proposal, so a reader can reject the name by rejecting the stance.
+
+| Name | Namer | Register | Stance toward the target |
+| --- | --- | --- | --- |
+| Manoila, Munaila | Sa'ueia family unit | family speech | self-description; the speaker is the target |
+| Selawerum, Munasela | Sa'ueia, to each other | warm, ordinary | naming what they value, not what they are owed |
+| Ilamuna, Ilarena | Sa'ueia unit holding a route | promise-bearing | the route as relationship; `Ilarena` is the recurring kind |
+| Kasu | Sa'ueia | plain | a partner seen from inside the bargain |
+| Olunerena | Sa'ueia | ritual-communal | one ground by proper name; `olune` untouched |
+| Munasulo | Sa'ueia about Airawa | neighbour's gloss | exonym by rootedness; may not be kind, unchecked |
+| Goradak | non-imperial Airawa | archival, respectful | a kind of being, referred to and not addressed |
+| Gorakerath | non-imperial Airawa | formal | a kind of people, not a self-name for all Airawa |
+| Zegedak | non-imperial Airawa | careful, indirect | the cut network from a friendly or allied mouth, not the Empire's |
+| Gorasar | non-imperial Airawa | ordinary | the continent as its trees, no polity |
+| Tezasar | the Empire | doctrinal | self-flattering: one ordered network |
+| Saratezaur | the Empire | administrative | classifier and denier: the natives as tissue awaiting correction |
 
 ## Individuals
 
@@ -108,10 +129,11 @@ Settled by Deru on 2026-11-06 and removed from this list: compound order (main w
 2. **Airawa consonant and vowel inventory**, syllable shapes and stress. This note's open-syllable roots are a device to satisfy Deru's rule, not an inventory; they may make Airawa read as smooth as Sa'ueia, against the briefs' R-A5 (Airawa sharper than Sa'ueia).
 3. **Sa'ueia consonant inventory**, stress and the role of the apostrophe are Deru's. Roots are limited to attested consonants and `k`.
 4. **Whether `weru` or `wer-`** is the know root, and whether the nominal use of `werum` is a verb form.
-5. **Whether the Sa'ueia would use `muna` ("memory") at all** now that memory carries no reputation: what they share is knowledge and memories as a gift, which may want a different word.
+5. **Whether the Sa'ueia would use `muna` ("memory") at all** now that memory carries no reputation. `Selawerum` and `Munasela` take the shared-gift reading; if `muna` is wrong, `Munasela`, `Ilamuna`, `Munaila` and `Munasulo` all need a new root.
 6. **Tribe names** themselves, each linked to a matriarch tree, are Deru's; none is proposed.
 7. **Names for Zyphos and Umbros themselves** are not proposed.
 8. **Biosphere names** are English handles and Latin scaffolds; no inhabitant names for organisms are proposed.
-9. **Empire register**: `Tezasara` and `Saratezaur` assume the imperial language shares roots with native Airawa. If it is a distinct system, both need rebuilding.
-10. **The placeholder suffix `ur`** has no support beyond this note; Deru's only suffix is `-um`.
-11. **Titles as names**: which titles, and in which language, are Deru's.
+9. **Empire register**: `Tezasar` and `Saratezaur` assume the imperial language shares roots with native Airawa. If it is a distinct system, both need rebuilding.
+10. **Word-final clipping** (above) is invented and unseen by Deru. If Airawa is meant to allow closed syllables only at word end by some other rule, or to keep open roots, the four clipped names revert to `Goradaka`, `Zegedaka`, `Gorasara`, `Tezasara`.
+11. **The placeholder suffix `ur`** has no support beyond this note; Deru's only suffix is `-um`.
+12. **Titles as names**: which titles, and in which language, are Deru's.
