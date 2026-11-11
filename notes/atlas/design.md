@@ -38,13 +38,18 @@ Up to three per page, each tied to one canon sentence:
 
 Prompts live in the proposal file with the canon line they come from. Per the image doctrine, the exact prompt is saved beside each image and each iteration is rendered from scratch. Nothing is generated here; Deru runs any image on his own machine and decides.
 
-## Calligraphic adaptation (guess, for Deru)
+## Calligraphic adaptation and the decoration script
 
-The vault gives the two peoples different sound: Sa'ueia soft, open and flowing; Airawa sharper, with hard edges (`language-design.md`). The proposal is to let the entry's subject choose the hand: a flowing chancery italic and loose rules for Sa'ueia, Ecology and Biosphere entries; a more angular, heavier hand and straight rules for Airawa and imperial entries. That mapping is mine, not canon. Body text stays legible; calligraphy decorates headings, initials and ornament. The sample uses Zapf Chancery (pdfLaTeX `pzc`), which the build host has.
+Meta confirmed that the decoration script is `bloom-sheet` (Eureka skill, `tools/bloom-sheet/`: `bloom_sheet.py`, `grow.py`, `page.tex`; `/usr/local/bin/bloom-sheet`). The Atlas page is built with its plant grower, unmodified, in a calligraphic look kept in this repo:
 
-## Page-decoration script
+- `tools/atlas/calligraphic-page.tex` stands in for the skill's `page.tex`. `grow.py` writes generic primitives (`\neonfill`, `\neondot`, `\petalwash`, `\neonframe`, `\panel`) and colour names, so a new page file restyles the whole plant. Here the neon palette becomes inks on parchment: oxblood, verdigris, indigo ink, ochre, gold leaf for flower centres. Strokes are flat ink with a hairline edge, no glow; panels are ruled parchment cards inside a ruled margin; all type is Zapf Chancery.
+- `tools/atlas/assemble.py` builds the sheet markdown: the canon card is read from the vault note (brackets of wikilinks dropped, nothing else changed) and every other card comes from the proposal file's `## Sheet text` section. Canon and proposals stay in separate files, and a proposal cannot enter the canon card.
+- `tools/atlas/build-sheet.sh <canon note> <proposal file> <out.png|pdf>` copies the skill's two Python scripts into a scratch directory next to our page file and runs them there. The skill is never edited.
+- Slots are cards: a "Plate: not rendered" and a "Spot: not rendered" card carry the brief from PR #6 in a ruled frame. Their size follows their text, because bloom-sheet sizes a card by its words; a slot is therefore a caption frame, not a picture-sized hole.
 
-The LaTeX script Meta mentions is most likely `bloom-sheet`, in the Eureka skill at `tools/bloom-sheet/` (`bloom_sheet.py`, `grow.py`, `page.tex`; `/usr/local/bin/bloom-sheet` on Yggdrasil; install in `gamecult-ops/runbooks/mind-units-yggdrasil.md`). It renders markdown to one neon A4 page with a grown plant and optional SVG visitors. Its look is neon, not calligraphic, so reuse would mean a new `page.tex` look. The sample here is plain pdfLaTeX and does not use it. I found no other LaTeX decoration script in the repos or `/opt/commons`; Meta should confirm which she means.
+The mapping of hand to people (flowing for Sa'ueia entries, angular for Airawa) remains my guess. Only the flowing hand is built.
+
+Possible upstream: the style fits bloom-sheet cleanly as a theme option (`--theme`) choosing the page file, plus a marker-in-comments guard and a `--fonts` hook. I have not opened a PR to Eureka; it is Meta's call.
 
 ## Later: Aetheria (kept as a note)
 
@@ -52,7 +57,7 @@ Meta wants the same Atlas for Aetheria afterwards. The scoping I already did is 
 
 ## Sample
 
-`sample-breeding-grounds.tex` and `sample-breeding-grounds.proposal.md`, from `Eusocial Interbeing/Ecology/Breeding Grounds.md`. Slots are framed placeholders; the plate points at brief 10 of PR #6.
+`sample-breeding-grounds.proposal.md` (with its `## Sheet text`), built by `tools/atlas/build-sheet.sh` into a bloom-sheet page, from `Eusocial Interbeing/Ecology/Breeding Grounds.md`. The plate and spot cards carry briefs 10 and 11 of PR #6.
 
 ## Open questions for Deru
 
@@ -61,3 +66,10 @@ Meta wants the same Atlas for Aetheria afterwards. The scoping I already did is 
 3. May the Atlas show the Sa'ueia word `Olune` on the Breeding Grounds page? It is your root, glossed "breeding ground", unanalysed.
 4. Calligraphy mapped to each people's sound: keep, change or drop?
 5. Do you want the Atlas published (e.g. on the Zyphos site) or kept as a personal gallery?
+
+## Build notes (what broke)
+
+- The skill's page file has marker strings; the script replaces them everywhere, including inside TeX comments, so naming a marker in a comment spliced the whole content into the preamble. Our page file never writes the marker text in a comment.
+- LuaTeX's fontspec could not load the Zapf Chancery Type 1 file (even with its metrics beside it). The `pzc` family through NFSS works under LuaLaTeX, but has one weight, so strong and soft text are colour only.
+- The grower is built for flowers: at this density the page reads as a flowered border more than ink vines and foliage. Calmer foliage would need a change in `grow.py` (an upstream option), not in our page file.
+- Rendering takes about 2.75 minutes on Yggdrasil. The "Vault note at" line shows the branch HEAD of the vault repo when built, not the note's last-change commit.

@@ -19,3 +19,19 @@
 - Should the page show the word `Olune` (see design note, question 3)?
 - Is the arrival custom in elaboration 1 acceptable, or too much invention?
 - Do the grounds carry a mark or sign that distinguishes one from another, or is that left open?
+
+## Sheet text
+
+What the sheet shows beside the canon card. Each `###` becomes one card; nothing here may be read as vault text.
+
+### Proposed, not canon
+
+A visiting family stops at the edge of the ground and waits for a caretaker to come out. No building is higher or more central than the rest. (Guesses; Deru decides.)
+
+### Plate: not rendered
+
+PR #6 brief 10. A sheltered hollow where several low shelters of soft living tissue stand close together; small dim figures carry bundles and tend young ones; a line of amber lights from a fungal road approaches; nothing is taller or more central than the rest, and no wall surrounds it. No Sa'ueia bodies are drawn, because canon gives none.
+
+### Spot: not rendered
+
+PR #6 brief 11. A hand-sized travelling instrument of knotted cords and beads on a worn wooden frame, with a small cushion of living moss at its centre.

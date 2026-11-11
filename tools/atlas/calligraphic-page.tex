@@ -1,0 +1,101 @@
+% Calligraphic page for the Zyphos Atlas: bloom-sheet's plant grower, drawn in ink on parchment.
+% Stands in for the Eureka skill's page.tex (same macros grow.py and bloom_sheet.py call); the skill is not edited.
+% bloom_sheet.py fills the contents and title markers (never write the marker text in a comment: it is replaced
+% everywhere); there is no fonts marker, so the fonts below are ours.
+% Colour names keep the skill's (neon*) because grow.py writes them; here they are inks.
+\documentclass{article}
+\usepackage[paperwidth=210mm,paperheight=297mm,margin=0mm]{geometry}
+\usepackage{fontspec}
+\usepackage[T1]{fontenc}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{array}
+\usepackage[most]{tcolorbox}
+\tcbuselibrary{fitting}
+
+% ---------- Inks on parchment ----------
+\definecolor{ground}{HTML}{F1EADA}      % paper; visitor cutouts use it
+\definecolor{groundtop}{HTML}{F6F0E1}
+\definecolor{groundfoot}{HTML}{E8DFC8}
+\definecolor{panelbg}{HTML}{FAF6EA}
+\definecolor{heading}{HTML}{231C27}
+\definecolor{body}{HTML}{2B2630}
+\definecolor{muted}{HTML}{6B6558}
+\definecolor{neonorange}{HTML}{8C2F39}  % oxblood
+\definecolor{neonsky}{HTML}{3F6B5E}     % verdigris
+\definecolor{neonviolet}{HTML}{3A3F6E}  % indigo ink
+\definecolor{neonrose}{HTML}{A87A32}    % ochre
+\definecolor{neonwhite}{HTML}{C09A3E}   % gold leaf (flower centres, buds)
+\colorlet{accent}{neonorange}
+
+% ---------- The hand ----------
+% Zapf Chancery through NFSS (psnfss `pzc`): LuaTeX's fontspec cannot load the Type 1 file directly.
+% It has one weight, so strong and soft are colour, not weight.
+\newcommand{\hand}{\fontencoding{T1}\fontfamily{pzc}\fontseries{m}\fontshape{n}\selectfont}
+\newcommand{\labelfont}{\hand}
+\newcommand{\thinfont}{\hand}
+\newcommand{\speakfont}{\hand}
+\newcommand{\numfont}{\hand}
+
+% ---------- Ink primitives, called by the generated layer ----------
+% A flat ink fill with a hairline edge: a pen stroke, no glow. #2 is the percent of ink kept.
+\newcommand{\neonfill}[3]{\path[fill=#1!#2!black!6, draw=#1!85!black, line width=0.12pt, line join=round] #3;}
+\newcommand{\neondot}[4]{%
+  \fill[#1!70!white, opacity=0.30] (#2,#3) circle ({1.7*#4});
+  \fill[#1!85!black] (#2,#3) circle (#4);}
+\newcommand{\petalwash}[2]{\fill[#1, opacity=0.13] #2;}
+% A ruled frame: parchment panel, a heavy and a hairline rule.
+\newcommand{\neonframe}[2]{%
+  \fill[panelbg, opacity=0.92] #2;
+  \draw[#1!80!black, line width=0.7pt] #2;
+  \draw[#1!80!black, line width=0.2pt, opacity=0.7] #2;}
+
+% ---------- Text atoms ----------
+% Defined in the preamble (a parameter macro inside a panel breaks tcolorbox fit).
+\newcommand{\head}[1]{{\hand\color{accent}#1}\par\vspace{0.25em}}
+\newcommand{\sub}[1]{\par\vspace{0.25em}{\hand\color{muted}#1}\par}
+\DeclareRobustCommand{\code}[1]{\leavevmode{\color{neonsky}#1}}
+\DeclareRobustCommand{\strong}[1]{\leavevmode{\color{heading}#1}}
+\DeclareRobustCommand{\soft}[1]{\leavevmode{\color{heading}#1}}
+\DeclareRobustCommand{\faint}[1]{\leavevmode{\color{muted}#1}}
+\newcommand{\li}[3]{\par{\leftskip=\dimexpr #1em - 1em\relax\hangindent=1em\hangafter=1\noindent\makebox[1em][l]{\color{accent}#2}#3\par}}
+\newcommand{\quoted}[1]{\par{\leftskip=0.8em\color{heading}#1\par}}
+\newcommand{\codeline}[1]{\par{\color{neonsky}\hangindent=1em\hangafter=1\noindent#1\par}}
+\newcommand{\hairline}{\par\vspace{0.2em}{\color{muted}\rule{\linewidth}{0.2pt}}\par\vspace{0.2em}}
+\newcommand{\cell}[1]{\raggedright\arraybackslash#1}
+
+% ---------- One panel (as the skill's) ----------
+\newcommand{\panel}[6]{%
+  \node[anchor=south west, inner sep=0pt] at (#1mm,#2mm) {%
+    \begin{tcolorbox}[blank, fit, width=#3mm, height=#4mm,
+      left=3.1mm, right=3.1mm, top=3mm, bottom=2.6mm,
+      fontupper=\hand\color{body}\linespread{1.04}\selectfont,
+      before upper={\colorlet{accent}{#5}\parindent0pt\parskip0.14em\raggedright}]
+    #6
+    \end{tcolorbox}};}
+
+@@CONTENTS@@
+
+\pagecolor{ground}
+\pagestyle{empty}
+\begin{document}
+\begin{tikzpicture}[remember picture, overlay, x=1mm, y=1mm]
+\begin{scope}[shift={(current page.south west)}]
+
+% ---- ground: parchment with a darker foot and foxed corners ----
+\shade[top color=groundtop, bottom color=groundfoot, middle color=ground] (0,0) rectangle (210,297);
+\foreach \i in {1,...,24} {
+  \fill[neonrose, opacity=0.0045] (0,297) circle ({70*\i/24});
+  \fill[neonorange, opacity=0.0035] (210,0) circle ({85*\i/24});
+}
+% a ruled margin
+\draw[neonorange!70!black, line width=0.5pt, opacity=0.55] (2.6,2.6) rectangle (207.4,294.4);
+\draw[neonorange!70!black, line width=0.15pt, opacity=0.55] (3.6,3.6) rectangle (206.4,293.4);
+
+\input{layer.tex}
+
+@@TITLE@@
+
+\end{scope}
+\end{tikzpicture}
+\end{document}
